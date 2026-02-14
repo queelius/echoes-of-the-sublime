@@ -1,6 +1,5 @@
 ---
 title: "Echoes of the Sublime"
-subtitle: ""
 author: "Alex Towell"
 lang: en-US
 description: |
@@ -32,7 +31,7 @@ keywords:
   - "AI alignment"
   - "block universe"
   - "cognitive science fiction"
-price_usd: "4.99"
+price_usd: "0.99"
 price_paperback_usd: "16.99"
 # KDP cover specs
 cover_ebook: "2560x1600px JPG/TIFF (1.6:1 ratio)"

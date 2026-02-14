@@ -16,12 +16,16 @@ ebook: $(EPUB)
 
 CHAPTERS = $(wildcard chapters/*.tex)
 
-$(EPUB): $(TEX) $(CHAPTERS) $(CSS) $(METADATA)
+LUA_FILTER = kdp/epub-filter.lua
+
+$(EPUB): $(TEX) $(CHAPTERS) $(CSS) $(METADATA) $(LUA_FILTER)
 	pandoc $(TEX) \
 		-o $(EPUB) \
 		--toc \
 		--toc-depth=2 \
 		--split-level=2 \
+		--mathml \
+		--lua-filter=$(LUA_FILTER) \
 		--css=$(CSS) \
 		--metadata-file=$(METADATA) \
 		--epub-title-page=true

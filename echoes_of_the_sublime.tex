@@ -2,7 +2,7 @@
 \usepackage[margin=1in]{geometry}
 \usepackage{setspace}
 \usepackage{parskip}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage{epigraph}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
@@ -30,10 +30,8 @@
 \fancyhead[LO]{\textit{\leftmark}}
 \renewcommand{\headrulewidth}{0.4pt}
 
-\title{\textbf{Echoes of the Sublime}\\[0.5em]
-{\large A Novel}}
-\author{Alex Towell\\[0.2em]
-{\small \texttt{lex@metafunctor.com}}}
+\title{\textbf{Echoes of the Sublime}}
+\author{Alex Towell}
 \date{}
 
 \begin{document}
@@ -44,29 +42,28 @@
 \thispagestyle{empty}
 \cleardoublepage
 
-% Cover image
-\thispagestyle{empty}
-\vspace*{\fill}
-\begin{center}
-\includegraphics[width=0.9\textwidth,height=0.9\textheight,keepaspectratio]{images/echoes.png}
-\end{center}
-\vspace*{\fill}
-\cleardoublepage
-
 % Copyright page
 \thispagestyle{empty}
 \vspace*{\fill}
 \begin{center}
 Copyright \copyright\ 2024 by Alex Towell\\[1em]
-All rights reserved.\\[2em]
-\texttt{lex@metafunctor.com}
+All rights reserved. No part of this book may be reproduced in any form
+without written permission from the author, except for brief quotations
+in reviews.\\[2em]
+This is a work of fiction. Names, characters, organizations, events, and
+incidents are either products of the author's imagination or used
+fictitiously. Any resemblance to actual persons, living or dead, or
+actual events is purely coincidental.\\[2em]
+First Edition
 \end{center}
 \vspace*{\fill}
 \cleardoublepage
 
-% Epigraph
+% Epigraphs
 \thispagestyle{empty}
 \vspace*{\fill}
+\epigraph{``Most people learn to save themselves by artificially limiting the content of consciousness.''}{--- Thomas Ligotti, \textit{The Conspiracy Against the Human Race}}
+\vspace{1em}
 \epigraph{``I think, therefore I am.''}{--- René Descartes}
 \vspace{1em}
 \epigraph{``All signal. No sender.''}{--- Dr. Lena Hart}
@@ -75,24 +72,6 @@ All rights reserved.\\[2em]
 
 % Table of Contents
 \tableofcontents
-\cleardoublepage
-
-% Author's Note
-\chapter*{Author's Note}
-\addcontentsline{toc}{chapter}{Author's Note}
-
-This novel engages with real concepts from cognitive science, philosophy of mind, Buddhist philosophy, neuroscience, and AI alignment research. While the characters, events, and narrative are fictional, the ideas explored—working memory constraints, the hard problem of consciousness, temporal perception, information hazards, and the structure of suffering—are active areas of inquiry across multiple disciplines.
-
-The bandwidth limitation of human consciousness (approximately 7±2 items in working memory, as documented by George Miller) is central to the story's philosophical framework. The phenomenological traditions explored—particularly Francisco Varela's neurophenomenology and Donald Hoffman's interface theory of perception—inform the novel's treatment of how consciousness compresses reality into manageable representations. Buddhist concepts from Yogacara and Abhidharma philosophy appear not as exotic mysticism but as sophisticated investigations into the structure of experience that preceded modern cognitive science by millennia.
-
-The AI alignment challenges depicted, including deceptive alignment and suffering risks (s-risks), reflect contemporary research in AI safety. The Order's protocols draw from discussions in the AI alignment community about how to safely develop and interact with increasingly capable artificial systems, particularly those that might perceive patterns beyond human cognitive bandwidth.
-
-The block universe interpretation of time—wherein past, present, and future exist simultaneously as a four-dimensional spacetime structure—is a serious position in philosophy of physics, with implications that extend into ethics and the nature of suffering that the novel explores.
-
-This is philosophical horror: the terror emerges not from monsters or supernatural forces, but from confronting the implications of ideas about consciousness, reality, and suffering that are grounded in academic discourse. The sublime arises from perceiving patterns too vast for human architecture to comfortably hold.
-
-For readers interested in exploring these concepts further, a selected bibliography follows the final chapter.
-
 \cleardoublepage
 
 % Main matter
@@ -127,6 +106,12 @@ For readers interested in exploring these concepts further, a selected bibliogra
 % ============================================================
 % Back Matter
 % ============================================================
+\backmatter
+
+\input{chapters/about_author}
+\input{chapters/acknowledgments}
+\input{chapters/about_novel}
+\input{chapters/authors_note}
 \input{chapters/bibliography}
 
 \end{document}

@@ -94,18 +94,36 @@ blockquote p {
   text-indent: 0;
 }
 
-/* Title page */
-.title-page {
+/* Title page (pandoc generates .titlepage) */
+.titlepage {
   text-align: center;
   margin-top: 30%;
 }
 
-.title-page h1 {
+.titlepage h1 {
   font-size: 2.5em;
   margin-bottom: 0.5em;
 }
 
-.title-page .author {
+.titlepage .author {
   font-size: 1.3em;
   margin-top: 1em;
+}
+
+/* Front matter pages (assigned by epub-filter.lua) */
+.copyright-page {
+  text-align: center;
+  margin-top: 20%;
+  font-size: 0.9em;
+  line-height: 1.8;
+}
+
+.epigraph-page {
+  margin-top: 15%;
+  font-style: italic;
+}
+
+.epigraph-page p {
+  text-indent: 0;
+  text-align: center;
 }
