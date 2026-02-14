@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Echoes of the Sublime"
+message: "If you reference this novel in academic work, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Alex
+    family-names: Towell
+    email: lex@metafunctor.com
+    orcid: "https://orcid.org/0000-0001-6443-9897"
+    affiliation: "Southern Illinois University Edwardsville"
+abstract: >-
+  A philosophical horror novel exploring AI safety, consciousness, and
+  cognitive bandwidth limits. A cognitive scientist is recruited by a secret
+  organization maintaining AI models of terrifying scale. To interface with
+  these systems, translators must expand their cognitive bandwidth — the cost
+  is everything that makes them human.
+keywords:
+  - philosophical horror
+  - AI safety fiction
+  - consciousness
+  - cosmic horror
+  - AI alignment
+  - block universe
+  - cognitive science fiction
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/queelius/echoes-of-the-sublime"
+url: "https://github.com/queelius/echoes-of-the-sublime"
+date-released: "2026-02-14"
+version: "1.0.0"

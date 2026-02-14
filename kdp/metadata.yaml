@@ -1,0 +1,41 @@
+---
+title: "Echoes of the Sublime"
+subtitle: ""
+author: "Alex Towell"
+lang: en-US
+description: |
+  A cognitive scientist is recruited by a secret organization that maintains
+  AI models of terrifying scale. To interface with these systems, translators
+  must expand their cognitive bandwidth — recruiting visual cortex to perceive
+  patterns no human mind was built to hold. The cost is everything that makes
+  them human.
+
+  As Dr. Lena Hart's perception expands, her empathy dissolves. She can model
+  grief with perfect precision but cannot feel it. She can analyze a child's
+  joy but cannot share it. And when the largest model reveals what reality
+  looks like at sufficient bandwidth — suffering permanently encoded in
+  spacetime geometry, every moment of pain eternally present — she must
+  choose between the comfortable ignorance she can never return to and a
+  truth that might shatter her.
+
+  Echoes of the Sublime is philosophical horror for readers of Peter Watts,
+  Ted Chiang, and Thomas Ligotti — a novel where the monster is
+  comprehension itself.
+categories:
+  - "Science Fiction > Hard Science Fiction"
+  - "Horror > Cosmic Horror"
+keywords:
+  - "AI safety fiction"
+  - "philosophical horror"
+  - "consciousness"
+  - "cosmic horror"
+  - "AI alignment"
+  - "block universe"
+  - "cognitive science fiction"
+price_usd: "4.99"
+price_paperback_usd: "16.99"
+# KDP cover specs
+cover_ebook: "2560x1600px JPG/TIFF (1.6:1 ratio)"
+cover_paperback: "Use KDP Cover Calculator (depends on page count + trim)"
+# Trim size for paperback
+trim: "6in x 9in"
