@@ -7,7 +7,10 @@ EPUB = echoes_of_the_sublime.epub
 METADATA = kdp/metadata.yaml
 CSS = kdp/kindle.css
 
-.PHONY: all ebook paperback clean
+TEX2ANY = tex2any
+HTML_DIR = docs
+
+.PHONY: all ebook paperback html clean clean-aux help
 
 all: ebook paperback
 
@@ -44,10 +47,21 @@ $(PDF): $(TEX) $(CHAPTERS) references.bib
 	pdflatex -interaction=nonstopmode $(TEX)
 	@echo "PDF built: $(PDF)"
 
+# --- HTML (GitHub Pages via tex2any) ---
+html: $(TEX) $(CHAPTERS)
+	@rm -rf $(HTML_DIR)
+	$(TEX2ANY) $(TEX) -f html -o $(HTML_DIR) --theme clean
+	@echo "HTML generated at $(HTML_DIR)/index.html"
+
 # --- Utilities ---
-clean:
+clean-aux:
 	rm -f *.aux *.bbl *.blg *.log *.out *.toc *.latexml.log
+	rm -f chapters/*.aux
+
+clean: clean-aux
+	rm -f $(PDF)
 	rm -f $(EPUB)
+	rm -rf $(HTML_DIR)
 	@echo "Cleaned build artifacts"
 
 # Word count
@@ -59,3 +73,16 @@ wordcount:
 check:
 	pdflatex -interaction=nonstopmode $(TEX)
 	@echo "Quick compile done (run 'make paperback' for full build)"
+
+# Help target
+help:
+	@echo "Available targets:"
+	@echo "  make all        - Build PDF + EPUB (default)"
+	@echo "  make paperback  - Build PDF (three-pass with bibliography)"
+	@echo "  make ebook      - Build EPUB for Kindle/KDP"
+	@echo "  make html       - Build HTML using tex2any"
+	@echo "  make wordcount  - Count words (requires detex)"
+	@echo "  make check      - Quick single-pass compile"
+	@echo "  make clean      - Remove all generated files"
+	@echo "  make clean-aux  - Remove only auxiliary files"
+	@echo "  make help       - Show this help message"

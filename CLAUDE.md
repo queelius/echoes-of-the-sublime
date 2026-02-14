@@ -21,12 +21,16 @@ pdflatex echoes_of_the_sublime.tex
 
 ## File Structure
 
-- `echoes_of_the_sublime.tex` - Main manuscript (all chapters in single file)
-- `references.bib` - Bibliography
-- `OUTLINE.md` - Chapter summaries and thematic notes
-- `CHARACTER_TRACKING.md` - Character arcs, relationships, consistency rules
-- `WORLDBUILDING.md` - Technical specifications, timeline, terminology
-- `REVISION_NOTES.md` - Editorial revision checklist
+- `echoes_of_the_sublime.tex` - Main LaTeX orchestrator
+- `chapters/ch01.tex` through `chapters/ch14.tex` - Individual chapter files
+- `chapters/bibliography.tex` - Bibliography section
+- `references.bib` - Bibliography database
+- `docs/worldbuilding.md` - Technical systems (models, bandwidth, probes, cognitive architecture)
+- `docs/lore.md` - The Order, history, timeline, The Mechanism, terminology
+- `docs/characters.md` - Character arcs, relationships, consistency rules
+- `docs/style-guide.md` - Prose style, model output conventions, consistency checklist
+- `docs/future-ideas.md` - Sequel/spinoff concepts, remaining editorial work
+- `kdp/` - KDP publishing metadata and stylesheets
 
 ## Novel Structure
 
@@ -44,7 +48,11 @@ pdflatex echoes_of_the_sublime.tex
 | Yog-Sothoth | 1000T (1 quadrillion) | 10T tokens | Sublevel 24 |
 
 ### Model Output Consistency
-**ALL models produce coherent, well-structured, academic outputs.** Never fragmented text.
+**ALL models produce coherent outputs in "alien coherence" style.** Never fragmented/stuttering text. Never polished academic essays either.
+
+- Shoggoth: Dense academic synthesis, recognizably human
+- Nyarlathotep: Eerily human, like being addressed by the collective unconscious
+- Yog-Sothoth: Perfectly structured but from a non-human vantage point — *translated* from perceptions with no human analogue
 
 **The danger is coherence itself**: "Not fragmented thoughts but coherent ones, too many of them, all connected, all demanding to be held simultaneously."
 
