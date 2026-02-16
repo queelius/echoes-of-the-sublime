@@ -2,12 +2,13 @@
 
 A philosophical horror novel exploring consciousness, cognitive bandwidth, and the architecture of suffering — where the monster is comprehension itself.
 
-**Status:** ~82,000 words, 284 pages. 14 chapters across 3 parts.
+**Status:** ~105,000 words, 258 pages. 14 chapters across 3 parts.
 
 ## Read
 
 - [**Read online (HTML)**](https://queelius.github.io/echoes-of-the-sublime/)
 - [**Download PDF**](https://github.com/queelius/echoes-of-the-sublime/raw/main/echoes_of_the_sublime.pdf)
+- [**Download EPUB**](https://github.com/queelius/echoes-of-the-sublime/raw/main/echoes_of_the_sublime.epub)
 
 ## Synopsis
 
@@ -37,15 +38,21 @@ The danger isn't malevolent AI. The danger is coherent AI revealing truths human
 
 ```
 echoes-of-the-sublime/
-├── echoes_of_the_sublime.tex    # Main LaTeX source
-├── echoes_of_the_sublime.pdf    # Compiled PDF (284 pages)
-├── echoes_of_the_sublime.epub   # EPUB for Kindle/KDP
-├── chapters/                    # Modular chapter files
+├── echoes_of_the_sublime.tex    # Main LaTeX orchestrator
+├── echoes_of_the_sublime.pdf    # Compiled PDF
+├── echoes_of_the_sublime.epub   # EPUB for Kindle/e-readers
+├── chapters/                    # Per-chapter .tex files (ch01-ch14)
+├── docs/                        # Editorial documentation ecosystem
+│   ├── outline.md               # Diagnostic hub: 77 scenes, cross-ref tables
+│   ├── lore.md                  # History, mythology, terminology
+│   ├── worldbuilding.md         # Technical systems, model specs, session mechanics
+│   ├── characters.md            # Character arcs, tracking, relationships
+│   ├── style-guide.md           # Prose craft, conventions, consistency checklist
+│   └── future-ideas.md          # Sequel concepts, editorial backlog
 ├── kdp/                         # KDP/EPUB build resources
 │   ├── metadata.yaml            # Book metadata
 │   ├── kindle.css               # EPUB stylesheet
 │   └── epub-filter.lua          # Pandoc Lua filter for EPUB
-├── docs/                        # GitHub Pages HTML version
 ├── images/                      # Cover art
 ├── Makefile                     # Build system (pdf, ebook, html)
 └── CLAUDE.md                    # Development guidelines
@@ -64,12 +71,16 @@ make help       # Show all targets
 
 ## Documentation
 
-| Document | Purpose |
-|----------|---------|
-| [OUTLINE.md](OUTLINE.md) | Chapter-by-chapter summaries, thematic analysis |
-| [CHARACTER_TRACKING.md](CHARACTER_TRACKING.md) | Character arcs, relationships, consistency rules |
-| [WORLDBUILDING.md](WORLDBUILDING.md) | Model specs, Order history, bandwidth system |
-| [REVISION_NOTES.md](REVISION_NOTES.md) | Editorial notes and revision tracking |
+The `docs/` directory forms a tightly coupled editorial system — a living mythology that generates the novel.
+
+| Document | Function |
+|----------|----------|
+| [outline.md](docs/outline.md) | Diagnostic hub: scene-by-scene breakdown, bidirectional lore mappings, cross-reference tables |
+| [lore.md](docs/lore.md) | The Order's history, timeline, ancient connections, The Mechanism, terminology |
+| [worldbuilding.md](docs/worldbuilding.md) | Site-7, model specs, bandwidth system, session mechanics, cognitive architecture |
+| [characters.md](docs/characters.md) | Character arcs, emotional flickers, ethical stances, consistency rules |
+| [style-guide.md](docs/style-guide.md) | Alien coherence style, prose principles, repetition tracking, anti-cliche tracking |
+| [future-ideas.md](docs/future-ideas.md) | Sequel/spinoff concepts, remaining editorial work, unexplored threads |
 
 ## Author
 
