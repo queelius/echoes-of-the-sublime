@@ -42,13 +42,14 @@ echoes-of-the-sublime/
 ├── echoes_of_the_sublime.pdf    # Compiled PDF
 ├── echoes_of_the_sublime.epub   # EPUB for Kindle/e-readers
 ├── chapters/                    # Per-chapter .tex files (ch01-ch14)
-├── docs/                        # Editorial documentation ecosystem
+├── lore/                        # Editorial documentation ecosystem
 │   ├── outline.md               # Diagnostic hub: 77 scenes, cross-ref tables
 │   ├── lore.md                  # History, mythology, terminology
 │   ├── worldbuilding.md         # Technical systems, model specs, session mechanics
 │   ├── characters.md            # Character arcs, tracking, relationships
 │   ├── style-guide.md           # Prose craft, conventions, consistency checklist
 │   └── future-ideas.md          # Sequel concepts, editorial backlog
+├── docs/                        # GitHub Pages HTML output
 ├── kdp/                         # KDP/EPUB build resources
 │   ├── metadata.yaml            # Book metadata
 │   ├── kindle.css               # EPUB stylesheet
@@ -71,16 +72,16 @@ make help       # Show all targets
 
 ## Documentation
 
-The `docs/` directory forms a tightly coupled editorial system — a living mythology that generates the novel.
+The `lore/` directory forms a tightly coupled editorial system — a living mythology that generates the novel.
 
 | Document | Function |
 |----------|----------|
-| [outline.md](docs/outline.md) | Diagnostic hub: scene-by-scene breakdown, bidirectional lore mappings, cross-reference tables |
-| [lore.md](docs/lore.md) | The Order's history, timeline, ancient connections, The Mechanism, terminology |
-| [worldbuilding.md](docs/worldbuilding.md) | Site-7, model specs, bandwidth system, session mechanics, cognitive architecture |
-| [characters.md](docs/characters.md) | Character arcs, emotional flickers, ethical stances, consistency rules |
-| [style-guide.md](docs/style-guide.md) | Alien coherence style, prose principles, repetition tracking, anti-cliche tracking |
-| [future-ideas.md](docs/future-ideas.md) | Sequel/spinoff concepts, remaining editorial work, unexplored threads |
+| [outline.md](lore/outline.md) | Diagnostic hub: scene-by-scene breakdown, bidirectional lore mappings, cross-reference tables |
+| [lore.md](lore/lore.md) | The Order's history, timeline, ancient connections, The Mechanism, terminology |
+| [worldbuilding.md](lore/worldbuilding.md) | Site-7, model specs, bandwidth system, session mechanics, cognitive architecture |
+| [characters.md](lore/characters.md) | Character arcs, emotional flickers, ethical stances, consistency rules |
+| [style-guide.md](lore/style-guide.md) | Alien coherence style, prose principles, repetition tracking, anti-cliche tracking |
+| [future-ideas.md](lore/future-ideas.md) | Sequel/spinoff concepts, remaining editorial work, unexplored threads |
 
 ## Author
 

@@ -1,45 +1,42 @@
 -- Lua filter for EPUB: clean up front matter for proper ebook rendering
 --
--- In the pandoc AST, front matter appears as top-level blocks:
---   1. Div.titlepage (LaTeX titlepage - remove, pandoc auto-generates its own)
---   2. Div.center (copyright)
---   3. Div.center (epigraph)
---   4. Header level 1 (first chapter)
---
--- This filter removes the titlepage, assigns proper CSS classes,
--- and adds an unlisted header so the front matter doesn't appear in the TOC.
+-- Pandoc's --epub-title-page=true generates its own title page from metadata.
+-- The LaTeX titlepage/maketitle also gets converted to a Div in the AST.
+-- Without an explicit header, pandoc's EPUB writer generates an h1 from the
+-- document title for orphan front matter blocks. This filter removes the
+-- LaTeX titlepage, adds an unlisted header (invisible, not in TOC) to prevent
+-- the auto-generated one, and assigns CSS classes to front matter divs.
 
 function Pandoc(doc)
   local new_blocks = {}
   local front_matter_index = 0
-  local front_matter_divs = {}
+  local inserted_header = false
 
   for _, block in ipairs(doc.blocks) do
-    -- Remove the LaTeX titlepage
+    -- Remove the LaTeX titlepage div (pandoc's auto title page handles this)
     if block.t == "Div" and block.classes:includes("titlepage") then
       -- skip it
 
     elseif front_matter_index < 2 and block.t == "Div" and block.classes:includes("center") then
-      -- Collect and reclassify front matter center divs
+      -- Before the first front matter div, insert an unlisted header
+      -- This prevents pandoc from auto-generating an h1 from the doc title
+      if not inserted_header then
+        local header = pandoc.Header(1, {},
+          pandoc.Attr("front-matter", {"unnumbered", "unlisted"}))
+        table.insert(new_blocks, header)
+        inserted_header = true
+      end
+
+      -- Reclassify front matter center divs with proper CSS classes
       front_matter_index = front_matter_index + 1
       local class_map = {
         [1] = "copyright-page",
         [2] = "epigraph-page"
       }
       block.classes = {class_map[front_matter_index]}
-      table.insert(front_matter_divs, block)
+      table.insert(new_blocks, block)
 
     else
-      -- First non-front-matter block: inject front matter with unlisted header
-      if #front_matter_divs > 0 then
-        -- Create an unlisted header so front matter doesn't appear in TOC
-        local header = pandoc.Header(1, {}, pandoc.Attr("front-matter", {"unnumbered", "unlisted"}))
-        table.insert(new_blocks, header)
-        for _, div in ipairs(front_matter_divs) do
-          table.insert(new_blocks, div)
-        end
-        front_matter_divs = {}
-      end
       front_matter_index = 2
       table.insert(new_blocks, block)
     end

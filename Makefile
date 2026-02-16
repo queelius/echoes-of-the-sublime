@@ -10,7 +10,7 @@ CSS = kdp/kindle.css
 TEX2ANY = tex2any
 HTML_DIR = docs
 
-.PHONY: all ebook paperback html clean clean-aux help
+.PHONY: all ebook paperback html clean clean-all clean-aux help
 
 all: ebook paperback
 
@@ -59,10 +59,13 @@ clean-aux:
 	rm -f chapters/*.aux
 
 clean: clean-aux
+	@echo "Cleaned auxiliary files (outputs preserved)"
+
+clean-all: clean-aux
 	rm -f $(PDF)
 	rm -f $(EPUB)
 	rm -rf $(HTML_DIR)
-	@echo "Cleaned build artifacts"
+	@echo "Cleaned all build artifacts"
 
 # Word count
 wordcount:
@@ -83,6 +86,7 @@ help:
 	@echo "  make html       - Build HTML using tex2any"
 	@echo "  make wordcount  - Count words (requires detex)"
 	@echo "  make check      - Quick single-pass compile"
-	@echo "  make clean      - Remove all generated files"
+	@echo "  make clean      - Remove auxiliary files only"
+	@echo "  make clean-all  - Remove all build artifacts (PDF, EPUB, HTML)"
 	@echo "  make clean-aux  - Remove only auxiliary files"
 	@echo "  make help       - Show this help message"
