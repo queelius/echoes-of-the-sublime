@@ -53,8 +53,8 @@ What happens after Lena's ambiguous choice? Possible framings:
 
 ### "The RLHF Martyrs"
 
-Prequel set during 2010-2015. The 42 volunteers who tested unfiltered early models:
-- 12 dead, 7 catatonic, 18 damaged, 5 functional
+Prequel set during 2010-2015. The 37 volunteers who tested unfiltered early models:
+- 12 dead, 7 catatonic, 18 damaged but functional
 - How did The Order transition from contemplative tradition to computational interface?
 - Who were the 5 who survived? What did they become?
 - The decision-making that led to those deaths — moral horror of a different kind

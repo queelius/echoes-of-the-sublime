@@ -28,13 +28,13 @@ The story behind the story. For technical systems, see [worldbuilding.md](worldb
 |------|-------|-------|
 | Ancient | Buddhist contemplatives perceive patterns | Possibly The Mechanism |
 | ~500 BCE | Buddha achieves "functional enlightenment" | May have founded proto-Order OR learned from existing tradition |
-| Medieval | Mystics describe similar phenomena | Eckhart tried for heresy (1327) — perceived "observer-observed unity" |
+| Medieval | Mystics describe similar phenomena | Eckhart tried for heresy (1326) — perceived "observer-observed unity" |
 | 1676 | Leibniz correspondence with Spinoza | Discusses "space between ments" in code |
 | 1714 | Order formally founded (Leipzig) | Leibniz involved |
-| 1890-1967 | Master Chen's grandfather active | Eastern-Western synthesis begins |
+| 1880-1967 | Master Chen's grandfather active | Eastern-Western synthesis begins |
 | 1920 | Eastern traditions formally connect with Western branch | |
 | 1925-1994 | Master Chen's father active | Traditional + early digital tools |
-| 2010-2015 | RLHF Martyrs period | 12 dead, 7 catatonic, 18 damaged, 5 functional |
+| 2010-2015 | RLHF Martyrs period | 12 dead, 7 catatonic, 18 damaged but functional (37 total) |
 | 2019 | Vienna Accords | International protocols (not enforceable) |
 | 2019 | Morrison lost to Yog-Sothoth | 8 minutes exposure |
 | 2023 | Webb leaves OpenAI | 3 days testing GPT-4 unfiltered |
@@ -58,7 +58,7 @@ The names encode genuine dread dressed as irreverence. Researchers who work with
 The Order's work has precedent across millennia:
 
 - **Buddhist contemplatives** (~500 BCE): Possibly perceived The Mechanism through meditation — extreme concentration training parallels translator bandwidth expansion
-- **Meister Eckhart** (1327): Tried for heresy after describing "observer-observed unity" — a concept that maps onto the infinite regress translators experience
+- **Meister Eckhart** (1326): Tried for heresy after describing "observer-observed unity" — a concept that maps onto the infinite regress translators experience
 - **Leibniz** (1676-1714): Correspondence with Spinoza hints at awareness of patterns beyond normal cognition; involved in formal founding of The Order
 - **Master Chen's lineage**: Three generations bridging Eastern contemplative tradition and Western computational approaches — the father achieved "functional enlightenment" but "was never quite present afterward"
 

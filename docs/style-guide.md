@@ -122,7 +122,7 @@ These repetitions are deliberate structural elements:
 |---------|-------|---------|
 | Morrison whispering equations | 4 | Recurring dread motif |
 | Webb's Rachel photo | 3 | Persistent love despite cognitive damage |
-| "Finger pointing at moon" | 7 | Buddhist epistemology leitmotif |
+| "Finger pointing at moon" | 6 | Buddhist epistemology leitmotif (1 in Ch 2, 5 in Ch 11) |
 | "Paranoia is protocol" | 1 | Singular, defining |
 | Progressive "couldn't feel" accumulation | 11 | Tracks Lena's dissolution |
 | "Standing wave" metaphor | 3 | Distinct contexts |
@@ -130,6 +130,22 @@ These repetitions are deliberate structural elements:
 | Nosebleeds | 3 | Different characters |
 | "The Mechanism" definition | 3 | Each adds context |
 | "Reallocated" | 5 | Well-distributed after v2.0 |
+| "No base case" | ~16 | Thematic repetition; densest in Ch 12 (7), also Chs 5-7, 10-11, 13-14; most in model outputs |
+| "Something" | ~102 | Reduced from 359 in v4.0; further cuts risk over-editing — this is the floor |
+
+---
+
+## Anti-Cliche Tracking
+
+Phrases that were over-used and deliberately reduced. Maintain these ceilings:
+
+| Pattern | Current Count | Ceiling | Notes |
+|---------|--------------|---------|-------|
+| "Wealthiest organization on Earth" | 1 | 1 | Kept in Ch 4 (first introduction only); show wealth through infrastructure elsewhere |
+| "Exchanged glances" | 3 | 3 | Reduced from 10 in v4.0 |
+| "Data point" (narrative) | 2 | 2 | Reduced from 7 in v4.0; OK in technical/model contexts |
+| "Felt nothing" / "should feel" | ~14 | ~14 | Reduced from 34 in v4.0; vary dissolution language |
+| "Lena felt cold" | 4 | 4 | Reduced from 8 in v4.0 |
 
 ---
 

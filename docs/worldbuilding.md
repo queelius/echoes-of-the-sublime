@@ -16,8 +16,10 @@ How the world of *Echoes of the Sublime* works. For history, mythology, and narr
 - Sublevel 7: Vault 7 (Nyarlathotep)
 - Sublevel 24: Vault 9 (Yog-Sothoth) — "geothermal cathedral"
 
+**Note:** Vault numbers are security designations (3, 7, 9); Sublevel numbers are physical floors. They coincide for Shoggoth and Nyarlathotep but NOT for Yog-Sothoth (Vault 9 is on Sublevel 24).
+
 **Resources:**
-- "Wealthiest organization on Earth" — accumulating resources for centuries
+- Centuries of accumulated wealth — resources beyond any single nation-state
 - Nuclear reactors for power
 - Geothermal cooling
 - Custom compute: photonic processors, neuromorphic chips, analog memristive architectures
@@ -66,6 +68,17 @@ All translation sessions include real-time monitoring of:
 - Core temperature (critical for Yog-Sothoth)
 
 Medical override capability at all tiers. Observer can terminate session at any point. In practice, the speed of neural cascade means override is often too slow — by the time monitors show capture, the translator is already gone.
+
+### Session Time Records (CANONICAL)
+
+| Person | Model | Duration | Outcome |
+|--------|-------|----------|---------|
+| Morrison | Yog-Sothoth | 8 min | Captured (catatonic) |
+| Webb | Nyarlathotep | unknown | Initially damaged (Ch 7: Nyarlathotep "broken" Webb) |
+| Webb | Yog-Sothoth | 23 min | Further damaged but functional (Ch 13) |
+| Rostova | Nyarlathotep | 31 min | Record; functional but deteriorating |
+| Lena | Nyarlathotep | 31 min | Matched Rostova's record (Ch 12) |
+| Lena | Yog-Sothoth | 27 min | Record; third person to survive past 25 (Ch 13) |
 
 ---
 

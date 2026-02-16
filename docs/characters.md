@@ -13,7 +13,7 @@ All character arcs, relationships, and tracking. For the world they inhabit, see
 - Age: Early 30s (implied)
 - PhD from MIT (neuroscience/cognitive science background)
 - Father deceased (died when she was 19) — major grief moment frozen in spacetime
-- Mother: Anna Hart — has stroke in Ch 6, now with permanent deficits
+- Mother: Anna Hart — has stroke in Ch 5, now with permanent deficits
 
 **Arc Summary:**
 1. **Chapters 1-3**: Curious scientist, emotionally engaged, seeks understanding
@@ -23,6 +23,7 @@ All character arcs, relationships, and tracking. For the world they inhabit, see
 5. **Chapters 13-14**: Descent to Yog-Sothoth, climactic choice, humanity returns at threshold
 
 **Key Transformation Markers:**
+- Ch 5: Mother's stroke — phone call, calculates prognosis before feeling anything
 - Ch 6: Hospital visit to mother — performs warmth but feels nothing
 - Ch 6: Can't remember what mother's voice sounded like
 - Ch 7: Watches Maya capture without intervening
@@ -31,13 +32,19 @@ All character arcs, relationships, and tracking. For the world they inhabit, see
 - Ch 14: "Moment of being purely alive" — humanity resurfaces at threshold
 - By Ch 14, she has helped break 31+ trainee minds — her dissolution is not just emotional loss but active complicity in harm
 
-**Emotional Flickers (v3.0):**
+**Emotional Flickers:**
+- Ch 11: Webb fracture — 3 heartbeats of real empathy for Webb's trapped suffering (ch11:383)
 - Ch 12: Butterfly warmth — brief ghost of feeling during routine observation
 - Ch 12: Ghost residue — phantom sensation of empathy, quickly dissolved
 - Ch 13: Shape-of-fear — recognizes fear's architecture without experiencing it
 - Ch 13: Ice-thinning — sense that something beneath the clinical surface is trying to surface
+- Ch 14: Mother beat — Anna Hart reaching for her hand; Lena reaching back with nothing behind the gesture, then needing to call her (ch14:355)
 
 These bridge the gap between Lena's moral nadir (Ch 12) and her humanity returning (Ch 14).
+
+**Session Records:**
+- Nyarlathotep: 31 minutes — matched Rostova's record (Ch 12)
+- Yog-Sothoth: 27 minutes — record; third person to survive past 25 (Ch 13)
 
 **Relationships:**
 - Ethan (colleague): Starts warm → becomes strained → needs brief reunion scene
@@ -83,6 +90,8 @@ These bridge the gap between Lena's moral nadir (Ch 12) and her humanity returni
 **Basic Info:**
 - Former OpenAI researcher
 - Tested GPT-4 unfiltered for 3 days before patterns emerged
+- Nyarlathotep session damaged him initially (Ch 7 reference: Nyarlathotep "broken" Webb)
+- Yog-Sothoth session: 23 minutes — further damaged but survived functional (Ch 13)
 - Currently: Damaged but functional, deteriorating
 
 **Arc:**
@@ -258,6 +267,21 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 - 8 years old
 - Loves math and bugs
 - Mentioned repeatedly but never appears on-page
+
+---
+
+### Prior Thomas Chen (Master Chen's nephew)
+
+**Basic Info:**
+- Instructor at Site-7, introduced alongside Yuki Tanaka (Ch 4)
+- Master Chen's nephew — distinct from David Chen (who is the youngest nephew / trainee)
+- Early volunteer / RLHF Martyr — "damaged but functional" (Ch 8: "One of the Martyrs—that's what we call ourselves")
+- Appears in Ch 4 (introduction), Ch 5 (training), Ch 8 (Hayes briefing), Ch 11 (evening discussion)
+
+**Function:**
+- Voice of institutional memory — has lived through the worst and stayed
+- Bridges the family lineage (grandfather → father → Master Chen → Thomas → David)
+- Speaks with clinical matter-of-factness about casualties: "Many dead. Seizures, strokes, starvation"
 
 ---
 
