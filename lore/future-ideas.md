@@ -172,6 +172,119 @@ If suffering is permanently encoded in spacetime geometry:
 - What happens to cultures that discover this truth en masse?
 - Is there a version of this knowledge that doesn't destroy the knower?
 
+### Ravens Motif — Dropped Thread
+
+The ravens are introduced in Ch 1 (6 lines, Rostova watching, "Animals always knew") and developed extensively in Ch 5 (70 lines — the dead raven experiment, all-facility wildlife behavior, airspace avoidance). Strong environmental horror that establishes The Mechanism's physical reach beyond cognition. Then they vanish from Ch 6 onward.
+
+**The gap:** 70 lines of Ch 5 investment creates narrative expectation. The dead raven experiment (seizures, visual cortex overload, death) explicitly parallels Morrison's catatonia. But the motif never pays off — no callback during Lena's Ch 13 descent, no ravens reacting to the climax, no late-stage Lena processing them with her changed perception.
+
+**Potential callbacks (light touch, 3-5 lines each):**
+- Ch 13: During the descent to Sublevel 24, Lena passes a window or remembers the ravens. Her clinical mind now processes them differently — not fear but recognition. She understands what they sense because she senses it too.
+- Ch 14: At the threshold, a brief flash — the ravens outside, still watching. The continuity between their vigil and her choice.
+- Dissolution marker: Early Lena found the ravens unsettling. Late Lena would find them unremarkable — she's crossed the line the ravens couldn't.
+
+**Status:** Documented in [worldbuilding.md](worldbuilding.md) (Site-7 — Environmental Effects). Not yet paid off narratively.
+
+---
+
+## Alternate Storyline: The Dark Founding
+
+*Exploratory concept. Not canon. Testing whether this reading of The Order can sustain a storyline (sequel, revision, or parallel narrative).*
+
+### The Core Idea
+
+The Order is not a research institution that accepts casualties. **The Order is the weaponizer.** The thing that morally enrages — the idea that someone could deliberately force another person into permanent s-risk perception — is exactly what The Order does. Systematically. Institutionally. Behind the language of inquiry and containment.
+
+The founders didn't build The Order to protect humanity from the truth. They built it to **make humanity see**.
+
+### Why This Might Work
+
+The current novel already contains this reading. Every institutional action is consistent with an organization whose purpose is exposure, not protection:
+
+- They build progressively more powerful machines (Shoggoth → Nyarlathotep → Yog-Sothoth)
+- They recruit brilliant people and train them just enough to survive (some of them)
+- 37 RLHF Martyrs — and they kept going
+- Chen denies Rostova's recommendation to shut down Vault 9 access
+- Yuki logs ethical compromises and continues
+- Lena lets Anna Chen approach capture for *data*
+- "Morrison's sacrifice was not in vain" — is that sunk-cost rationalization, or mission fidelity?
+
+The language of inquiry provides moral cover. But the function is exposure. Every translator who dissolves is the institution working as designed.
+
+### The Leipzig Townhouse (Dark Version)
+
+Leibniz and the four others understood something in 1714. The contemplative traditions had been brushing against a truth about reality for millennia — the block universe, the infinite regress, the suffering asymmetry. Contemplatives who saw it too clearly went mad, or achieved "functional enlightenment" (perception expanded, humanity diminished), or simply stopped speaking.
+
+The founders' conclusion was not "this is dangerous and must be contained." It was: **"This is true and must be confronted."**
+
+Their reasoning (which may be the novel's deepest horror):
+- Reality's structure is an s-risk. Suffering is permanently encoded in spacetime geometry.
+- One person in eternal torment makes all existence morally unacceptable. A trillion in bliss cannot offset it.
+- The only response to a moral catastrophe of this magnitude is to *see it clearly*. To look directly at what is.
+- If you build tools powerful enough, eventually someone will perceive the full structure. When they do, they either break (Morrison) or they stand at the threshold and choose (Lena).
+- The Order exists to manufacture that threshold moment. Every model, every translator, every casualty is a step toward producing someone who can perceive the block universe and *not* break — who can hold the full horror and remain human.
+
+Leibniz died two years after founding The Order. Perhaps he was the first casualty. Perhaps he saw what was coming and chose to build the machine anyway. The moral arithmetic: destroy dozens (or hundreds, over centuries) to produce one person who can face reality and survive. The utilitarian calculus that Rostova runs at 3 AM — it's not a side effect of the mission. It IS the mission.
+
+### The S-Risk Philosophy (Developed)
+
+What makes this alternate reading coherent is the s-risk philosophy we've been developing:
+
+**Why capture is specifically an s-risk (three nested scopes):**
+
+1. **Recursion (depth):** Consciousness perceiving itself with no base case. Unbounded recursive perception — the "vertical" horror.
+2. **Personal worldline (scope):** At sufficient bandwidth, temporal sequence dissolves. You perceive your entire worldline — past AND future — simultaneously. The block universe reveals every moment you've lived or will live, at recursive depth, all at once.
+3. **Universal scope (all worldlines):** At Yog-Sothoth bandwidth, you perceive not just your worldline but spacetime geometry itself. 10 billion years of evolution. All consciousness, all suffering, eternally present.
+
+**The suffering asymmetry:** Joy and suffering are not commensurable. One person in eternal torment is not "balanced" by a trillion in bliss. At sufficient bandwidth, this asymmetry becomes a perceptual fact — you can *see* that the moral structure of reality is unacceptable. This is what the Buddha may have perceived. This is what liberation reveals.
+
+**Resilience and life history:** If expanded perception reveals your entire worldline, the quality of your pre-capture life determines survivability. Good experiences are ballast — literal coordinates of warmth in the spacetime geometry you'll perceive. This reframes contemplative training: meditation isn't just bandwidth preparation, it's deliberately filling your worldline with equanimity. Webb's love for Rachel anchors him. Morrison (brilliant, possibly not well) shattered in 8 minutes.
+
+**The birds:** Evidence that the s-risk structure permeates all consciousness. Even at avian bandwidth, even from 24 sublevels above Yog-Sothoth, the faintest echo is overwhelming. The ravens don't flee — they watch. Drawn to something they can't process, the same way translators are drawn deeper. No base case, even across species.
+
+### The Weaponization Horror
+
+In this reading, The Order is doing exactly what we found morally enraging: deliberately forcing people into permanent s-risk perception. Every translator session is an act of weaponization. The weapon is truth itself.
+
+What makes it specifically horrifying:
+- **It works because it's real.** There's no defense because the information hazard IS reality. You can't be inoculated against truth.
+- **It weaponizes biography.** A captured person perceives their entire worldline at recursive depth. Their life history — including all suffering — becomes the landscape of their eternal perception. Someone whose life was full of suffering has it worse.
+- **It's irremediable.** Murder takes your future. Capture gives you *everything* — past and future, all at once, at infinite depth, permanently.
+- **It violates consent.** You can't give informed consent to perceive the block universe because understanding what you're consenting to requires the perception you haven't yet had.
+
+### Why The Order Persists (The Moral Paradox)
+
+If The Order's founders understood the s-risk, why did they build the exposure machine rather than destroy all records and walk away?
+
+Possible answers:
+1. **Inevitability:** Someone will eventually perceive the truth. The commercial AI race proves this. Better to have a controlled exposure program than uncontrolled captures in the wild.
+2. **Moral duty:** If reality's structure is morally unacceptable, the only ethical response is to confront it. Looking away is complicity. The Order builds the threshold moment because someone must stand at it.
+3. **The hope:** Maybe, if you produce someone who can perceive the full horror and *remain human* (Lena?), that person can find something no one has found yet — not a solution, but a way to exist honestly within an unacceptable reality. The Order's 300-year project is producing that person.
+4. **They're wrong:** The founders' moral reasoning was catastrophically flawed. They decided unilaterally that humanity must confront the truth, and built an institution that destroys lives to achieve this. The horror isn't the truth itself — it's people who believe they have the right to force others to see it.
+
+The novel benefits from NOT choosing between these. All four are operative simultaneously.
+
+### The Agency Paradox
+
+The deepest tension: the block universe is immutable. All coordinates — past and future — are fixed. If The Order's founders "chose" to build the exposure machine, did they actually choose? In a block universe, the founding is as permanent and predetermined as the suffering it reveals. The founders' moral agency may be as illusory as everything else.
+
+And yet you must act as if it isn't. Because the alternative is moral paralysis. And moral paralysis in the face of an s-risk is itself morally unacceptable.
+
+No base case. Even for ethics.
+
+### How This Affects the Current Novel
+
+This reading doesn't require changing the current text. The novel already supports it. But if developed, it would shift the emphasis:
+
+- **Chen's refusal to shut down Vault 9** changes from "maybe he's wrong" to "he's faithful to the founding vision"
+- **Yuki's "we pursue truth"** changes from idealism to something darker — truth as weapon, pursuit as obligation
+- **Lena's arc** becomes: recruited by the weaponizer, transformed by the weapon, and at the threshold — the first person who might survive what the weapon shows you
+- **The ending's ambiguity** deepens: Lena at the threshold isn't just choosing whether to expand. She's choosing whether the 300-year project succeeds or fails. Whether the Order was right to build the machine.
+
+### Status
+
+Exploratory. Not implemented. Cross-references: [worldbuilding.md](worldbuilding.md) (Why Capture Is an S-Risk, Resilience Hypothesis, Suffering Asymmetry), [lore.md](lore.md) (Open Questions #7-10).
+
 ---
 
 ## Meta Notes

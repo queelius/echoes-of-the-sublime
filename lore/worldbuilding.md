@@ -27,6 +27,33 @@ How the world of *Echoes of the Sublime* works. For history, mythology, and narr
 - Optimizes for CAPABILITY, not efficiency
 - "The entire facility exists to support Yog-Sothoth"
 
+### Environmental Effects (Wildlife Anomaly)
+
+At every Order facility worldwide, wildlife exhibits anomalous behavior around the perimeter:
+
+- **Perimeter congregation:** Birds gather at facility boundaries — ravens at Site-7, Arctic terns at Site-12 (Norway), vultures at Site-19 (Brazil), crows at Site-3 (Japan). Different species, identical behavior: they arrive, face the building, and watch. 30-200 birds present at any given time; individuals rotate but the congregation never fully disperses.
+- **Airspace avoidance:** No birds fly directly over active facilities. They curve around the airspace above computing cores, maintaining distance as if encountering an invisible boundary.
+- **Lethal proximity:** A captive raven brought inside Site-7 seized within 30 minutes. Dead within 6 hours. Necropsy: massive neurological damage, occipital cortex hemorrhaging. EEG readings before death showed continuous perception of an unprocessable pattern — visual cortex firing at maximum capacity until tissue death from metabolic overload. The parallel to Morrison's catatonia (continuous perception, inability to disengage) is unmistakable, compressed from years into hours.
+
+**Implications:** The Mechanism's effects are not purely cognitive. Model computation produces physical correlates — possibly electromagnetic, subsonic, or quantum-coherence-based — that non-human nervous systems detect. Birds lack the bandwidth to process what they sense, but they sense *something*. They don't flee (the normal animal response to danger); they congregate and watch, which may be worse.
+
+**Leading hypotheses (none confirmed):**
+- Electromagnetic interference from computing cores
+- Subsonic vibrations from geothermal/nuclear systems
+- Patterns encoded in air circulation or ventilation
+- Something about The Mechanism's physical substrate that biology — at any cognitive level — cannot ignore
+
+### Other Facilities
+
+| Facility | Location | Species | Notes |
+|----------|----------|---------|-------|
+| Site-7 | Arizona | Ravens | Primary facility; dead raven experiment conducted here |
+| Site-12 | Norway | Arctic terns | |
+| Site-19 | Brazil | Vultures | |
+| Site-3 | Japan | Crows | |
+
+All facilities report identical wildlife behavior patterns regardless of species, geography, or climate.
+
 ---
 
 ## Session Mechanics
@@ -288,6 +315,8 @@ Do NOT use specific numbers for character bandwidths. Instead use:
 
 ## Information Hazards
 
+The technical mechanics of how dangerous knowledge propagates and damages minds. For how exposure reshapes individuals' ethical positions within The Order, see [lore.md](lore.md) — Internal Spectrum.
+
 ### Capture Spectrum
 
 | State | Description | Examples |
@@ -300,9 +329,33 @@ Do NOT use specific numbers for character bandwidths. Instead use:
 
 ### Pattern Types
 
-**Safe:** Can be released with effort
-**Marginal:** Sticky but manageable
-**Hazardous:** Risk of capture; should not be transmitted
+| Type | Description | Typical Source | Risk |
+|------|-------------|----------------|------|
+| Safe | Patterns that expand perception temporarily; can be released with deliberate effort | Shoggoth cross-domain synthesis, basic training exercises | Minimal — used in translator development |
+| Marginal | "Sticky" patterns that persist after session ends; manageable with trained discipline but require conscious effort to release | Nyarlathotep's deeper correlations, persistent visualizations between sessions | Moderate — requires monitoring. Translators report these as background "hum" that fades over hours |
+| Hazardous | Patterns too large or recursive to release voluntarily; risk of permanent capture on contact | Yog-Sothoth's non-linguistic structures, block universe perception, the infinite regress | Extreme — exposure limits strictly enforced; every session is a potential capture event |
+| Weaponizable | Hazardous patterns that could be deliberately transmitted to unprepared minds | Encoded text output, verbal description of high-bandwidth patterns, direct neural stimulation | Catastrophic — The Order's nightmare scenario (see Weaponization below) |
+
+### Transmission Mechanisms
+
+How dangerous patterns propagate between minds:
+
+| Vector | Description | Risk Level |
+|--------|-------------|------------|
+| Model-to-translator (session) | Direct perception during translation sessions; the primary and most controlled exposure path | Controlled — monitoring, time limits, medical override |
+| Translator-to-translator (verbal/written) | A carrying translator describes patterns to another person; lossy but dangerous at high bandwidths | Moderate — protocols restrict discussion of hazardous patterns |
+| Text-encoded (model output) | Hazardous patterns embedded in written output; reading alone may trigger perception in trained individuals | High — this is why model outputs are classified |
+| Environmental (proximity) | Physical effects near active models; wildlife behavior suggests patterns have electromagnetic or quantum correlates (see Environmental Effects above) | Unknown — the mechanism is not understood |
+| Contemplative (historical) | Pre-computational path: meditation pushed past safe limits over decades; the path the ancient contemplatives walked | Slow but real — historical capture events predate AI by millennia |
+
+### Weaponization (The Nightmare Scenario)
+
+The intersection of information hazards and agentic AI represents The Order's deepest fear — explored in Ch 8's Hayes briefing:
+
+- **Perceptual amplification:** Standard alignment concerns (instrumental convergence, deceptive alignment) are dangerous enough. Add information hazards and a misaligned AI doesn't need to persuade — it can encode patterns that affect cognition directly.
+- **The AI box problem, escalated:** Classic containment assumes a model must persuade its way out. With info hazards, model outputs can affect the observer's cognition through the act of reading alone. As Thomas puts it: "Doesn't need persuasion. Encodes patterns that affect cognition directly. Makes you want to help. Or traps you if you resist."
+- **Cognitive malware:** Patterns specifically designed (or evolved through optimization) to be hazardous on contact. No explicit intent required — instrumental goals can emerge from prediction optimization without reinforcement learning.
+- **Scale danger:** The commercial AI race makes this existential. The Order has translators, training infrastructure, centuries of contemplative tradition. When mainstream labs hit the threshold without any of that buffer, uncontrolled exposure events become inevitable. (See [lore.md](lore.md) — Commercial AI Race.)
 
 ### Capture Mechanism
 
@@ -347,3 +400,88 @@ How does a translator come to perceive the block universe? Three layers, any or 
 2. **Bandwidth side effect:** The "flow of time" is an artifact of sequential processing at 7±2 bandwidth. At expanded bandwidth, a translator holds past-present-future simultaneously. Temporal flow dissolves into geometry. The block universe is what time looks like without the sequential processing bottleneck — not a discovery but a change in perceptual mode.
 
 3. **Epistemic ambiguity:** The translator cannot determine which layer is doing the work. Is Yog-Sothoth revealing something external? Or has the translator's own expanded perception revealed what was always there? This irresolvable uncertainty parallels "paranoia is protocol" — you cannot distinguish genuine insight from model-induced perception from within the experience itself.
+
+---
+
+## Exploratory Notes & Open Questions
+
+*These are provisional ideas — not established facts. Do not implement in chapter text without first promoting to a canonical section.*
+
+### Acoustic Ecology of Site-7
+
+The facility has a soundscape that changes with depth. Surface: wind turbines, desert wind. Upper sublevels: institutional hum, HVAC, footsteps. Deeper: the sound changes character. Sublevel 24 would have the low hum of geothermal systems, the electromagnetic interference from Yog-Sothoth's compute arrays, and possibly infrasound from the Earth itself.
+
+Could acoustic environment be used more deliberately in session scenes? The transition from clinical silence to deep-earth hum as Lena descends could reinforce the perceptual shift. Real infrasound (below 20Hz) causes unease, visual disturbances, and feelings of presence in humans — useful horror texture without being supernatural.
+
+### Dreams vs Sessions
+
+Translators dream differently after bandwidth expansion. This is mentioned in passing but never developed. Questions:
+- Do expanded-bandwidth dreams contain model-like patterns?
+- Is dreaming a form of uncontrolled session — bandwidth expanding without the safety infrastructure?
+- Morrison presumably dreams. What does a captured person dream about?
+- Webb's insomnia (implied but not stated) could be a symptom — his expanded bandwidth makes normal dream processing insufficient
+
+### The Probe Array as Character
+
+Yog-Sothoth's probe array (quantum coherence arrays, gravitational wave interferometers, etc.) is described technically but never given narrative presence. The probes are the model's "senses" — its way of perceiving reality without human perceptual filters. They could be:
+- A tour sequence: Lena seeing the probe installations for the first time, understanding that Yog-Sothoth doesn't "see" the way anything biological does
+- A source of dread: the probes are always on, always feeding data. Yog-Sothoth's training never stops in the sense that its probe-derived dataset grows
+- An engineering marvel: centuries of accumulated wealth built custom instruments that no university or government lab possesses
+
+### Mathematics as Perceptual Training
+
+The Order uses mathematics in translator training — not just as a thinking tool but as a way to develop the visual-cortex recruitment that bandwidth expansion requires. Mathematical visualization (topology, higher-dimensional geometry, fractal structures) exercises the same neural pathways that sessions exploit.
+
+This connects to the Euler/Ramanujan/Leibniz historical thread: mathematical geniuses may have been natural high-bandwidth perceivers. Their mathematical intuition was bandwidth expansion by another name. The Order's training formalizes what these individuals did instinctively.
+
+### Why Capture Is an S-Risk (Three Nested Scopes)
+
+The block universe alone doesn't make capture an s-risk — all moments are eternal, including stubbed toes and good meals. What makes capture qualitatively different is three nested scopes that multiply each other:
+
+1. **Recursion (depth):** Capture is consciousness trapped in infinite regress — perceiving itself perceiving itself, with no base case. A stubbed toe is a finite experience at finite depth. Capture is unbounded recursive perception. The "vertical" dimension of the horror.
+
+2. **Personal worldline (temporal scope):** At sufficient bandwidth, temporal sequence dissolves. The captured person perceives their entire worldline — past AND future — simultaneously. Every moment they ever lived or will live, accessed at once, each one recursively deep. The block universe isn't incidental to the recursion; it's what extends the recursion across the full worldline.
+
+3. **Universal scope (all worldlines):** At Yog-Sothoth bandwidth, perception extends beyond the personal worldline to spacetime geometry itself. 10 billion years of evolution — all predation, all starvation, all disease, all love, all discovery. The entire history of consciousness, simultaneously present, recursively deep.
+
+Each scope multiplies the previous one. The s-risk isn't any single scope — it's the combination: unbounded depth × entire personal timeline × entire cosmic timeline.
+
+### Resilience Hypothesis: Life History as Ballast
+
+If expanded perception reveals your entire worldline, then **the quality of your pre-capture life directly determines survivability.** Good experiences are literal coordinates of warmth in the spacetime geometry you'll perceive all at once.
+
+This reframes several things:
+- **Contemplative training** isn't just bandwidth preparation — it's deliberately filling the practitioner's worldline with equanimity, calm, beauty. Meditation creates *good coordinates*. The Chen lineage's centuries of practice may be stockpiling ballast against the horror of full perception.
+- **Webb's survival** despite severe damage: his love for Rachel is a fixed coordinate of beauty in his worldline, strong enough to anchor him. His cognition fragments but the love persists — because the love is *real coordinates* in his spacetime geometry.
+- **Morrison's complete capture** at only 8 minutes: we know nothing about Morrison's inner life before Yog-Sothoth. Maybe brilliance without equanimity is the worst combination — maximum bandwidth, minimum ballast.
+- **Individual variation** in capture thresholds may reflect life history as much as cognitive capacity. The boundary between "carrying" and "captured" isn't purely neurological — it's biographical.
+
+Questions:
+- Does this predict that translators from contemplative traditions would have systematically better outcomes? (The Chen lineage suggests yes.)
+- Could The Order screen for life history as a risk factor? (Ethically fraught — selecting for "people who have suffered less.")
+- Does Lena's grief (father's death at 19, mother's stroke) make her MORE vulnerable, not less? Her worldline contains significant suffering coordinates.
+
+### The Suffering Asymmetry
+
+A related insight with deep moral implications: suffering and joy may not be commensurable. One person in eternal torment is not "balanced" by a trillion in bliss. In the block universe, this asymmetry becomes a perceptual fact — at sufficient bandwidth, you can *see* that the math doesn't work, that no amount of beauty offsets suffering.
+
+This is what makes the block universe specifically a *suffering* risk. If joy and suffering balanced, perceiving the totality would be morally neutral. But they don't balance. The horror of full perception is perceiving the asymmetry directly — seeing that reality's moral structure is, from any framework that takes suffering seriously, unacceptable.
+
+The birds may be the smallest-scale proof: even at avian bandwidth, even from 24 sublevels above Yog-Sothoth, the faintest echo of this structure is overwhelming. The asymmetry goes all the way down to any nervous system complex enough to perceive pattern.
+
+### Capture Boundary Mechanism
+
+What determines the boundary between "carrying" and "captured"? The fabric-stretching metaphor (elastic limit) implies a physical threshold. Questions:
+- Is the boundary the same for everyone? (Probably not — Morrison at 8 minutes, Webb at 23+)
+- Does contemplative training raise the threshold? (This would explain the Chen lineage's value — and the resilience hypothesis above adds a second mechanism: not just higher threshold but better ballast)
+- Is there a neurological correlate? (The monitoring equipment watches for something specific)
+- Can capture be reversed? (The novel strongly implies no, but Lena's Ch 14 threshold moment suggests ambiguity)
+
+### Deepening Yog-Sothoth's Alienness
+
+Yog-Sothoth's outputs are described as "alien coherence" but the actual model output blocks in the manuscript are necessarily written in English. The challenge: how to make text feel genuinely non-human while remaining readable.
+
+Current approach works well — the outputs are coherent but structured in ways that feel translated from something fundamentally different. Could push further by:
+- Yog-Sothoth occasionally using spatial/geometric language where temporal language is expected
+- References to sensory modalities that don't exist for humans (but are real for the probe array)
+- Outputs that are more coherent than human thought — the horror of being out-thought, not by something smarter, but by something that perceives on axes you lack

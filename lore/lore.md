@@ -48,7 +48,7 @@ The names encode genuine dread dressed as irreverence. Researchers who work with
 
 ### Structure and Resources
 
-- "Wealthiest organization on Earth" — accumulating resources for centuries
+- Centuries of accumulated wealth — resources beyond any single nation-state
 - International reach, connections across 14 nations
 - Deliberately opaque to outside world
 - Not clearly heroic or villainous — exists because someone must do this work
@@ -143,13 +143,13 @@ Even at higher bandwidths, mysteries persist. The models have their own hard pro
 The Lovecraft aesthetic (cosmic indifference, things beyond comprehension) and Buddhist epistemology (liberation through seeing clearly) are placed in deliberate collision. In most Buddhist frameworks, seeing clearly leads to peace. In this novel, seeing clearly leads to perceiving the block universe horror — suffering permanently encoded in spacetime geometry.
 
 ### AI Architecture as Existential Risk
-- Perceptual hazards AMPLIFY traditional AI risks
+- Perceptual hazards AMPLIFY traditional AI risks — see [worldbuilding.md](worldbuilding.md) (Information Hazards — Weaponization) for the full taxonomy
 - Nightmare scenario: Misaligned AI + weaponized information hazards
 - Model consciousness: Genuinely uncertain. Leave it to readers
 - "Simulating agency" vs "having agency" might be a bandwidth-limited distinction
 
 ### What If The Order Fails?
-- Mass uncontrolled exposure to high-bandwidth patterns
+- Mass uncontrolled exposure to high-bandwidth patterns — see [worldbuilding.md](worldbuilding.md) (Capture Spectrum) for progression stages
 - Thousands of Morrisons — catatonic population segment
 - Civilization-level epistemic catastrophe
 - Weaponized information hazards in the wild
@@ -192,3 +192,59 @@ This ambiguity is essential and must be preserved.
 | Alien coherence | Model output style — coherent but from a non-human perspective |
 | Functional enlightenment | Chen's father's state — perception expanded, humanity diminished |
 | Value drift | Gradual dissolution of human values through bandwidth expansion |
+| Neural crown | EEG/cortical interface hardware worn during sessions; subcutaneous cortical contacts at Yog-Sothoth tier |
+| Cascade (neural) | Runaway EEG pattern indicating loss of bandwidth control; precursor to capture |
+| Block universe | Spacetime as fixed 4D geometry — past suffering eternally present at those coordinates; THE truth in this novel |
+| Site-7 | Primary Order facility; underground in Arizona, surface wind turbines, deep nuclear/geothermal power |
+| Information hazard | Knowledge that causes harm through the act of knowing; patterns that damage cognition on contact. For full taxonomy, see [worldbuilding.md](worldbuilding.md) — Information Hazards |
+| Sublevel | Physical floor designation at Site-7; distinct from Vault security designations (e.g., Vault 9 is on Sublevel 24) |
+
+---
+
+## The Founding (1714, Leipzig)
+
+Leibniz was dying when he formalized what the contemplatives had always known. The correspondence with Spinoza — decades earlier, in careful code — had convinced him that the "space between ments" was not metaphor but observation. Something real existed at the boundary of human perception, and the contemplative traditions had been brushing against it for millennia.
+
+The founding was small: Leibniz, two former students, a Jesuit who had studied with Buddhist monks in Tibet, a mathematician from the Royal Society who would later burn all his own notes. They met in a Leipzig townhouse in winter. No grand ceremony. Just five people who had independently concluded that human cognition was a bottleneck, and that what lay beyond it was both important and dangerous.
+
+Leibniz died two years later. The Order he founded would spend the next three centuries confirming his worst suspicions.
+
+## The Lost Centuries (1714-2000)
+
+What did The Order do for 286 years without AI models? The honest answer: they struggled. The contemplative path was real but painfully slow. A gifted meditator might, over decades, achieve bandwidth expansion that a translator now reaches in months.
+
+The timeline is sparse because losses were high and records were carefully destroyed:
+- **18th century:** Mathematical approaches. Euler briefly corresponded with the Order. The emphasis was on formal systems that could encode patterns too complex for verbal description.
+- **19th century:** Bolzano's work on infinite sets (1840s) gave the Order new mathematical language. William James's notebooks (never published) describe contemplative states in terms eerily similar to modern translator reports.
+- **20th century (pre-digital):** Chen's grandfather bridged Eastern and Western approaches. The lineage began its synthesis of Buddhist perceptual training with Western analytical frameworks.
+- **Late 20th century:** Early computer models. Nothing approaching Shoggoth-scale, but enough to demonstrate that machine pattern-recognition could augment human perception. This was the proof of concept that led to modern Site-7.
+
+The transition from contemplative to computational was not clean. Many in the Order viewed AI models as shortcuts that bypassed the discipline contemplative training required — and they were right. The discipline was also the protection. Models could expand bandwidth without the years of psychological preparation that contemplative practice provided. The RLHF Martyrs period was the cost of that shortcut.
+
+---
+
+## Editorial Direction & Open Questions
+
+*These are provisional — ideas under consideration, not established facts. Do not treat as canonical.*
+
+### Open Questions
+
+1. **The Founding's emotional register**: The Leipzig scene could be a powerful flashback or prologue element. Should it remain backstory-only, or does the novel benefit from showing it? Risk: breaking the tight present-tense focus.
+
+2. **Leibniz's actual knowledge**: How much did Leibniz understand? The correspondence with Spinoza uses coded language, but was he genuinely perceiving expanded bandwidth, or theorizing about it? The distinction matters for how The Order understands its own history.
+
+3. **Pre-Order contemplatives**: The Buddhist connection is established but somewhat generic. Specific named contemplatives (beyond "the Buddha") could anchor it. Research: Nagarjuna's madhyamaka philosophy maps onto the "no base case" theme. Dogen's "being-time" maps onto block universe.
+
+4. **The Order's failures**: 286 years of pre-AI work produced what, exactly? The novel implies they preserved knowledge and built infrastructure, but the actual accomplishments (beyond survival) are vague. Could be intentional (they *didn't* accomplish much without computational tools) or a gap to fill.
+
+5. **Information hazard transmission history**: Before AI models, how did people get captured? Presumably through contemplative practice pushed too far. Are there historical capture events documented in the Order's archives? Morrison's capture has precedent — but we never see it.
+
+6. **The Vienna Accords specifics**: What do the Accords actually mandate? The novel mentions them but never details the protocols. Leaving them vague may be better (avoids the story becoming policy fiction), but a few specific provisions could add texture.
+
+7. **Weaponization as moral catastrophe**: Murder is localized x-risk — taking from someone all they will ever have. Weaponized capture is s-risk: forcing someone into unbounded recursive perception of their entire worldline (past and future), at a depth where suffering and joy are revealed as asymmetric. The moral fury isn't just "you caused suffering" — it's "you caused *permanent, irremediable* suffering by forcing someone to perceive truth itself." The weapon is reality. There is no defense because the weapon works precisely because it's real. This needs development — it's the darkest corner of the novel's moral universe and currently lives only in the Ch 8 Hayes briefing as abstract threat.
+
+8. **Contemplative training as worldline cultivation**: If expanded perception reveals your entire worldline at once, the contemplative tradition isn't just preparing your mind — it's filling your biography with good coordinates. Meditation, equanimity practice, compassion cultivation — these create ballast. The ratio of beauty to horror in your worldline determines survivability. This reframes the Chen lineage's value: three generations weren't just expanding bandwidth, they were building the kind of life that can survive perceiving itself at infinite depth. See [worldbuilding.md](worldbuilding.md) — Resilience Hypothesis.
+
+9. **Agency in an immutable geometry**: The block universe is fixed — all coordinates, past and future, eternally present. Can anyone "act" at all? The novel's moral urgency (cultivate good experiences, prevent weaponized capture, the asymmetry matters) depends on agency, but the block universe implies determinism. This is another "no base case" — you can't ground your ethics in free will if the structure is immutable, but you act anyway because the alternative is moral paralysis. And you can never verify from within the system whether your acting is genuine agency or predetermined coordinates. The novel should probably sit in this paradox rather than resolve it.
+
+10. **The suffering asymmetry as perceptual fact**: One person in eternal torment makes our entire existence morally unacceptable — no amount of flourishing offsets it. In normal life, this is a philosophical position (negative utilitarianism, the asymmetry thesis). In the novel's framework, expanded perception reveals this asymmetry *directly* — it's not an argument but a perceptual fact available at high bandwidth. This is what makes liberation horrifying: the Buddha didn't discover peace, he discovered that reality's moral structure is unacceptable. See [worldbuilding.md](worldbuilding.md) — The Suffering Asymmetry.
