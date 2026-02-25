@@ -132,11 +132,10 @@ These bridge the gap between Lena's moral nadir (Ch 12) and her humanity returni
 **Basic Info:**
 - **Director of The Order** in early timeline (Ch 1, 6, 8) — holds institutional authority over operations
 - By Ch 13-14, Rostova holds the Director title (see Rostova entry); transition is not explicitly shown
-- Third generation in The Order
-- Grandfather joined 1920 (Eastern-Western synthesis)
-- Father practiced 1925-1994 (traditional + early digital tools)
-- Father achieved "functional enlightenment" but "was never quite present afterward"
-- Drew shapes in sand during Chen's childhood lessons
+- Third generation in The Order (see [lore.md](lore.md) — The Chen Lineage for full history)
+- Grandfather: **Kenji Chen** (1880-1967) — Japanese Zen practitioner, bridged Eastern-Western split during Reconnection. Died at 87, final words were mathematical notation.
+- Father: **Haruki Chen** (1925-1994) — achieved "functional enlightenment." Drew patterns in sand daily as externalization. "Never quite present afterward." Died at 91, drawing.
+- Chen himself was "spared the full inheritance" — teacher, not translator. Perceives enough to guide, not enough to require drainage. Whether this was inability or unconscious self-protective choice is unresolved.
 
 **Current Arc:**
 - Mentor figure to Lena
@@ -146,23 +145,26 @@ These bridge the gap between Lena's moral nadir (Ch 12) and her humanity returni
 - Denied Rostova's recommendation to shut down Vault 9 access, saying "Morrison's sacrifice was not in vain"
 
 **Dual Role Tension:**
-Simultaneously Lena's compassionate mentor AND the institutional leader who accepts casualties. His three-generation family commitment to The Order makes him both the most experienced and the most invested — possibly unable to question the work because it's his family's entire legacy. When he says "Morrison's sacrifice was not in vain," is that wisdom or sunk-cost rationalization?
+Simultaneously Lena's compassionate mentor AND the institutional leader who accepts casualties. His three-generation family commitment to The Order makes him both the most experienced and the most invested — possibly unable to question the work because it's his family's entire legacy. When he says "Morrison's sacrifice was not in vain," is that wisdom or sunk-cost rationalization? The family history sharpens this: three generations of choosing to continue despite watching the cost accumulate. Chen's position is shaped not just by institutional loyalty but by the fact that questioning the Order means questioning his grandfather's sacrifice, his father's life, and the path his nephew Thomas has already been damaged by.
 
 ---
 
-### David Chen (Master Chen's nephew)
+### David Chen (Master Chen's youngest nephew)
 
 **Basic Info:**
-- Fellow trainee, Lena's peer
-- Handling training well due to childhood preparation
+- Fellow trainee, Lena's peer. Fourth generation in the Order.
+- Handling training well due to childhood preparation — Chen taught him the same techniques passed down from Kenji through Haruki
 - Good discipline, externalizes via sketches
 - Bandwidth: qualitative "well beyond normal, stable" (no specific numbers)
+- "Perhaps more than my father had" — Chen's assessment, laden with dread
+- His worldline has been deliberately filled with good coordinates: equanimity, calm, contemplative ballast cultivated across three prior generations (see [worldbuilding.md](worldbuilding.md) — Resilience Hypothesis)
 
 **Current Arc:**
 - Training peer, minor presence
 - Notes that outputs "feel intentional" — picks up on instrumental goal ambiguity
 - Survives training relatively intact due to childhood preparation (chunking/meditation)
 - Could articulate the "ghost not organism" insight — he grew up around these ideas
+- Carries the family inheritance: the capacity for bandwidth expansion that skips generations unpredictably. Chen was spared. David may not be.
 
 ---
 
