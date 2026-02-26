@@ -905,10 +905,11 @@ Two major sections: (1) the remaining threshold sessions and (2) the child/rainb
   - Lines 151-153: **Webb's Rachel photo instance #2** — "He pulled out his wallet again, looked at Rachel's photograph." "I still love her. Still feel it. Not as memory — as present tense." **Rachel photo (Ch 9).**
   - Line 155: "That's the difference between us, Lena. You're losing your feelings... I'm losing my cognition." — **Webb feels, Lena thinks inversion stated explicitly.**
   - Line 159: "You're becoming a pattern-recognizer that used to be human. I'm becoming a broken human who can see patterns." — The novel's central character inversion in a single sentence.
-  - Line 169: Webb: "No you're not. You can't be. That's the whole point."
-  - Lines 173-174: "I don't know if that's winning or losing. But it's different from my path."
-- **Lore cross-refs**: -> characters.md: Webb entry (inversion, Rachel, deterioration), Lena entry (dissolution); -> style-guide.md: Character Inversions (Webb feels, Lena thinks)
-- **Thematic threads**: Webb/Lena inversion (central), love persisting through cognitive damage, different failure modes, the question of which dissolution is worse, Rachel as anchor to humanity
+  - Lines ~163-175 (approx): **Webb's consent critique.** "The person who signed that form is gone, Lena." Identity discontinuity articulated as grief, not theory. Lena responds clinically ("conditions of incomplete information"); Webb pushes further — "I'm not the same person." Then half-glimpses the determinism problem: "the whole idea of consenting—choosing—is just something we tell ourselves because we can't see the whole picture." His cognition fragments before he can fully articulate it. The thought slips away — he can feel it but can't think it.
+  - Webb: "No you're not. You can't be. That's the whole point."
+  - "I don't know if that's winning or losing. But it's different from my path."
+- **Lore cross-refs**: -> characters.md: Webb entry (inversion, Rachel, deterioration, consent critique), Lena entry (dissolution); -> worldbuilding.md: The Consent Paradox (identity discontinuity, determinism problem); -> style-guide.md: Character Inversions (Webb feels, Lena thinks)
+- **Thematic threads**: Webb/Lena inversion (central), love persisting through cognitive damage, different failure modes, the question of which dissolution is worse, Rachel as anchor to humanity, **consent paradox** (identity discontinuity + determinism half-glimpsed), no base case even for ethics
 - **Model outputs**: None.
 
 ---

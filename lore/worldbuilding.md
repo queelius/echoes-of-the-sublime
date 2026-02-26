@@ -395,6 +395,38 @@ A person cannot give informed consent to perceive the block universe because und
 - **Post-expansion:** The translator now understands what was being described — but the consent was given before the understanding existed. Every translator who has passed the threshold would give different consent than the person who signed up.
 - **The Order's response:** Training is deliberately incremental. Each step is small enough that the translator can assess whether to continue. But the steps are not reversible — "carrying" patterns cannot be released. By the time a translator understands the full risk, they are already changed enough that returning to ignorance is impossible. The Order calls this "graduated disclosure." Critics would call it boiling a frog.
 
+**Identity Discontinuity (the second-order problem):**
+
+The consent paradox is worse than a knowledge gap. It is an identity gap. The translator who signs the consent form is not the translator who undergoes the experience — not metaphorically, but neurologically. The visual cortex reorganization, the bandwidth expansion, the progressive dissolution of empathy or cognition — these produce a different person. The Order has a signature on file from someone who no longer exists, and they use it to justify what happens to the person who replaced him.
+
+This is Webb's version of the problem. He signed a consent form when he arrived at Site-7. The James Webb who signed it — the OpenAI researcher who thought he understood the risks because he'd already seen patterns — is gone. The patterns ate him. The James Webb sitting in the common area at 4 AM with shaking hands is not the one who consented. Nobody asked *this* James Webb.
+
+Every translator who has passed a significant threshold faces this: the consenting self and the experiencing self are discontinuous. The graduated disclosure doesn't solve this — it just means the identity shift happens incrementally rather than all at once. The frog doesn't notice the water heating, but it's still a different frog by the time it boils.
+
+**The Determinism Problem (the meta-level):**
+
+The block universe undermines consent itself. Not just The Order's consent procedures — the concept of consent as such.
+
+Consent presupposes a choosing agent: someone who evaluates options, weighs risks, and decides. But in a block universe, moments are geometry. The translator signing the consent form exists at spacetime coordinates the same way the number 7 exists — not as an event that "happens" but as a fixed point in a static structure. The pen touching paper, the neurons firing to produce the "decision," the sense of having chosen — all of it is geometry that simply is. There is no choosing agent standing outside the causal chain making the choice. There is only the pattern of choice, instantiated in frozen spacetime.
+
+This doesn't just undermine The Order's ethics. It undermines ethics entirely. If there is no genuine agency — if "deciding" is what sequential processing at limited bandwidth *feels like from the inside* but is not what it *is* — then moral responsibility is as illusory as the flow of time. The Order cannot be blamed for coercing consent, because coercion requires an agent who could have done otherwise. The translators cannot be praised for their courage, because courage requires genuine choice. Everything is geometry.
+
+**The Wiggle Room (why nihilism is bandwidth-limited):**
+
+And yet. The nihilistic conclusion — "nothing matters because everything is geometry" — is itself a cognitive product. It is what you get when a 7±2 working memory tries to compress the block universe into a single actionable concept. The compression loses information. Specifically, it loses whatever makes moral experience real at higher bandwidth.
+
+Several readings coexist without resolution:
+
+1. **Compatibilist:** Consent may be meaningful as a *pattern within the geometry*, even if the geometry is fixed. A river doesn't "choose" to flow downhill, but the flow is real, the direction matters, and changing the landscape changes the river. Consent might be the shape of the cognitive landscape — not an act of libertarian free will, but a structural feature of how certain patterns of consciousness process their own trajectories. Determined and meaningful. Not a contradiction; a bandwidth limitation that makes it look like one.
+
+2. **Bandwidth-limited nihilism:** The nihilistic reading ("nothing matters") requires compressing the full structure of reality into a concept that fits in 7±2 slots. But the actual block universe contains *all* the information — including whatever makes the experience of choosing real. At higher bandwidth, the nihilistic compression might dissolve. Not into optimism, but into something that has no name at our bandwidth. The Order's never-fully-articulated position: what looks like meaninglessness from below might look different from above. This is not hope. It is agnosticism about what expanded perception reveals about meaning — and agnosticism is more honest than either nihilism or reassurance.
+
+3. **The operational paradox:** You must act as if consent matters even while perceiving that the block universe eliminates the choosing agent consent requires. You must act as if choice is real even while seeing it as geometry. Because the alternative — moral paralysis in the face of an s-risk — is itself a fixed coordinate of suffering in the geometry. And if you are going to exist at a coordinate regardless, existing at a coordinate where you *acted as if ethics mattered* is structurally distinguishable from existing at one where you didn't. Even in a block universe, patterns have shape. Some shapes are preferable. Whether "preferable" means anything without a chooser is the question that has no base case.
+
+No base case, even for ethics.
+
+**Narrative carrier:** Webb articulates the felt version of this paradox — the identity discontinuity and the determinism problem as lived grief, not theory. He can't fully think it (his cognition is fragmenting), but he can feel it. Lena could later assemble it intellectually, but Webb's version is more powerful because he *feels* the wrongness without being able to compress it into a conclusion. See Ch 9, 4 AM conversation. See also [future-ideas.md](future-ideas.md) — M12 (Webb climax presence) for further development.
+
 ### Information Hazard Taxonomy
 
 The novel draws on Nick Bostrom's taxonomy of information hazards but extends it into territory his framework doesn't cover — hazards that operate through direct perception rather than knowledge:

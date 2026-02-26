@@ -101,13 +101,18 @@ See also: [outline.md § Emotional Flickers (Canonical)](outline.md#emotional-fl
 - Wakes every morning forgetting divorce, then remembers → fresh grief
 - "I'd trade anything to be like Rostova — cold but functional"
 
-**Key Quote:**
+**Key Quotes:**
 - "The patterns didn't take that [love]. They took everything else."
+- "The person who signed that form is gone, Lena. The Order has his signature on file. They use it to justify everything that's happened since. But he didn't consent to *this*." (Ch 9)
+
+**Consent Critique:**
+Webb is the narrative carrier for the consent paradox. He articulates it as lived grief, not theory: the identity discontinuity (the consenter is gone; nobody asked the person he became) and a half-glimpsed determinism problem (the sense that "choosing" itself is illusory — "none of us are choosing anything"). His cognition is too fragmented to fully think the block-universe implications, but he can *feel* the wrongness. This is more powerful than Lena's later intellectual assembly because Webb's version has no compression, no clinical distance. See [worldbuilding.md](worldbuilding.md) — The Consent Paradox.
 
 **Function in Story:**
 - Counter-example to Lena's trajectory
 - Shows the "other" failure mode
 - Dramatic irony: what he wants (emotionlessness) is what's destroying Lena
+- Carries the consent critique from inside — someone who *knows* what was done to him and still feels the wrong of it
 
 **Note:** This inversion emerged organically — lean into it.
 
