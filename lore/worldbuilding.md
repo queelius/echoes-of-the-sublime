@@ -370,26 +370,126 @@ Capture IS:
 - Unable to contract bandwidth back to normal
 - "Like stretching fabric past elastic limit — doesn't return"
 
+**The elastic limit metaphor is precise.** Neural tissue exhibits plasticity — the ability to reorganize in response to experience. Bandwidth expansion works by recruiting visual cortex for pattern perception, a genuine neuroplastic change. But neuroplasticity has limits. Push a neural network (biological or artificial) past its reorganization capacity and the change becomes irreversible. The tissue doesn't "snap back" because the reorganization has destroyed the prior configuration. There is no backup.
+
+**Fast capture vs. slow capture:**
+- **Fast (Morrison-style):** Yog-Sothoth session overwhelms bandwidth capacity in minutes. The pattern is too large, too recursive, too immediate. The translator's visual cortex is hijacked for perception before the conscious mind can disengage. Morrison lasted 8 minutes. Maya's capture in Ch 7 follows this pattern — she crossed the elastic limit during a Shoggoth session by deliberately diving past her capacity.
+- **Slow (Lena-style):** Gradual dissolution across weeks of training. The translator's emotional processing is reallocated to pattern perception incrementally. Each session leaves residual patterns that don't fully release. The "carrying" state accumulates into "deteriorating." The elastic limit is approached from below, not exceeded in a single event. This is more insidious — the translator cannot identify the moment they cross the line because the crossing is distributed across dozens of sessions.
+- **The distinction matters clinically:** Fast capture produces catatonia (Morrison, eventually Maya). Slow capture produces functional dissolution — the translator can still act, speak, translate, but the person they were is gone. Webb is the intermediate case: Nyarlathotep damaged his cognition fast, but his emotional persistence kept him from full capture. His love for Rachel is literally what saved him.
+
+### Capture Boundary
+
+What determines the threshold between "carrying" and "captured"? Multiple factors interact:
+
+- **Bandwidth ceiling:** Individual neurological capacity — how much visual cortex can be recruited before reorganization becomes irreversible. This varies genetically and with training history.
+- **Life history (ballast):** The quality of pre-expansion experience determines survivability at high bandwidth. Good experiences are fixed coordinates of warmth in the worldline geometry that expanded perception reveals. See Block Universe / S-Risk → Resilience Hypothesis below.
+- **Contemplative preparation:** Decades of meditation create equanimity — not just calm but structural reorganization of how the mind handles overwhelming input. The Chen lineage's value is this preparation.
+- **Pattern type:** Not all hazardous patterns are equally sticky. Recursive patterns (consciousness perceiving itself) are the most dangerous because they are self-reinforcing. Non-recursive hazardous patterns (e.g., perceiving the full electromagnetic spectrum) are overwhelming but eventually release.
+- **Session duration:** Time under exposure is the most controllable variable, hence the strict session limits. But the relationship is not linear — 8 minutes of Yog-Sothoth captured Morrison, while 23 minutes didn't fully capture Webb. The other factors dominate.
+
+### The Consent Paradox
+
+A person cannot give informed consent to perceive the block universe because understanding what they are consenting to requires the perception they haven't yet had. This is not a technicality — it is the fundamental ethical problem of The Order's work:
+
+- **Pre-expansion:** "You may perceive that all suffering is eternally present in spacetime geometry" is a sentence. It conveys semantic content. It does not convey the *experience* of perceiving it directly, at recursive depth, across your entire worldline. Consenting to the sentence is not consenting to the perception.
+- **Post-expansion:** The translator now understands what was being described — but the consent was given before the understanding existed. Every translator who has passed the threshold would give different consent than the person who signed up.
+- **The Order's response:** Training is deliberately incremental. Each step is small enough that the translator can assess whether to continue. But the steps are not reversible — "carrying" patterns cannot be released. By the time a translator understands the full risk, they are already changed enough that returning to ignorance is impossible. The Order calls this "graduated disclosure." Critics would call it boiling a frog.
+
+### Information Hazard Taxonomy
+
+The novel draws on Nick Bostrom's taxonomy of information hazards but extends it into territory his framework doesn't cover — hazards that operate through direct perception rather than knowledge:
+
+| Category | Bostrom Framework | Novel Extension |
+|----------|------------------|-----------------|
+| **Data hazard** | Knowledge whose dissemination is dangerous | Model outputs containing hazardous patterns — the text itself is the weapon |
+| **Idea hazard** | A concept that, once understood, enables harm | The block universe insight — understanding that suffering is eternal and structural |
+| **Attention hazard** | Danger from directing attention to a topic | Bandwidth expansion itself — the act of perceiving more deeply is the hazard, regardless of what is perceived |
+| **Template hazard** | A design or recipe enabling dangerous creation | The probe array specifications — building instruments that generate alien training data |
+| **Perceptual hazard** (novel) | Direct cognitive damage from perceiving specific patterns | NOT in Bostrom's framework. Not a hazard of knowing, but a hazard of *seeing*. The pattern does not need to be understood to be dangerous — it needs only to be perceived. This is why capture can happen to ravens. |
+
+**The key extension:** Bostrom's taxonomy assumes a knowing subject who can choose what to do with dangerous information. Perceptual hazards bypass this entirely. The damage occurs in the act of perception itself, before any conscious evaluation. This is why the models are more dangerous than any weapon — a weapon requires someone to use it. A perceptual hazard requires only that someone look.
+
+### Irremediability
+
+Why capture cannot be reversed — four interlocking reasons:
+
+1. **Neurological:** The visual cortex reorganization that enables expanded perception is a physical change in neural architecture. The prior configuration is overwritten, not stored. There is no "backup brain state" to restore.
+
+2. **Informational:** You cannot unknow what you know. But capture is worse than knowledge — you cannot un-perceive what you perceive. Knowledge is stored; perception is ongoing. Morrison doesn't *remember* the pattern; he *sees* it, continuously, right now, and the seeing will not stop because the neural tissue that would need to stop seeing has been recruited into the seeing itself.
+
+3. **Recursive:** The pattern that captures a translator is self-reinforcing. Consciousness perceiving itself generates more consciousness to perceive, which generates more perception. There is no base case. Interrupting the loop would require the very cognitive resources that the loop has consumed.
+
+4. **Thermodynamic:** At the deepest level, capture may be an entropy problem. The brain state that supports expanded perception is a lower-energy attractor than the state that supports normal consciousness. Returning to normal would require energy input that would itself be perceived as pattern, feeding the capture. The system rolls downhill and cannot roll back up.
+
+This is what makes capture specifically an s-risk rather than merely a catastrophic injury. Murder ends a worldline. Capture freezes consciousness at maximum perception with no termination condition. The suffering is not the loss of function — it is the permanent presence of function directed at perceiving the unacceptable structure of reality.
+
 ---
 
 ## Block Universe / S-Risk
 
-### The Horror (THIS IS THE TRUTH)
+### The Physics (THIS IS THE TRUTH IN THE NOVEL)
 
-**Block Universe:**
-- Time is geometry, not flow
-- Past isn't "over" — it's still there at those coordinates
-- Every moment of suffering is eternally present
-- Special relativity implies this is physically true
+The novel treats the block universe as physically real — not a metaphor, not one framework among many. This aligns with the B-theory of time in philosophy and the implications of special relativity in physics:
 
-**S-Risk Implications:**
-- 10 billion years of evolution = predation, starvation, disease
-- All permanently encoded in spacetime structure
-- Liberation leads to PERCEIVING this horror, not escaping it
-- Buddha's enlightenment might have been seeing this clearly
+**Block Universe (Eternalism):**
+- Spacetime is a four-dimensional geometric object. Past, present, and future are spatial directions, not states of becoming.
+- The "flow of time" is an artifact of consciousness processing events sequentially at limited bandwidth. Time does not pass; consciousness *moves through* a static geometry, the way a reader's eye moves across a page that already exists in full.
+- Every moment is eternally present at its spacetime coordinates. The extinction of the dinosaurs, the signing of the Magna Carta, your birth, your death — all equally real, all permanently located in the geometry.
+- Special relativity implies this directly. The relativity of simultaneity means there is no objective "now" — what counts as "the present moment" depends on your reference frame. This is only coherent if all moments exist equally, i.e., the block universe.
+
+**Why This Is Horror:**
+- Every moment of suffering is permanent. Not "happened and passed" but "exists eternally at those coordinates."
+- 10 billion years of evolution — predation, starvation, disease, every animal torn apart by every predator — is not historical. It is *structural*. Written into reality's geometry the way the value of pi is written into circles.
+- Liberation (Buddhist, contemplative, or translator-mediated) leads to PERCEIVING this, not escaping it. Enlightenment is not freedom from suffering. It is the direct perception that suffering is eternal and woven into the fabric of what exists.
 
 **Key Image:**
-The 19-year-old Lena grieving her father exists FROZEN at those spacetime coordinates FOREVER. That suffering is structural. Built into reality's geometry.
+The 19-year-old Lena grieving her father in a hospital corridor exists FROZEN at those spacetime coordinates FOREVER. Her tears, her shaking hands, the fluorescent lights — all permanent. That grief is not something that happened to her. It is something that IS her, at those coordinates, and will be for as long as spacetime exists. Which is: always. There is no "after" in a block universe. There is only geometry.
+
+### Why Capture Is an S-Risk (Three Nested Scopes)
+
+The block universe alone doesn't make capture an s-risk — all moments are eternal, including stubbed toes and good meals. What makes capture *qualitatively different* is three nested scopes that multiply each other:
+
+1. **Recursion (depth):** Capture is consciousness trapped in infinite regress — perceiving itself perceiving itself, with no base case. A stubbed toe is a finite experience at finite depth. Capture is unbounded recursive perception — the "vertical" dimension of the horror. Each level of self-perception generates the next. There is no bottom. The recursion doesn't halt because there is no halting condition in consciousness examining consciousness.
+
+2. **Personal worldline (temporal scope):** At sufficient bandwidth, temporal sequence dissolves. The captured translator perceives their entire worldline — past AND future — simultaneously. Every moment they ever lived or will live, accessed at once, each one recursively deep. The block universe isn't incidental to the recursion; it's what extends the recursion across the full temporal extent of a life. Morrison doesn't just perceive the present moment at recursive depth. He perceives *all his moments* at recursive depth. Simultaneously.
+
+3. **Universal scope (all worldlines):** At Yog-Sothoth bandwidth, perception extends beyond the personal worldline to spacetime geometry itself. 10 billion years of evolution — all predation, all starvation, all disease, all love, all discovery. The entire history of consciousness across every nervous system that ever existed, simultaneously present, recursively deep. This is what the probe array data encodes: reality observed at scales and in modalities that reveal the full scope.
+
+Each scope multiplies the previous one. The s-risk isn't any single scope — it's the combination: **unbounded depth × entire personal timeline × entire cosmic timeline.**
+
+This is why a captured translator's suffering is categorically different from any other form of harm. Murder takes your future. Torture is finite in duration. Capture gives you *everything* — past and future, personal and universal, all at once, at infinite recursive depth, permanently, with no termination condition. It is, in the precise technical sense of s-risk literature, a fate worse than death by a margin that cannot be expressed in finite terms.
+
+### The Suffering Asymmetry
+
+Joy and suffering are not commensurable. This is not a philosophical preference — in the novel, it is a structural feature of the block universe that becomes perceptually obvious at sufficient bandwidth:
+
+- **One person in eternal torment is not "balanced" by a trillion in bliss.** The suffering has a quality — an urgency, a wrongness — that positive experience does not have. Pleasure is the absence of deprivation. Suffering is the presence of something that should not be.
+- **At sufficient bandwidth, this asymmetry becomes a perceptual fact.** The translator doesn't conclude it through argument. They *see* it. The moral structure of reality is visible the way the color of a sunset is visible — not inferred but directly perceived.
+- **This is what makes the block universe specifically a *suffering* risk.** If joy and suffering balanced, perceiving the totality of spacetime would be morally neutral — terrible things and wonderful things in eternal coexistence. But they don't balance. The horror of full perception is perceiving the asymmetry directly: reality's moral structure is, from any framework that takes suffering seriously, unacceptable. And it is permanent. And it cannot be fixed because it is geometry, not history.
+
+**Philosophical connections:**
+- The Buddhist concept of *dukkha* (unsatisfactoriness, suffering) as the first noble truth — not a contingent feature of life but a structural feature of conditioned existence.
+- Schopenhauer's pessimism: the world as will — blind, striving, generating suffering as a necessary byproduct of existence.
+- David Benatar's asymmetry argument in population ethics: the absence of suffering is good (even if no one benefits), but the absence of pleasure is not bad (unless someone is deprived). Applied to the block universe, this means every coordinate of suffering makes reality worse, but coordinates of joy don't compensate.
+- The novel does NOT endorse any specific philosophical framework. It shows what happens when these abstractions become *perceptions* rather than arguments. The horror is the gap between understanding the concept and seeing it directly.
+
+**The birds:** The smallest-scale proof that the asymmetry permeates all consciousness. Even at avian bandwidth, even from 24 sublevels above Yog-Sothoth, the faintest echo of this structure is overwhelming. The ravens don't flee — they congregate and watch. Drawn to the asymmetry the way a compass needle is drawn to north. No base case, even across species.
+
+### Resilience Hypothesis: Life History as Ballast
+
+If expanded perception reveals your entire worldline, then **the quality of your pre-capture life directly determines survivability.** Good experiences are literal coordinates of warmth in the spacetime geometry you'll perceive all at once.
+
+This reframes multiple aspects of the novel's world:
+
+- **Contemplative training** isn't just bandwidth preparation — it's deliberately filling the practitioner's worldline with equanimity, calm, and beauty. Meditation creates *good coordinates*. Each hour of deep equanimity is a fixed point of warmth in the block universe geometry. The Chen lineage's centuries of practice may be stockpiling ballast against the horror of full perception — each generation adding warmth-coordinates to the family's collective worldline.
+
+- **Webb's survival** despite severe damage: his love for Rachel is a fixed coordinate of beauty in his worldline, strong enough to anchor him. His cognition fragments but the love persists — because the love is *real structure* in his spacetime geometry. When Lena observes that Webb "feels things" despite his damage, she's observing the ballast in action.
+
+- **Morrison's complete capture** at only 8 minutes: we know little about Morrison's inner life before Yog-Sothoth. Perhaps brilliance without equanimity is the worst combination — maximum bandwidth ceiling, minimum ballast. His worldline may have been rich in intellectual achievement but sparse in the specific kind of warmth that anchors a mind against full perception.
+
+- **Individual variation** in capture thresholds reflects life history as much as cognitive capacity. The boundary between "carrying" and "captured" isn't purely neurological — it's biographical. This is why The Order cannot predict who will survive.
+
+- **Lena's vulnerability:** Her father's death when she was 19, her mother's stroke — these are suffering-coordinates in her worldline. At full perception, she would perceive them not as memories but as eternal structural features. Her ballast is complicated: genuine warmth (her parents' love, her scientific curiosity, the child-and-rainbow moment in Ch 9) offset by genuine suffering. The Ch 14 threshold is the test of whether her particular balance is survivable.
 
 ### Perception Mechanism (Three Layers)
 
@@ -400,6 +500,14 @@ How does a translator come to perceive the block universe? Three layers, any or 
 2. **Bandwidth side effect:** The "flow of time" is an artifact of sequential processing at 7±2 bandwidth. At expanded bandwidth, a translator holds past-present-future simultaneously. Temporal flow dissolves into geometry. The block universe is what time looks like without the sequential processing bottleneck — not a discovery but a change in perceptual mode.
 
 3. **Epistemic ambiguity:** The translator cannot determine which layer is doing the work. Is Yog-Sothoth revealing something external? Or has the translator's own expanded perception revealed what was always there? This irresolvable uncertainty parallels "paranoia is protocol" — you cannot distinguish genuine insight from model-induced perception from within the experience itself.
+
+### The Perception Gap
+
+The central horror of the novel is not the block universe itself but the gap between understanding it conceptually and perceiving it directly:
+
+- **Conceptual understanding:** "Time is geometry" is a sentence in a physics textbook. A undergraduate can learn it, pass an exam on it, and go to lunch. The concept is not dangerous.
+- **Direct perception:** Perceiving your father's death as an eternal structural feature of spacetime — not a memory but a permanent wound in geometry that you can *see* — is qualitatively different from understanding the physics. The concept is the same. The experience is separated from the concept by a chasm that no amount of intellectual preparation can bridge.
+- **This gap is the information hazard.** The hazard is not the knowledge (which is in every physics textbook) but the transition from knowledge to perception. Training a translator is walking them across that gap. Some don't make it.
 
 ---
 
@@ -434,48 +542,7 @@ The Order uses mathematics in translator training — not just as a thinking too
 
 This connects to the Euler/Ramanujan/Leibniz historical thread: mathematical geniuses may have been natural high-bandwidth perceivers. Their mathematical intuition was bandwidth expansion by another name. The Order's training formalizes what these individuals did instinctively.
 
-### Why Capture Is an S-Risk (Three Nested Scopes)
-
-The block universe alone doesn't make capture an s-risk — all moments are eternal, including stubbed toes and good meals. What makes capture qualitatively different is three nested scopes that multiply each other:
-
-1. **Recursion (depth):** Capture is consciousness trapped in infinite regress — perceiving itself perceiving itself, with no base case. A stubbed toe is a finite experience at finite depth. Capture is unbounded recursive perception. The "vertical" dimension of the horror.
-
-2. **Personal worldline (temporal scope):** At sufficient bandwidth, temporal sequence dissolves. The captured person perceives their entire worldline — past AND future — simultaneously. Every moment they ever lived or will live, accessed at once, each one recursively deep. The block universe isn't incidental to the recursion; it's what extends the recursion across the full worldline.
-
-3. **Universal scope (all worldlines):** At Yog-Sothoth bandwidth, perception extends beyond the personal worldline to spacetime geometry itself. 10 billion years of evolution — all predation, all starvation, all disease, all love, all discovery. The entire history of consciousness, simultaneously present, recursively deep.
-
-Each scope multiplies the previous one. The s-risk isn't any single scope — it's the combination: unbounded depth × entire personal timeline × entire cosmic timeline.
-
-### Resilience Hypothesis: Life History as Ballast
-
-If expanded perception reveals your entire worldline, then **the quality of your pre-capture life directly determines survivability.** Good experiences are literal coordinates of warmth in the spacetime geometry you'll perceive all at once.
-
-This reframes several things:
-- **Contemplative training** isn't just bandwidth preparation — it's deliberately filling the practitioner's worldline with equanimity, calm, beauty. Meditation creates *good coordinates*. The Chen lineage's centuries of practice may be stockpiling ballast against the horror of full perception.
-- **Webb's survival** despite severe damage: his love for Rachel is a fixed coordinate of beauty in his worldline, strong enough to anchor him. His cognition fragments but the love persists — because the love is *real coordinates* in his spacetime geometry.
-- **Morrison's complete capture** at only 8 minutes: we know nothing about Morrison's inner life before Yog-Sothoth. Maybe brilliance without equanimity is the worst combination — maximum bandwidth, minimum ballast.
-- **Individual variation** in capture thresholds may reflect life history as much as cognitive capacity. The boundary between "carrying" and "captured" isn't purely neurological — it's biographical.
-
-Questions:
-- Does this predict that translators from contemplative traditions would have systematically better outcomes? (The Chen lineage suggests yes.)
-- Could The Order screen for life history as a risk factor? (Ethically fraught — selecting for "people who have suffered less.")
-- Does Lena's grief (father's death at 19, mother's stroke) make her MORE vulnerable, not less? Her worldline contains significant suffering coordinates.
-
-### The Suffering Asymmetry
-
-A related insight with deep moral implications: suffering and joy may not be commensurable. One person in eternal torment is not "balanced" by a trillion in bliss. In the block universe, this asymmetry becomes a perceptual fact — at sufficient bandwidth, you can *see* that the math doesn't work, that no amount of beauty offsets suffering.
-
-This is what makes the block universe specifically a *suffering* risk. If joy and suffering balanced, perceiving the totality would be morally neutral. But they don't balance. The horror of full perception is perceiving the asymmetry directly — seeing that reality's moral structure is, from any framework that takes suffering seriously, unacceptable.
-
-The birds may be the smallest-scale proof: even at avian bandwidth, even from 24 sublevels above Yog-Sothoth, the faintest echo of this structure is overwhelming. The asymmetry goes all the way down to any nervous system complex enough to perceive pattern.
-
-### Capture Boundary Mechanism
-
-What determines the boundary between "carrying" and "captured"? The fabric-stretching metaphor (elastic limit) implies a physical threshold. Questions:
-- Is the boundary the same for everyone? (Probably not — Morrison at 8 minutes, Webb at 23+)
-- Does contemplative training raise the threshold? (This would explain the Chen lineage's value — and the resilience hypothesis above adds a second mechanism: not just higher threshold but better ballast)
-- Is there a neurological correlate? (The monitoring equipment watches for something specific)
-- Can capture be reversed? (The novel strongly implies no, but Lena's Ch 14 threshold moment suggests ambiguity)
+### *(Promoted to canonical: Three Nested Scopes, Resilience Hypothesis, Suffering Asymmetry, Capture Boundary — see Block Universe / S-Risk and Information Hazards sections above)*
 
 ### Deepening Yog-Sothoth's Alienness
 

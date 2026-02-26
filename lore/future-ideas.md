@@ -4,28 +4,37 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 
 ---
 
-## Remaining Editorial Work (from v3.0 review)
+## Remaining Editorial Work
 
-These items were identified during rigorous editorial review and not yet implemented:
+### Completed (v3.0 → v10.0)
 
-### High Priority
+| # | Task | Status | Version |
+|---|------|--------|---------|
+| 2 | Cut Ch 14 emotional return | ✓ 739→583 (21%) | v10.0 |
+| 3 | Cut Ch 7 by 30-40% | ✓ 973→567 (42%) | v10.0 |
+| 4 | Reduce "something" by ~50% | ✓ 359→98 | v10.0 |
+| 5 | Reduce "felt nothing"/"should feel" | ✓ 34→14 | v3.0 + v10.0 |
+| 6 | Rewrite Ch 3 Hayes scene | ✓ Diana Reeves story | v10.0 |
+| 7 | Tighten Ch 8 Hayes briefing by 25% | ✓ 487→359 (26%) | v10.0 |
 
-| # | Task | Scope |
-|---|------|-------|
-| 2 | Cut Ch 14 emotional return by 40-50% | Trim over-explanation at climax |
-| 3 | Cut Ch 7 by 30-40% | Remove duplicated David scene, compress mirror scene, cut James Chen visit |
-| 4 | Reduce "something" by ~50% across novel | ~200+ instances → ~100 |
-| 5 | Reduce "felt nothing"/"should feel" by ~50% in Parts II-III | Varying the dissolution language |
+### Open — From v3.0 Review
 
-### Medium Priority
+| # | Task | Scope | Priority |
+|---|------|-------|----------|
+| 8 | Follow block universe reveal (Ch 14) with specificity | Currently too abstract | Medium |
+| 9 | Consolidate Rostova's repeated warnings in Chs 12-13 | Redundant advisory dialogue | Medium |
+| 10 | Give Ethan and David distinctive voices | Currently blend together | Medium |
 
-| # | Task | Scope |
-|---|------|-------|
-| 6 | Rewrite Ch 3 Hayes scene with dramatic subtext | Currently too expository |
-| 7 | Tighten Ch 8 Hayes briefing by 25% | Over-explains stakes |
-| 8 | Follow block universe reveal (Ch 14) with specificity | Currently too abstract |
-| 9 | Consolidate Rostova's repeated warnings in Chs 12-13 | Redundant advisory dialogue |
-| 10 | Give Ethan and David distinctive voices | Currently blend together |
+### Open — From v10.0 Multi-Agent Review
+
+| # | Task | Scope | Priority |
+|---|------|-------|----------|
+| M1 | Part II pacing plateau (Chs 4-11) | Repetitive training cycles; needs 2-3 dramatic interruptions | Medium |
+| M2 | Instructor voice differentiation (Yuki/Thomas/Sarah) | Largely interchangeable; need distinct speech patterns, concerns, rhythms | Medium |
+| M9 | Webb voice smoothing | His register shifts between chapters; needs consistency pass | Low |
+| M11 | Raven callbacks (Chs 13-14) | 70 lines invested in Ch 5, then motif vanishes; needs payoff | Low |
+| M12 | Webb climax presence | Underrepresented in Part III; his emotional arc needs resolution | Medium |
+| M13 | Anna Chen expansion | Her capture is pivotal but she's thin as a character beforehand | Low |
 
 ### Character Expansion (from original REVISION_NOTES)
 
@@ -183,7 +192,7 @@ The ravens are introduced in Ch 1 (6 lines, Rostova watching, "Animals always kn
 - Ch 14: At the threshold, a brief flash — the ravens outside, still watching. The continuity between their vigil and her choice.
 - Dissolution marker: Early Lena found the ravens unsettling. Late Lena would find them unremarkable — she's crossed the line the ravens couldn't.
 
-**Status:** Documented in [worldbuilding.md](worldbuilding.md) (Site-7 — Environmental Effects). Not yet paid off narratively.
+**Status:** Documented in [worldbuilding.md](worldbuilding.md) (Site-7 — Environmental Effects). Not yet paid off narratively. Flagged again by v10.0 multi-agent review (M11).
 
 ---
 
