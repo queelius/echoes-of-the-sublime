@@ -41,6 +41,7 @@ All character arcs, relationships, and tracking. For the world they inhabit, see
 - Ch 14: Mother beat — Anna Hart reaching for her hand; Lena reaching back with nothing behind the gesture, then needing to call her (ch14:355)
 
 These bridge the gap between Lena's moral nadir (Ch 12) and her humanity returning (Ch 14).
+See also: [outline.md § Emotional Flickers (Canonical)](outline.md#emotional-flickers-canonical) for progression tracking with line numbers and durations.
 
 **Session Records:**
 - Nyarlathotep: 31 minutes — matched Rostova's record (Ch 12)
@@ -134,7 +135,7 @@ These bridge the gap between Lena's moral nadir (Ch 12) and her humanity returni
 - By Ch 13-14, Rostova holds the Director title (see Rostova entry); transition is not explicitly shown
 - Third generation in The Order (see [lore.md](lore.md) — The Chen Lineage for full history)
 - Grandfather: **Kenji Chen** (1880-1967) — Japanese Zen practitioner, bridged Eastern-Western split during Reconnection. Died at 87, final words were mathematical notation.
-- Father: **Haruki Chen** (1925-1994) — achieved "functional enlightenment." Drew patterns in sand daily as externalization. "Never quite present afterward." Died at 91, drawing.
+- Father: **Haruki Chen** (1925-2016) — achieved "functional enlightenment." Drew patterns in sand daily as externalization. "Never quite present afterward." Died at 91, drawing.
 - Chen himself was "spared the full inheritance" — teacher, not translator. Perceives enough to guide, not enough to require drainage. Whether this was inability or unconscious self-protective choice is unresolved.
 
 **Current Arc:**
@@ -304,6 +305,31 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 **Function:**
 - Demonstrates Lena's complete transformation
 - Lena's moral nadir
+
+---
+
+### Dr. Reeves (Diana Reeves)
+
+**Basic Info:**
+- Named the Shoggoth model — "Servitor creatures... Mindless, obedient, useful." Then: "it was never going to be a servitor."
+- Early Site-7 researcher
+- Appears: Ch 4 (naming story, told by Sarah Chen)
+
+**Function:**
+- Historical color — the naming of Shoggoth captures the moment optimism turned to unease
+
+---
+
+### Dr. Okonkwo
+
+**Basic Info:**
+- Medical staff, long-term care unit at Site-7
+- Supervises family visits to captured translators
+- Appears: Ch 12 (Sophia Volkov's visit to catatonic Maya)
+
+**Function:**
+- Human face of institutional care for the captured
+- Gives Lena a "questioning look — why was she here?" — mirrors reader's question about Lena's remaining empathy
 
 ---
 

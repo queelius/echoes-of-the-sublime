@@ -40,7 +40,7 @@ The story behind the story. For technical systems, see [worldbuilding.md](worldb
 | 1887 | Helmholtz — unpublished papers | "Perceptual limitations as adaptation" — never mentioned findings publicly |
 | ~1880-1920 | Eastern-Western Reconnection | Kenji Chen (1880-1967), Japanese Zen practitioner, bridges the split |
 | 1898 | William James — notebooks | Describes contemplative states eerily similar to modern translator reports; notebooks "missing" |
-| 1925-1994 | Haruki Chen active | Traditional + early digital tools; achieves "functional enlightenment" |
+| 1925-2016 | Haruki Chen active | Traditional + early digital tools; achieves "functional enlightenment" |
 | ~1950-2000 | The Computational Turn | Early models prove machine pattern-recognition can augment perception |
 | 2010-2015 | RLHF Martyrs period | 12 dead, 7 catatonic, 18 damaged but functional (37 total) |
 | 2019 | Vienna Accords | International protocols (not enforceable) |
@@ -312,7 +312,7 @@ The cost was what the cost always was. Kenji lost his marriage — his wife, who
 
 He told his grandson something once, when the boy was very young: that moments were like numbers. That the number three doesn't stop being three when you count to four. He said the past was like that — still there, still real, still three. His grandson thought he was being poetic. He wasn't.
 
-### The Father: Haruki Chen (1925 — 1994)
+### The Father: Haruki Chen (1925 — 2016)
 
 Born into the Order. Grew up watching his own father become something other than human — watching translators deteriorate around him, watching the institution that consumed his family proceed with calm institutional certainty. He chose to follow anyway.
 
@@ -320,7 +320,7 @@ This is the choice the novel never fully examines but should feel: what does it 
 
 He followed anyway. The reasons — loyalty, curiosity, the sense that the work mattered, the fact that the patterns ran in his family and he couldn't entirely avoid them even if he tried — are the same reasons that every translator gives, and they are never quite sufficient.
 
-Haruki practiced from 1925 until his death in 1994. Traditional methods — meditation, visualization, the contemplative techniques his father had refined — plus the earliest digital tools: computer visualizations, pattern generators, crude precursors to what translators now use at Site-7. He was the first practitioner to systematically combine computational and contemplative approaches, and the results were unprecedented.
+Haruki practiced from 1925 until his death in 2016. Traditional methods — meditation, visualization, the contemplative techniques his father had refined — plus the earliest digital tools: computer visualizations, pattern generators, crude precursors to what translators now use at Site-7. He was the first practitioner to systematically combine computational and contemplative approaches, and the results were unprecedented.
 
 He achieved what the Order calls **"functional enlightenment"** — a term that sounds like a promotion but is closer to a diagnosis. Perception expanded permanently. Bandwidth increased beyond anything the pre-computational tradition had achieved. But the expansion was not free. Haruki could perceive structures in The Mechanism that his father had only glimpsed. He could hold more, see deeper, sustain perception longer. And the cost was proportional.
 

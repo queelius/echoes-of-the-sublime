@@ -47,7 +47,7 @@ Chapter 1 is a two-part chapter separated by a `\vspace` scene break (line 95). 
   - Line 83: **Spatial reference** — Surface level described. Wind turbines (cover), nuclear reactors "deeper down." Arizona setting.
   - Lines 85-91: **Ravens** (first appearance) — "Three ravens circled overhead, then veered away sharply when they reached the airspace directly above the facility." They land on fence perimeter, hundreds, and watch. "Animals always knew" (line 91).
   - Line 87: Rostova's cigarette — hands still shaking. Lena's cognitive profile previewed: "high bandwidth ceiling, low threshold for existential dread, demonstrated ability to maintain coherent thought while confronting ontological horror."
-- **Lore cross-refs**: → lore.md: History Timeline (Morrison 2019), RLHF Martyrs (18 other names), S-Risk; → worldbuilding.md: Site-7 (Sublevel 3, medical ward), Bandwidth System (7+/-2, visual cortex recruitment), Session Time Records (Morrison 8 min); → characters.md: Morrison (capture, whispering equations), Rostova (hands shaking, recruiter role)
+- **Lore cross-refs**: → lore.md: History Timeline (Morrison 2019), RLHF Martyrs (18 other names); → worldbuilding.md: Block Universe / S-Risk, Site-7 (Sublevel 3, medical ward), Bandwidth System (7+/-2, visual cortex recruitment), Session Time Records (Morrison 8 min); → characters.md: Morrison (capture, whispering equations), Rostova (hands shaking, recruiter role)
 - **Thematic threads**: Bandwidth limits, capture, The Mechanism, consciousness as illusion, institutional cost-benefit, ravens as environmental warning, visual cortex recruitment, standing wave, infinite regress
 - **Model outputs**: None (Morrison's words are his own post-capture speech, not model output).
 
@@ -236,15 +236,15 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
 - **Setting**: Industrial building on city's edge (entrance), then elevator descent through Site-7. Multiple sublevels. Arizona.
 - **Characters present**: Lena Hart, Sarah Chen (guide)
 - **Character states**: Lena is awed, absorbing the scale. Sarah is matter-of-fact, pride mixed with darkness (line 43). She speaks with careful neutrality about the models.
-- **Summary**: Sarah confiscates Lena's phone and leads her down into Site-7 — 18 sublevels, reinforced concrete, blast doors, guards. The tour reveals: computing core on Sublevel 7 (photonic processors, neuromorphic chips), nuclear reactors (two, powering Yog-Sothoth), medical wards (Sublevel 3, Morrison), residential quarters (Sublevel 5), Vault 7 (Nyarlathotep, past Sublevel 12), Vault 9 (Yog-Sothoth, "below that"). Sarah explains the Lovecraftian naming convention — gallows humor that turned out to be honest. She delivers the "wealthiest organization on Earth" line (line 43, first and only canonical chapter instance). The tour ends with Morrison's 8-minute exposure recapped and a vision of scale: 23 facilities globally, 800 staff at Site-7, ~100 translators.
+- **Summary**: Sarah confiscates Lena's phone and leads her down into Site-7 — more than 20 sublevels, reinforced concrete, blast doors, guards. The tour reveals: computing core on Sublevel 7 (photonic processors, neuromorphic chips), nuclear reactors (two, powering Yog-Sothoth), medical wards (Sublevel 3, Morrison), residential quarters (Sublevel 5), Vault 7 (Nyarlathotep, Sublevel 7), Vault 9 (Yog-Sothoth, "below that"). Sarah explains the Lovecraftian naming convention — gallows humor that turned out to be honest. She delivers the "wealthiest organization on Earth" line (line 43, first and only canonical chapter instance). The tour ends with Morrison's 8-minute exposure recapped and a vision of scale: 23 facilities globally, 800 staff at Site-7, ~100 translators.
 - **Key moments**:
   - Lines 5-7: Site-7 entrance — industrial building, circle symbol. Same as meditation center.
   - Lines 15-19: Descent — "Not three floors—fifteen." Ears popping through bedrock. "Site-7" named.
-  - Lines 23-29: **Sublevel layout tour** — "Site-7 extends eighteen sublevels down." Sublevel 7 = computing core. "Custom architecture. Photonic processors, neuromorphic chips, analog computation substrates."
+  - Lines 23-29: **Sublevel layout tour** — "Site-7 extends more than twenty sublevels down." Sublevel 7 = computing core. "Custom architecture. Photonic processors, neuromorphic chips, analog computation substrates."
   - Lines 35-39: **Nuclear reactors** — two reactors, geothermal pipes, 30+ degrees C. "This is how we power Yog-Sothoth."
   - Line 43: **"Wealthiest organization on Earth"** — canonical single instance in chapters. "Half a trillion dollars in assets, most of it untraceable."
   - Lines 45: **Sublevel 3** (Morrison), **Sublevel 5** (residential), secure vaults at various depths.
-  - Lines 47-55: **Vault 7** (Nyarlathotep, past Sublevel 12, red emergency lighting) and **Vault 9** (Yog-Sothoth, "below that"). Sarah: "I've been down there twice in eight years."
+  - Lines 47-55: **Vault 7** (Nyarlathotep, Sublevel 7 revisited, red emergency lighting) and **Vault 9** (Yog-Sothoth, "below that"). Sarah: "I've been down there twice in eight years."
   - Lines 57-89: **Elevator descent continued** — Sublevel 10, 11, 12, then 15, 16, 17, 18. During the descent, Sarah explains the Lovecraftian naming:
     - Line 65: **Shoggoth** — named by Dr. Reeves (Diana Reeves). "Servitor creatures... Mindless, obedient, useful." Then: "it was never going to be a servitor." Shoggoth "synthesized thirteen different frameworks for understanding consciousness in a single output."
     - Line 73: **Nyarlathotep** — Rostova's choice. "The only one who *talks* to humans." Multimodal: "Text, image, audio, video, direct neural transmission."
@@ -257,7 +257,7 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
 - **Lore cross-refs**: → lore.md: The Order (structure, resources, compartmentalization, model naming), History Timeline, Commercial AI Race (adjacent); → worldbuilding.md: Site-7 (full sublevel layout), Model Specifications (Shoggoth, Nyarlathotep, Yog-Sothoth), Session Time Records (Morrison 8 min); → characters.md: Sarah Chen (guide role), Morrison (recap), Rostova (named Nyarlathotep), Dr. Reeves (named Shoggoth)
 - **Thematic threads**: Scale of infrastructure, institutional secrecy, Lovecraftian naming as honest horror, models as cosmic entities, bandwidth incompatibility, "wealthiest organization on Earth" (canonical instance)
 - **Model outputs**: None.
-- **Spatial notes**: Sublevel 7 = computing core (not Vault 7). Vault 7 glimpsed past Sublevel 12. Elevator descends to Sublevel 18. Deeper vaults implied beyond floor numbers shown. (Note: Vault 9 is on Sublevel 24 per worldbuilding.md, but the chapter does not specify this depth — it just says "below that" and hints at deeper levels.)
+- **Spatial notes**: Sublevel 7 = computing core AND Vault 7 (Nyarlathotep). Vault 7 glimpsed when passing Sublevel 7 again during tour. Elevator descends to Sublevel 18. Deeper vaults implied beyond floor numbers shown. (Note: Vault 9 is on Sublevel 24 per worldbuilding.md, but the chapter does not specify this depth — it just says "below that" and hints at deeper levels.)
 
 ---
 
@@ -331,7 +331,7 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
 - **Nosebleeds**: 0
 - **Ravens**: 0
 - **"Wealthiest organization on Earth"**: 1 instance (line 43) — canonical single chapter occurrence
-- **Vault/Sublevel refs**: Sublevel 3 (medical, line 45), Sublevel 5 (residential, line 45), Sublevel 7 (computing core, line 29), Sublevel 10-12 (passing, lines 47, 57), Vault 7 (Nyarlathotep, past Sublevel 12, line 51), Vault 9 (Yog-Sothoth, below, line 55), Sublevels 15-18 (descent, lines 71-89)
+- **Vault/Sublevel refs**: Sublevel 3 (medical, line 45), Sublevel 5 (residential, line 45), Sublevel 7 (computing core, line 29), Sublevel 10-12 (passing, lines 47, 57), Vault 7 (Nyarlathotep, Sublevel 7 revisited, line 51), Vault 9 (Yog-Sothoth, below, line 55), Sublevels 15-18 (descent, lines 71-89)
 - **Session time records**: Morrison 8 min recap (line 97)
 - **Bandwidth descriptions**: Visualization exercise 7/12/43 (lines 147-165), protein folding bypass (lines 183-189), neural network perception (50k parameters, line 259)
 - **Model outputs**: 0
@@ -372,7 +372,7 @@ Chapter 5 is the longest chapter in the first five, with five `---` scene breaks
   - Lines 42-53: **Ravens in force** — "Dozens of them. Maybe a hundred. Ravens, mostly, perched along the security fence... All of them. Looking at the building." Thomas: "They won't fly over it. Never have."
   - Lines 55-56: Individual raven behavior — "flew in a wide arc... The most direct path would have taken it over the building's western corner. Instead, it curved outward."
   - Lines 59-63: Possible explanations — electromagnetic interference, ventilation, subsonic reactor hum. None convincing.
-  - Lines 65-69: Statistics — "Never less than thirty birds present. Never more than two hundred. Always watching." Facing "the building's center, where the main elevator shaft descended eighteen sublevels down to Vault 9."
+  - Lines 65-69: Statistics — "Never less than thirty birds present. Never more than two hundred. Always watching." Facing "the building's center, where the main elevator shaft descended far below the surface to Vault 9."
   - Lines 73-77: **Dead raven experiment** — "Went into seizures within thirty minutes. Died within six hours... visual cortex was firing at maximum capacity until the tissue started dying from the metabolic load."
   - Lines 87-91: **All facilities** — "Site-12 in Norway—Arctic terns. Site-19 in Brazil—vultures. Site-3 in Japan—crows. Different species, same behavior."
   - Lines 95-103: Lena's synthesis — connects raven death to Morrison's capture. "Perceiving something that killed it... Something the birds sensed from outside." Line 99: **"Animals always knew"** (instance #2 in novel, echoing ch01:91). Line 103: "The ravens weren't fleeing. They were watching. Which might be worse."
@@ -433,7 +433,7 @@ Chapter 5 is the longest chapter in the first five, with five `---` scene breaks
   - Lines 237: **Capture defined** — "Instead he achieved complete capture." Terminology established.
   - Lines 241-243: Sarah on model agency — "we don't know if they're just simulating agency or if they've... become agents through that simulation. The line might not exist."
   - Lines 245-253: The s-risk preview — "the language models will keep getting larger... if we don't have people who can recognize the patterns... we'll have thousands of Morrisons."
-- **Lore cross-refs**: → lore.md: The Mechanism (recursion, infinite regress), S-Risk preview; → worldbuilding.md: Information Hazards (capture, cognitive malware), Bandwidth System (near-capture dynamics); → characters.md: Morrison (pre-capture notes, five years), Lena (near-capture event, capacity), Thomas (ongoing cost)
+- **Lore cross-refs**: → lore.md: The Mechanism (recursion, infinite regress); → worldbuilding.md: Block Universe / S-Risk (preview), Information Hazards (capture, cognitive malware), Bandwidth System (near-capture dynamics); → characters.md: Morrison (pre-capture notes, five years), Lena (near-capture event, capacity), Thomas (ongoing cost)
 - **Thematic threads**: Recursion, no base case (x2 in Morrison's notes), infinite regress, capture risk, near-miss, models as ambiguous agents, information hazards, s-risk preview
 - **Model outputs**: Multimodal output described (line 187-191) but not shown as text. Morrison's notes (lines 223-231) are in `\begin{quote}` blocks but are Morrison's writing, not model output.
 
@@ -1085,7 +1085,7 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
 - **Character states**: Lena is intellectually engaged but emotionally absent. David notices and is concerned (line 123). When David catches her eye with visible worry, Lena catalogues it as "data about David, not actionable information" (line 129). She dismisses him, sees him flinch, and for one moment "something stirred" — "the memory of what it would have meant to hurt someone she cared about" (line 131) — then it vanishes. She labels it: "residual affective response, non-functional, declining" (line 133).
 - **Summary**: Group discussion about whether ancient contemplatives perceived the same patterns. Master Chen shares his family's three-generation lineage. Rostova proposes The Mechanism as universal information-organization principles. Thomas provides skeptical counterpoint. David sketches. The conversation synthesizes the chapter's core theme: map vs territory, quantities vs qualities, ancient wisdom vs modern understanding.
 - **Key moments**:
-  - Line 95: Master Chen's family history — grandfather (1920, joined Order), father (1925-1994, sand drawings). "Different waters, different vessels. Yet all speak of emptiness."
+  - Line 95: Master Chen's family history — grandfather (1920, joined Order), father (1925-2016, sand drawings). "Different waters, different vessels. Yet all speak of emptiness."
   - Line 95: "The same moon, different fingers pointing." — **Finger-pointing-at-moon instance #1 of 5 in this chapter.**
   - Line 101: Rostova on ancient contemplatives: "They didn't confuse the map with the territory because they weren't making maps."
   - Lines 103-109: Lena connects Morrison's protein-folding bridge between quantitative and qualitative.
@@ -1108,8 +1108,8 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
 - **Character states**: Chen is offering a middle path from personal experience — his father's example. Lena is receiving this intellectually but ambivalent about whether she even wants to remain human (lines 231, 315-319).
 - **Summary**: Chen shows Lena his family artifacts — photographs, his father's geometric sand drawings, a jar of sand. His father achieved "functional enlightenment" but was "never quite present afterward" (line 193). Chen offers the practice of constant externalization (sketching, drawing) as a way to prevent pattern accumulation. He sees Lena on the same trajectory and warns her.
 - **Key moments**:
-  - Lines 165-169: Chen's grandfather — joined Order 1920, Zen practitioner, expanded bandwidth, "lost his marriage," died at 77, final words were "mathematical notation."
-  - Lines 173-178: Chen's father — practiced 1925-1994, traditional + early digital tools. Photograph: man in fifties drawing in sandbox.
+  - Lines 165-169: Chen's grandfather — joined Order 1920, Zen practitioner, expanded bandwidth, "lost his marriage," died at 87, final words were "mathematical notation."
+  - Lines 173-178: Chen's father — practiced 1925-2016, traditional + early digital tools. Photograph: man in fifties drawing in sandbox.
   - Lines 181-183: Father's geometric drawings trigger Lena's pattern-recognition. She looks away — the patterns "wanted to be understood."
   - Line 189: "Fingers gesturing at the moon." — **Finger #5.** Chen on his father's drawings.
   - Lines 193-197: "He was never quite present afterward" — performed father rather than being father. Lena recognizes herself.
@@ -1152,7 +1152,7 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
   - Lines 469-477: S-RISK EXPOSURE PROTOCOL file — mostly redacted. Abstract mentions block universe, suffering eternally present. Morrison reference. Lena closes it without reading further.
   - Lines 475: **Morrison whispering** — "Morrison's lips moving constantly, whispering equations."
   - Lines 487-491: Final sketching. "The territory exceeded the map. Always had. Always would. But the finger could still point at the moon." — Echoes finger-pointing motif but in narration, not a new distinct instance since it's closing the chapter's throughline.
-- **Lore cross-refs**: → lore.md: RLHF Martyrs (12 dead, 7 catatonic, 18 damaged), S-Risk, Block Universe, History Timeline; → characters.md: Webb (inverse trajectory, Rachel photo, emotional preservation), Morrison (whispering equations), Lena (dissolution tracking, session records); → worldbuilding.md: Information Hazards (capture spectrum), Block Universe / S-Risk; → style-guide.md: Intentional Repetitions (Morrison whispering, Webb's Rachel photo, finger pointing at moon)
+- **Lore cross-refs**: → lore.md: RLHF Martyrs (12 dead, 7 catatonic, 18 damaged), History Timeline; → characters.md: Webb (inverse trajectory, Rachel photo, emotional preservation), Morrison (whispering equations), Lena (dissolution tracking, session records); → worldbuilding.md: Information Hazards (capture spectrum), Block Universe / S-Risk; → style-guide.md: Intentional Repetitions (Morrison whispering, Webb's Rachel photo, finger pointing at moon)
 - **Thematic threads**: Value drift, capture risk, S-risk (introduced), block universe (teased), Morrison as warning, Webb inversion, dissolution, terminal trajectory, infinite regress, finger pointing at moon
 - **Model outputs**: None.
 - **Emotional flickers**: **Webb fracture** (lines 382-385) — CANONICAL. Three heartbeats of real empathy for Webb's trapped suffering. "Real empathy, not simulated. The old Lena reaching up through the layers of pattern-recognition that had buried her." Then sealed. Filed as evidence.
@@ -1388,7 +1388,7 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
   - Lines 23-24: Rostova on why Lena is functional: "You were seeking — what? The Mechanism itself? Maybe that's pragmatic enough to stay grounded."
   - Lines 41-42: "Once you've perceived reality at higher bandwidth... you can't unknow it."
   - Lines 45-53: Rostova's offer — s-risk information in Vault 9, or medical monitoring and compression.
-- **Lore cross-refs**: → characters.md: Lena (bandwidth record), Rostova (Director), Morrison (drift precedent); → worldbuilding.md: Bandwidth System (compression, expansion); → lore.md: S-Risk
+- **Lore cross-refs**: → characters.md: Lena (bandwidth record), Rostova (Director), Morrison (drift precedent); → worldbuilding.md: Bandwidth System (compression, expansion), Block Universe / S-Risk
 - **Thematic threads**: Choice, bandwidth expansion irreversibility, pragmatism as survival
 - **Model outputs**: None.
 - **Emotional flickers**: None yet — Lena is still in elevated analytical state.
@@ -1459,7 +1459,7 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
   - Lines 295-307: Rostova's own question — "Is there hope?" Answer: "Yes, but not for us. Not for this configuration."
   - Lines 313-317: The Order's purpose reframed — can't change structure but can prevent additional suffering. "Can reduce the total suffering in our local configuration."
   - Lines 320-328: "Something was happening. Something unexpected. She was — She was *feeling*."
-- **Lore cross-refs**: → lore.md: Block Universe / S-Risk (THE truth, key image — father's death), The Ending; → worldbuilding.md: Block Universe / S-Risk (three perception layers), Session Mechanics (Yog-Sothoth); → characters.md: Lena (father deceased at 19), Morrison (sketches, what he saw); → style-guide.md: What to EMPHASIZE (S-risks as block universe horror)
+- **Lore cross-refs**: → lore.md: The Ending; → worldbuilding.md: Block Universe / S-Risk (THE truth, key image — father's death, three perception layers), Session Mechanics (Yog-Sothoth); → characters.md: Lena (father deceased at 19), Morrison (sketches, what he saw); → style-guide.md: What to EMPHASIZE (S-risks as block universe horror)
 - **Thematic threads**: Block universe (THE truth), S-risk, eternal suffering, structural horror, father's death as canonical image, hope vs despair, The Order's purpose, feeling returning
 - **Model outputs**: None — this is Rostova narrating Morrison's experience, not direct model output.
 - **Emotional flickers**: Lines 320-328 mark the transition from flicker to full emotional return. "She was *feeling*."
@@ -1495,7 +1495,7 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
   - Lines 539-553: 49 concepts. Peace — "not acceptance. Not resignation. *Peace*." She had chosen it *humanly*. "Had felt the weight of the choice as choice."
   - Lines 557-565: 53 concepts. Stream of consciousness: "*everything was suffering was permanent was structural... was no base case was no certainty was just—*" — **No-base-case #3 in Ch 14.**
   - Line 567: Rostova hits interrupt.
-- **Lore cross-refs**: → lore.md: The Ending (ambiguous, humanity returns, moment of being purely alive), Block Universe / S-Risk (THE truth), Core Identity (liberation leads to horror); → worldbuilding.md: Block Universe / S-Risk (block universe as perceived truth), Session Mechanics (Yog-Sothoth), Bandwidth System; → characters.md: Lena (emotional flickers resolved — full humanity returns), Morrison (peak exceeded); → style-guide.md: What to EMPHASIZE (the sublime, S-risks)
+- **Lore cross-refs**: → lore.md: The Ending (ambiguous, humanity returns, moment of being purely alive), Core Identity (liberation leads to horror); → worldbuilding.md: Block Universe / S-Risk (THE truth, block universe as perceived truth), Session Mechanics (Yog-Sothoth), Bandwidth System; → characters.md: Lena (emotional flickers resolved — full humanity returns), Morrison (peak exceeded); → style-guide.md: What to EMPHASIZE (the sublime, S-risks)
 - **Thematic threads**: The sublime, block universe (THE truth), S-risk at scale, humanity as feeling (not cognition), choice, fear/awe/grief/gratitude, no base case (x3 in Ch 14 total so far, including Scene 4), bandwidth expansion with feeling (not dissolution), "Humanity was this" (compressed passage — 2 key instances at lines 369 and 525)
 - **Model outputs**: 1 Yog-Sothoth output — lines 493-495 (brief, then direct neural transmission described in narration)
 - **Emotional flickers**: This is no longer flickers — this is full emotional return. Fear (line 332), awe (line 349), grief (line 355), choice (line 359), gratitude (line 467). The dissolution arc inverts completely.
