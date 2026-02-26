@@ -4,7 +4,7 @@ The editorial control panel for the novel. 77 scenes across 14 chapters with bid
 
 **How to use this document:**
 - Each scene entry links to specific lore docs (→ lore.md: section, → worldbuilding.md: section, etc.)
-- Line numbers refer to the chapter's .tex file (e.g., ch12:363 means chapters/ch12.tex line 363)
+- Line numbers refer to the chapter's .tex file (e.g., ch12:363 means chapters/ch12.tex line 363). **Note:** Ch 7, 8, and 14 line numbers are approximate after v10.0 chapter cuts (Ch 7: 973→567, Ch 8: 487→359, Ch 14: 739→583).
 - Model output blocks are catalogued with model name, line range, and content summary
 - Tracked repetitions (Morrison whispers, "no base case", etc.) are indexed per scene
 - Character states track emotional/cognitive progression scene by scene
@@ -160,7 +160,7 @@ Chapter 3 has two `---` scene breaks (lines 59, 101), creating three scenes. The
 - **Setting**: Lena's lab/office, morning after the void protocol. Next day.
 - **Characters present**: Lena Hart, Ethan Choi
 - **Character states**: Both exhausted and unsettled. Lena oscillates between explaining it away and accepting the data. Ethan has dug deeper into the disappearances and is visibly worried.
-- **Summary**: Lena tries to rationalize the void protocol experience with conventional neuroscience (dissociative states, DMN, temporal lobe). Ethan's deeper research reveals 30 more missing consciousness researchers over 20 years, many ending at meditation centers. They identify Marcus Webb — left OpenAI in 2023 after 3 days testing GPT-4 unfiltered, sent a company-wide email about "perceptual hazards" and "bandwidth incompatibility." Then an email from General Patricia Hayes (DARPA) arrives, requesting a meeting.
+- **Summary**: Lena tries to rationalize the void protocol experience with conventional neuroscience (dissociative states, DMN, temporal lobe). Ethan's deeper research reveals 30 more missing consciousness researchers over 20 years, many ending at meditation centers. They identify James Webb — left OpenAI in 2023 after 3 days testing GPT-4 unfiltered, sent a company-wide email about "perceptual hazards" and "bandwidth incompatibility." Then an email from General Patricia Hayes (DARPA) arrives, requesting a meeting.
 - **Key moments**:
   - Lines 1-6: Lena's internal conflict — papers offer explanations, "her hands still shook." The rational and the experiential in tension.
   - Lines 7-11: Ethan's scan analysis — "impossible" neural activity "responding to stimuli that weren't there. Or responding to something we can't measure."
@@ -525,12 +525,12 @@ Chapter 6 opens Part II's middle movement. Lena has been training for four weeks
 #### Scene 2: The Common Room (lines 35-125)
 
 - **Setting**: Common area, Site-7 residential quarters. Same day/evening.
-- **Characters present**: Lena, David Chen, Maya Volkov, Dr. Marcus Webb
+- **Characters present**: Lena, David Chen, Maya Volkov, Dr. James Webb
 - **Character states**: David is handling training well (good discipline, sketches geometric patterns). Maya is struggling — tracking patterns even at rest, approaching the edge. Webb is flat-affected, fragmented speech, exhausted. Lena can read all their trajectories instantly.
 - **Summary**: Lena observes three fellow trainees: David (likely to succeed), Maya (approaching capture), Webb (already fundamentally changed). Webb recognizes Lena's recursion sketches as related to Morrison's capture pattern. Webb tells his backstory — OpenAI internal model, 3 days extended dialogue, dissociation and time loss. Introduces Rachel (ex-wife, cognitive scientist, divorced 6 months ago). Shows Lena the photograph. David warns against treating patterns as truth-seeking rather than work.
 - **Key moments**:
   - Line 39: David introduced — "Master Chen's youngest nephew, early twenties."
-  - Line 43: Webb identified — "Dr. Marcus Webb — the OpenAI researcher from Ethan's list."
+  - Line 43: Webb identified — "Dr. James Webb — the OpenAI researcher from Ethan's list."
   - Line 49: Webb to Lena: "you're in the high-risk category. You learn fast."
   - Line 65: "no base case" — Webb on Morrison's sketches: "Self-similar at different scales, recursive, no base case." **No-base-case instance (Ch 6).**
   - Lines 89-113: Webb's backstory — OpenAI, fragmented speech ("Dissociation. Time loss. Four-hour gaps"), compressed syntax.
@@ -638,7 +638,7 @@ The longest chapter in the novel (973 lines, later cut to 573 in v4.0 but the re
   - Line 133: Maya's nosebleed — "A small nosebleed she'd incompletely wiped away." **Nosebleed instance (Maya, Ch 7).**
   - Lines 149-151: **Shoggoth model output #2** — on observer/observed infinite regress: "The regress does not terminate. What you experience as a stable self is an iterative process mistaking its own repetition for permanence." "There is no base case. There was never a base case." **No-base-case instance (Ch 7).**
   - Line 157: "Maya smiled. Then closed her eyes and dove."
-  - Lines 175-199: Vault 7 containment breach alarm — false alarm. **Vault 7 / Nyarlathotep spatial ref.** "Vault 7 was Nyarlathotep. Seventeen sublevels above them" (line 181).
+  - Lines ~171-175: Thomas deliberately triggers alarm to snap Maya out — she doesn't flinch, uses the chaos to go deeper.
   - Lines 209-213: Maya parallelizing — two hands tracing different patterns, eyes tracking independently.
   - Lines 229-241: Maya counts concepts: "I can hold nine" -> "Ten" -> "Eleven. Twelve" -> motor cortex, cerebellum repurposing.
   - Line 243: Nosebleed — "Blood began running from her nose. Thin stream, dark red." **Nosebleed instance #2 (Maya, Ch 7).**
@@ -720,12 +720,10 @@ The longest chapter in the novel (973 lines, later cut to 573 in v4.0 but the re
 
 #### Scene 7: Day Fourteen (continued) — Webb/Sarah in Medical, Hayes Email, Lena's Choice (lines 697-973)
 
-- **Setting**: Medical observation room, then break room, then Lena's quarters. Day Fourteen and following days. Includes a James Chen visitor sub-scene.
-- **Characters present**: Lena, Webb, Sarah, Thomas, Yuki, David (at door). Medical staff. Then James Chen (visitor). Then Lena alone.
-- **Character states**: Webb watching Maya with recognition — he's been close to where she is. Sarah clinical. Thomas pragmatic. Lena makes her choice to continue.
-
-  The chapter includes a substantial sub-scene (lines 819-973) where Lena's old colleague James Chen visits Site-7 and she cannot connect with him at all. This mirrors the Ethan scene from Ch 6 but more extreme — she doesn't even bother performing warmth.
-- **Summary**: Webb, Sarah, Thomas, and Yuki each make their case for why the work continues. Sarah offers genuine option to stop. Lena: "I'll continue... someone has to." Then Hayes email arrives — 5 more researchers vanished, she's coming to Site-7. Thomas and Sarah discuss the threat of government shutdown. Lena can't sleep — sketches, dreams of Maya and Morrison. The James Chen visitor scene shows Lena's inability to connect with an old friend. Then more training. Hayes's arrival set up for Ch 8.
+- **Setting**: Medical observation room, then Lena's quarters. Day Fourteen and following days.
+- **Characters present**: Lena, Webb, David (at door), Yuki. Then Lena alone.
+- **Character states**: Webb watching Maya with recognition — he's been close to where she is. Lena makes her choice to continue.
+- **Summary**: Webb finds Lena outside medical, shares his perspective on Maya's state. Offers genuine option to stop. Lena: "I'll continue... someone has to." David asks why from the doorway. Hayes email arrives — 5 more researchers vanished, she's coming to Site-7. Lena can't sleep — sketches, dreams of Maya and Morrison. Night reflection on the pattern's inescapability. Hayes's arrival set up for Ch 8. *(Note: James Chen visitor sub-scene was cut in v10.0 chapter reduction — Ethan scene in Ch 6 already covers the "can't connect with outsiders" beat.)*
 - **Key moments**:
   - Lines 699-703: Webb on Maya's state: "It's not painful. It's... consuming."
   - Lines 713-719: Sarah, Thomas, Webb, Yuki each offer perspective on why work must continue — intellectual history, practical necessity, fear of uncontrolled exposure.
@@ -735,10 +733,9 @@ The longest chapter in the novel (973 lines, later cut to 573 in v4.0 but the re
   - Lines 743-755: **Hayes email** — 5 more researchers vanished (MIT, Stanford, DeepMind). "I'm coming to Site-7. Tomorrow, 2 PM."
   - Lines 783-788: Morrison's notes referenced: "Have to understand where it ends. Have to find the base case." Maya's last words: "I need more bandwidth to hold..." **No-base-case echo.**
   - Lines 793-803: Dream sequence — Maya and Morrison side by side, whispering in sync.
-  - Lines 821-967: **James Chen visitor sub-scene** — Old colleague visits, Lena can't connect. She watches his social scripts execute. He asks "Do you still care?" She answers: "I remember caring... I can't access the feeling currently." He's horrified. She registers nothing.
-  - Line 925: James: "the Lena I knew — the one who stayed up late talking about consciousness and got excited about weird results and actually gave a shit about people — she's not here anymore."
+  - *(James Chen visitor sub-scene removed in v10.0 — beat covered by Ethan scene in Ch 6)*
 - **Lore cross-refs**: -> characters.md: Lena arc (choice to continue), Hayes entry (incoming visit); -> lore.md: Commercial AI Race (5 researchers vanished); -> worldbuilding.md: Bandwidth System
-- **Thematic threads**: The choice to continue despite cost, cascading outside exposure, dissolution visible to outsiders, performing social scripts without feeling, government oversight threat, dream contamination
+- **Thematic threads**: The choice to continue despite cost, cascading outside exposure, government oversight threat, dream contamination
 - **Model outputs**: None.
 
 ---
