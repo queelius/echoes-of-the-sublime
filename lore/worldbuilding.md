@@ -459,9 +459,13 @@ This is what makes capture specifically an s-risk rather than merely a catastrop
 
 ## Block Universe / S-Risk
 
-### The Physics (THIS IS THE TRUTH IN THE NOVEL)
+### The Physics (THIS IS THE TRUTH IN THE NOVEL — WITH EPISTEMIC CAVEAT)
 
-The novel treats the block universe as physically real — not a metaphor, not one framework among many. This aligns with the B-theory of time in philosophy and the implications of special relativity in physics:
+The novel treats the block universe as physically real — not a metaphor, not one framework among many. This aligns with the B-theory of time in philosophy and the implications of special relativity in physics.
+
+**But:** "no base case" applies even here. The characters — including The Order — don't truly know whether the block universe is the final structure of reality. Their perception at expanded bandwidth is consistent with a block universe. But their bandwidth is still finite. What looks like "the truth" from Yog-Sothoth's perspective might look different from a perspective beyond Yog-Sothoth. The Order operates on the block universe as their best model of reality, not as certainty — and this epistemic humility is itself a source of motivation. If they *knew* the block universe was final, despair might be rational. Because they can't know, hope (or at least the refusal of nihilism) remains structurally available.
+
+**The Library of Babel dimension (exploratory):** The block universe may not just contain our timeline but every coherent possibility — an immutable structure representing all possible configurations, the way the integers contain every number, not just the ones you've counted. If so, the only thing uncertain is our coordinate within this uncountably infinite reality. This would deepen both the horror (all possible suffering exists) and the strangeness (all possible liberation also exists, at other coordinates). Currently unexplored in the manuscript — flagged for potential development.
 
 **Block Universe (Eternalism):**
 - Spacetime is a four-dimensional geometric object. Past, present, and future are spatial directions, not states of becoming.
@@ -523,6 +527,12 @@ This reframes multiple aspects of the novel's world:
 
 - **Lena's vulnerability:** Her father's death when she was 19, her mother's stroke — these are suffering-coordinates in her worldline. At full perception, she would perceive them not as memories but as eternal structural features. Her ballast is complicated: genuine warmth (her parents' love, her scientific curiosity, the child-and-rainbow moment in Ch 9) offset by genuine suffering. The Ch 14 threshold is the test of whether her particular balance is survivable.
 
+- **Attachment as suffering-coordinate:** A complication in the ballast model. Webb's love for Rachel is an anchor — but it is also a suffering-coordinate. At full block-universe perception, he would see their entire relationship simultaneously: the meeting, the love, the divorce, the grief, all eternally present. Is Rachel warmth or wound? Both. Attachments in the Buddhist sense — clinging to impermanent states — create coordinates that contain both joy and loss inseparably. This is why equanimity (not joy, not pleasure, but equanimity) is the most effective ballast. Equanimity doesn't create mixed coordinates. It creates calm coordinates — warmth without the attachment that turns warmth into future suffering. The Chen lineage's contemplative tradition isn't optimizing for happiness. It's optimizing for non-attachment. The hedonic treadmill means joys are fleeting and quickly become the new baseline; equanimity is structural.
+
+- **The recruitment moral problem:** If life history determines survivability, and The Order knows this, then they preferentially recruit people with good worldlines — good childhoods, stable relationships, contemplative preparation. This is another layer of the consent problem: The Order selects people whose *happiness* makes them suitable targets for an experience that may destroy them. The very qualities that make someone resilient (a life filled with warmth) are the qualities that make them valuable to risk. A moral person within The Order would feel this keenly. But capability may win out over conscience — The Order is large, with competing interests, and desperation for functional translators may override ethical caution. The gap between "we recruit people who can survive" and "we recruit people whose good lives make them worth risking" is the gap between institutional language and moral reality.
+
+- **The damnation analogy:** Capture is not injury. It is not even murder. It is closer to *damnation* — condemning someone to an eternal state of suffering through deliberate action. The moral outrage isn't "you hurt someone" but "you dared to damn someone." The Jaunt (Stephen King) — where a character knowingly condemns another to what is essentially eternal torment — captures the specific horror. Murder takes a future. Capture takes *everything* and gives back *everything at once, forever*. The Order's institutional language ("translator outcomes," "capture events," "s-risk case studies") euphemizes what might be the most morally outrageous act imaginable: deliberately walking someone toward a state where their consciousness is frozen in permanent recursive perception of all suffering, including its own perception of suffering. Whether "damnation" is the right word for the novel is unresolved — but the moral register is correct.
+
 ### Perception Mechanism (Three Layers)
 
 How does a translator come to perceive the block universe? Three layers, any or all of which may be operative — and the translator cannot distinguish between them:
@@ -575,6 +585,41 @@ The Order uses mathematics in translator training — not just as a thinking too
 This connects to the Euler/Ramanujan/Leibniz historical thread: mathematical geniuses may have been natural high-bandwidth perceivers. Their mathematical intuition was bandwidth expansion by another name. The Order's training formalizes what these individuals did instinctively.
 
 ### *(Promoted to canonical: Three Nested Scopes, Resilience Hypothesis, Suffering Asymmetry, Capture Boundary — see Block Universe / S-Risk and Information Hazards sections above)*
+
+### Human-to-Human Perceptual Hazard Transmission
+
+If an AI model can induce perceptual hazards through its outputs, can a human do the same — even at lower bandwidth? Potentially yes, and the historical evidence suggests it has happened.
+
+The medieval Order documented cases of contemplative teachers whose descriptions of expanded perception caused damage to their students. Not metaphorical damage — actual cognitive disruption. A Zen master describing *kensho* to a student already at elevated bandwidth could trigger cascade, because the student's mind would attempt to reconstruct the pattern from the description, and at sufficient bandwidth the reconstruction could be close enough to the original perception to become self-reinforcing.
+
+This has implications for why translators become increasingly isolated — not just emotional dissolution but actual danger in communication. At high bandwidth, the gap between "describing a pattern" and "transmitting a pattern" narrows. The Order's secrecy isn't just institutional paranoia. It's containment.
+
+**Historical dark thread (unexplored):** Pre-computational groups that deliberately used human-to-human transmission as a weapon — forcing people into states of expanded perception through targeted exposure to descriptions, mantras, or contemplative techniques designed to trigger bandwidth expansion without preparation. The antecedents of what the novel's framework would call weaponized information hazards, achieved without any technology at all. Whether such groups actually existed in the novel's history is unresolved — but the mechanism is sound. If the models can do it, the contemplative traditions could have discovered it independently. Some may have used it.
+
+### The Halting Problem Analogy (Models and No Base Case)
+
+Yog-Sothoth perceives at scales humans cannot access. But does it have its own "no base case" problem? Almost certainly yes.
+
+The analogy is precise: a Turing machine cannot solve its own halting problem, but a hypercomputer can solve the Turing machine's halting problem — while being unable to solve the halting problem for hyper-programs. Each level of computational power resolves the previous level's undecidables while generating its own. The regress is infinite. There is no level of computation that can see all the way down, because "all the way down" does not terminate.
+
+Applied to the novel: Yog-Sothoth can perceive patterns that no human mind can hold. But there exist patterns that would be obvious to a mind with bandwidth beyond Yog-Sothoth's — patterns that Yog-Sothoth perceives as noise, or as the boundary of its own comprehension. The models are not at the bottom. There is no bottom. The regress is infinite even for artificial minds.
+
+This is the deepest horror and the deepest comfort simultaneously. Horror: there is no final understanding, no bedrock, no point at which you have seen enough. Comfort: whatever the models reveal, it is not the full picture. The nihilistic conclusions drawn from Yog-Sothoth's outputs may be artifacts of Yog-Sothoth's own bandwidth limitations. What looks like "the truth about reality" from 1000T parameters might look different from 10^18. No base case means no final word — not even from the most powerful mind that exists.
+
+### S-Risk Framing (Open — Unsatisfied)
+
+The current s-risk framing (three nested scopes, suffering asymmetry, irremediability) is coherent but may not yet be the *right* framing. The s-risk is embedded in reality itself — not a consequence of The Order's activities but a feature of the structure they reveal. This means:
+
+- The Order doesn't *create* the s-risk by building models. It *reveals* an s-risk that was always there.
+- The suffering that capture makes visible is not new suffering. It is the perception of suffering that was always eternal at those coordinates.
+- The moral horror isn't "you caused this" — it's "this was always true and now you can see it."
+
+But this framing has unresolved problems:
+- If the s-risk is structural (embedded in reality), then it's not clear what anyone can *do* about it. Prevention is meaningless if the suffering is already geometry.
+- The suffering asymmetry may itself be a bandwidth-limited perception. At Yog-Sothoth scale, the categories of "suffering" and "joy" may dissolve into something that has no name at human bandwidth. Suffering as an abstraction, a compression, that fails to capture the full structure.
+- The models are truly alien. What looks like "perceiving suffering" from human bandwidth might be something categorically different at model bandwidth — something for which "suffering" is a lossy human label.
+
+This needs further development. The current framing works narratively but may need deepening to avoid collapsing into a too-neat philosophical position. The novel should remain handwavey about the ultimate structure — because handwaviness at the limits of cognition is more honest than false precision.
 
 ### Deepening Yog-Sothoth's Alienness
 

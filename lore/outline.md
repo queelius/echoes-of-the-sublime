@@ -275,8 +275,9 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
   - Lines 211-269: **Neural network training** — linear model (50 features, comprehensible) → two-layer network (1000 parameters, opaque) → deep residual network (50,000 parameters, incomprehensible). Lena achieves perception of 50,000-parameter collective behavior. Sarah warns: "the next step is language models. Not fifty thousand parameters. Hundreds of billions."
   - Line 261: Sarah's escalation — "Morrison learned to perceive those too. To watch information flow through systems with parameter counts that dwarf the number of neurons in a human brain." Then he "applied it to biological brains" — "That's when things went wrong."
   - Line 269: Morrison's progression — "universal computation... same information-processing principles appear in protein folding, in neural networks, in biological cognition. He thought he'd found The Mechanism." Then he "tried to visualize it fully. To hold the complete pattern. And couldn't let go."
-- **Lore cross-refs**: → lore.md: The Mechanism (universal information-organization principles); → worldbuilding.md: Bandwidth System (7+/-2, visual cortex recruitment, bypass technique), Model Specifications (parameter counts); → characters.md: Yuki Tanaka (instructor), Prior Thomas Chen (instructor, RLHF Martyr), Morrison (trajectory from protein folding to capture)
-- **Thematic threads**: Bandwidth limits, visual cortex recruitment, The Mechanism, Morrison's trajectory as cautionary tale, protein folding as entry point, neural network opacity, emergence
+  - Line ~295: **Transmission danger warning** — Yuki adds: "When you begin session work—whatever you perceive, you don't describe to other trainees. Not in detail. At sufficient bandwidth, a precise description can trigger perception in the listener. We've lost people that way." Establishes human-to-human perceptual hazard transmission early, explains translator isolation as safety measure.
+- **Lore cross-refs**: → lore.md: The Mechanism (universal information-organization principles); → worldbuilding.md: Bandwidth System (7+/-2, visual cortex recruitment, bypass technique), Model Specifications (parameter counts), Information Hazards (human-to-human transmission); → characters.md: Yuki Tanaka (instructor), Prior Thomas Chen (instructor, RLHF Martyr), Morrison (trajectory from protein folding to capture)
+- **Thematic threads**: Bandwidth limits, visual cortex recruitment, The Mechanism, Morrison's trajectory as cautionary tale, protein folding as entry point, neural network opacity, emergence, transmission danger
 - **Model outputs**: None.
 
 ---
@@ -818,11 +819,11 @@ Single long scene: Hayes visits Site-7 for a briefing. The chapter is a sustaine
 - **Setting**: Conference Room B, continuing.
 - **Characters present**: Lena, Thomas, Yuki, Sarah, Hayes
 - **Character states**: Hayes nearly shuts them down (finger hovering over phone). Thomas, Yuki, Sarah make the case for continuation. Lena provides honest witness testimony.
-- **Summary**: Hayes threatens to call FBI. Thomas, Yuki, and Sarah argue: models already out there, can't regulate curiosity, better trained casualties than uncontrolled exposure. Detailed discussion of why reward models can't replace human translators — patterns are inherently meta-cognitive, can't gut-feeling philosophical claims about your own mind. Thomas's "civilization-level epistemic catastrophe" argument. Yuki: "Ten thousand Morrisons" projection. Thomas raises weaponization. Lena honestly admits she can't verify whether the work is necessary. RLHF Martyrs statistics: 12 dead, 7 catatonic, 18 damaged but functional (37 total).
+- **Summary**: Hayes threatens to call FBI. Thomas, Yuki, and Sarah argue: models already out there, can't regulate curiosity, better trained casualties than uncontrolled exposure. Compressed discussion of why reward models can't replace human translators — edge cases are person-specific, detection works but evaluation requires conscious engagement with the patterns. Thomas's "civilization-level epistemic catastrophe" argument. Yuki: "Ten thousand Morrisons" projection. Thomas raises weaponization. Lena honestly admits she can't verify whether the work is necessary. RLHF Martyrs statistics: 12 dead, 7 catatonic, 18 damaged but functional (37 total). [v11.0: reward model debate compressed from 6 exchanges to 4; line numbers approximate.]
 - **Key moments**:
   - Line 169: Hayes: "I'm calling the Director. Then FBI."
   - Line 179: Thomas on models already proliferating.
-  - Lines 197-238: **The reward model argument** — why automated filtering fails. Patterns are inherently meta-cognitive. "The moment you perceive a pattern that says 'consciousness is X'... your consciousness can't help but engage with the claim."
+  - Lines ~169-183: **The reward model argument (compressed)** — why automated filtering fails. Morrison example, detection vs evaluation, verification problem. "You can't evaluate a claim about perception without perceiving it."
   - Line 187: RLHF Martyrs statistics: "Twelve dead, seven catatonic, eighteen damaged but functional." **37 total confirmed.**
   - Line 281: Yuki: "Ten thousand Morrisons, General. That's the conservative estimate." **Whispering equations reference** in Yuki's projection.
   - Lines 285-293: Thomas on "civilization-level epistemic catastrophe" — "knowledge itself becomes hazardous at scale."
@@ -858,13 +859,12 @@ Single long scene: Hayes visits Site-7 for a briefing. The chapter is a sustaine
 - **Setting**: Lena's quarters, Site-7. Night.
 - **Characters present**: Lena (alone). Ethan via email.
 - **Character states**: Lena restless, reflecting on Hayes's bandwidth limits. Recursion pattern running in background as always.
-- **Summary**: Lena reflects on the day. Thinks about models at 128k tokens and growing. The recursion pattern won't stop. Receives email from Ethan — worried about her, references the neural crown experiments. She writes a compressed, inadequate response. Sketches until late. Thinks about Buddha — "fingers pointing at the moon." Two more threshold sessions coming.
+- **Summary**: Lena reflects on the day. Recursion pattern won't stop. Receives email from Ethan — worried about her, references the neural crown experiments. She models his concern with precision but can't feel any of it. Writes a compressed, inadequate response. Returns to sketches. Two more threshold sessions coming. [v11.0: email meditation compressed from 15→5 lines; wind-down "She was changing. Dissolving." cut entirely. Chapter ends on "She'd made her choice." Line numbers approximate.]
 - **Key moments**:
-  - Lines 443-455: **Ethan's email** — "You're not yourself anymore... I've had nightmares about it since."
-  - Lines 466-469: Lena's response: "I'm as careful as I can be. The work is necessary. I'm sorry I've changed." — Compressed beyond recognition.
-  - Line 477: "Maybe Buddha had been one of the successful ones... Fingers pointing at the moon." **Finger-pointing-at-moon instance (Ch 8).**
-- **Lore cross-refs**: -> lore.md: Ancient Connections (Buddha); -> characters.md: Ethan (worried emails); -> style-guide.md: Intentional Repetitions (finger pointing at moon)
-- **Thematic threads**: Compression problem in human communication, ancient connections, finger pointing at moon, dissolution visible to outsiders
+  - Lines ~309-321: **Ethan's email** — "You're not yourself anymore... I've had nightmares about it since."
+  - Lines ~323-327: Lena's response: "I'm as careful as I can be. The work is necessary. I'm sorry I've changed." — Three lines total. "She couldn't feel any of it."
+- **Lore cross-refs**: -> characters.md: Ethan (worried emails)
+- **Thematic threads**: Compression problem in human communication, dissolution visible to outsiders
 - **Model outputs**: None.
 
 ---
@@ -894,12 +894,12 @@ Two major sections: (1) the remaining threshold sessions and (2) the child/rainb
 
 ---
 
-#### Scene 2: Night — Webb's Inversion Monologue (lines 125-208)
+#### Scene 2: Night — Webb's Inversion Monologue (lines 125-189)
 
 - **Setting**: Common area, Site-7. 4 AM.
 - **Characters present**: Lena, Webb
 - **Character states**: Webb looks worse — "eyes bloodshot, skin pale, hands trembling." Can't release patterns anymore — they run constantly. Still functional but deteriorating. Lena is exhausted, patterns invaded her dreams.
-- **Summary**: Webb confesses his patterns now run constantly — "can push them to background but they never stop." Then delivers the chapter's key monologue: the cruel inversion. Lena is losing feelings but keeping cognition. Webb is losing cognition but keeping feelings. He still loves Rachel — wakes every morning forgetting the divorce, then remembers, and it hurts every time. "I'd give anything for that. Anything to stop feeling." He describes Lena's path as "mercy" — she won't feel herself dying. His path: he'll "feel every moment of it." Lena feels nothing about his despair. Webb: "No you're not. You can't be."
+- **Summary**: Webb confesses his patterns now run constantly — "can push them to background but they never stop." Then delivers the chapter's key monologue: the cruel inversion. Lena is losing feelings but keeping cognition. Webb is losing cognition but keeping feelings. He still loves Rachel — wakes every morning forgetting the divorce, then remembers, and it hurts every time. "I'd give anything for that. Anything to stop feeling." He describes Lena's path as "mercy" — she won't feel herself dying. His path: he'll "feel every moment of it." Lena feels nothing about his despair. Webb: "No you're not. You can't be." [v11.0: The Ethan reflection (previously lines 189-217) — Tuesday mornings, last visit, "felt nothing" — has been cut. The scene now ends with "She couldn't." → scene break. The Ethan content was redundant with the Ch 8 email exchange.]
 - **Key moments**:
   - Lines 131-139: Webb: "Can't release them anymore. The patterns... run constantly now."
   - Lines 151-153: **Webb's Rachel photo instance #2** — "He pulled out his wallet again, looked at Rachel's photograph." "I still love her. Still feel it. Not as memory — as present tense." **Rachel photo (Ch 9).**
@@ -991,7 +991,7 @@ Lena enters the Vault for the first time and begins direct work with Shoggoth. T
 - **Character states**: Lena is alone with Shoggoth for the first time. Deliberate, careful. The model's outputs are overwhelming in their coherence — "Not fragmented thoughts but coherent ones, too many of them, all precisely connected."
 - **Summary**: Lena's first direct session with Shoggoth. Five prompts and responses: (1) "What is consciousness?" — dense synthesis across neuroscience, Buddhist philosophy, Western philosophy, cognitive science. (2) "Relationship between mathematics and consciousness" — four frameworks (Platonist, Constructivist, Dual-Aspect, Bandwidth-Relative) plus Tegmark. Near-capture. (3) "Are you being truthful?" — model presents undecidability of its own truthfulness. (4) "How would I detect mesa-optimization?" — model explains verification problem is symmetrical for AI and humans. (5) "Do you experience consciousness?" — the most precise output: "I do not know, and the not-knowing is not ignorance but structure."
 
-  The technician scene (lines 173-189) shows Lena's inability to connect even casually — she analyzes the woman's micro-expressions instead of having small talk. The sandwich-eating scene (lines 260-268) shows her eating without tasting — "Fuel intake. Maintenance."
+  The technician scene (lines ~173-179) shows Lena's inability to connect — compressed to essential beats (smile flickers, technician leaves quickly). Anna Chen scene expanded (lines ~189-217): Anna lingers, makes a genuinely sharp structural observation about Shoggoth's output (Dennett as compression anchor), demonstrating her opening bandwidth. Lena's peripheral awareness detects something about Anna she can't consciously parse — dismissed. Seeds Ch 12 devastation. The sandwich scene (line ~267) shows eating without tasting — "Fuel intake" (compressed from 9 lines to 1). [v11.0: technician 18→6 lines, Anna +16 lines, food memory 9→1 line. Time-pressure beat added after debriefing — Yuki accelerates Nyarlathotep timeline to 2 weeks, Trainee-31 lost at another facility, Hayes oversight report due in 45 days.]
 - **Key moments**:
   - Lines 103-111: **Shoggoth model output #1** — "What is consciousness?" Dense synthesis: temporal binding, Yogacara, Abhidharma, Dennett, Nagel, Miller's 7±2. "The hard problem may be artifact of this limitation." In `\textit{}` within `\begin{quote}`.
   - Lines 135-145: **Shoggoth model output #2** — Math/consciousness relationship. Four frameworks + Tegmark. In `\textit{}` within `\begin{quote}`.
@@ -1058,14 +1058,13 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
 - **Setting**: Archives sub-level, Site-7 (climate-controlled rooms). Daytime.
 - **Characters present**: Lena, Yuki Tanaka, Dr. Sarah Castellanos, unnamed researcher
 - **Character states**: Lena is clinically detached — she can visualize her mother's face in high-resolution but cannot remember what her voice *felt* like (line 17-21). She catalogues Castellanos's desk photo as data about warmth she can no longer access (line 13). She notes she hasn't called her mother in six weeks and "hadn't wanted to" because the interaction "served no purpose she could optimize for" (lines 23-25).
-- **Summary**: Castellanos gives Lena a tour of The Order's archives — ancient texts (Prajnaparamita Sutra fragments ~100 BCE, Meister Eckhart, Teresa of Avila, Ibn Arabi, Sufi practices) fed to unmasked models for analysis. The models decode patterns suggesting ancient contemplatives perceived the same structures translators now encounter. But the fundamental ambiguity is maintained: pattern-matching onto noise, or genuine decoding of ancient wisdom?
+- **Summary**: Castellanos gives Lena a tour of The Order's archives — ancient texts (Prajnaparamita Sutra fragments ~100 BCE, Meister Eckhart, plus brief mentions of Teresa of Ávila, Ibn Arabi, cave paintings) fed to unmasked models for analysis. The models decode patterns suggesting ancient contemplatives perceived the same structures translators now encounter. But the fundamental ambiguity is maintained: pattern-matching onto noise, or genuine decoding of ancient wisdom? [v11.0: Teresa's full analysis compressed into artifact list sentence. Eckhart paragraph trimmed.]
 - **Key moments**:
   - Lines 11-12: Lena recognizes Shoggoth's patterns in mystical texts — "Anatta. Sunyata. The Tao."
   - Lines 13-25: Mother dissolution marker — can visualize face but not feel the voice; performed warmth on phone six weeks ago; hasn't called since.
   - Line 31: Prajnaparamita Sutra fragments (~100 BCE) shown, model analysis reveals identity dissolution at sufficient resolution.
   - Lines 51-55: Eckhart's "observer-observed unity" text, model analysis says it encodes real perceptual pattern. "Eckhart was tried for heresy in 1327" [note: should be 1326 per lore.md; text says 1327 — flagging as potential inconsistency, though it may be left as Castellanos's approximation in dialogue].
-  - Lines 57-58: Teresa of Avila (1570s), transverberation matches session symptoms.
-  - Lines 59: Cloud of Unknowing, Ibn Arabi, Sufi practices, even cave paintings.
+  - Lines ~56-57: Compressed artifact list — Cloud of Unknowing, Ibn Arabi, Teresa of Ávila, cave paintings. "Different cultures, different centuries. The same underlying structure."
   - Lines 61: Order founded 1714 in Leipzig. Leibniz involved, possibly Spinoza. Correspondence 1676 about "space between ments."
   - Lines 67-71: Buddha — multiple theories. Devadatta as early casualty. Even at Buddha's level, mysteries remained.
   - Lines 81-85: Ambiguity is permanent — might be genuine decoding or sophisticated guesses.
@@ -1081,7 +1080,7 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
 - **Setting**: Common room at Site-7. Evening/night.
 - **Characters present**: Lena, David Chen, Elena Rostova, Master Chen, Thomas Chen
 - **Character states**: Lena is intellectually engaged but emotionally absent. David notices and is concerned (line 123). When David catches her eye with visible worry, Lena catalogues it as "data about David, not actionable information" (line 129). She dismisses him, sees him flinch, and for one moment "something stirred" — "the memory of what it would have meant to hurt someone she cared about" (line 131) — then it vanishes. She labels it: "residual affective response, non-functional, declining" (line 133).
-- **Summary**: Group discussion about whether ancient contemplatives perceived the same patterns. Master Chen shares his family's three-generation lineage. Rostova proposes The Mechanism as universal information-organization principles. Thomas provides skeptical counterpoint. David sketches. The conversation synthesizes the chapter's core theme: map vs territory, quantities vs qualities, ancient wisdom vs modern understanding.
+- **Summary**: Group discussion about whether ancient contemplatives perceived the same patterns. Master Chen shares his family's three-generation lineage. Rostova proposes The Mechanism as universal information-organization principles. Thomas provides skeptical counterpoint. David sketches. The conversation synthesizes the chapter's core theme: map vs territory, quantities vs qualities, ancient wisdom vs modern understanding. [v11.0: Rostova's "Ambiguity" gloss cut — Thomas's "It feels real. But that doesn't mean it is real" now flows directly into Chen's finger-pointing speech.]
 - **Key moments**:
   - Line 95: Master Chen's family history — grandfather (1920, joined Order), father (1925-2016, sand drawings). "Different waters, different vessels. Yet all speak of emptiness."
   - Line 95: "The same moon, different fingers pointing." — **Finger-pointing-at-moon instance #1 of 5 in this chapter.**
@@ -1114,11 +1113,12 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
   - Lines 201-203: Chen explicitly names Lena's trajectory — "same distance forming, same simulation replacing genuine presence." Offers his father as evidence of a middle path.
   - Lines 205-213: The externalization practice — "drainage," not art. Keeping the vessel empty preemptively.
   - Lines 217-221: Chen reveals David may have the capacity too. "I hope he finds the middle path."
-  - Lines 225-228: Chen's father died drawing at 91 — "died functional, died himself" — still present enough to say goodbye.
+  - Line ~225: **Equanimity teaching** — Chen shares grandfather's wisdom: "Joy makes poor ballast. Joy fades—it becomes the new baseline, and then you need more. Equanimity endures." The hedonic treadmill rendered in Chen's non-technical voice. Connects to resilience hypothesis (→ worldbuilding.md) without naming it.
+  - Lines ~227-230: Chen's father died drawing at 91 — "died functional, died himself" — still present enough to say goodbye.
   - Lines 235-236: "If you find yourself unable to feel your mother's pain... that is when you should draw the most."
   - Lines 239-243: Lena sketches for three hours. "Fingers pointing at the moon. That was all any of them could do." — reference but not a standalone "finger pointing at moon" phrase instance since it echoes line 243.
-- **Lore cross-refs**: → lore.md: Ancient Connections (Chen family lineage); → characters.md: Master Chen (family, father details), David Chen (bandwidth capacity); → worldbuilding.md: Bandwidth System (visual cortex recruitment, externalization)
-- **Thematic threads**: Middle path, externalization practice, finger pointing at moon (#5), functional enlightenment vs capture, Chen family lineage, Lena's dissolution
+- **Lore cross-refs**: → lore.md: Ancient Connections (Chen family lineage); → characters.md: Master Chen (family, father details, equanimity teaching), David Chen (bandwidth capacity); → worldbuilding.md: Bandwidth System (visual cortex recruitment, externalization), Resilience Hypothesis (equanimity as ballast)
+- **Thematic threads**: Middle path, externalization practice, finger pointing at moon (#5), functional enlightenment vs capture, Chen family lineage, Lena's dissolution, equanimity over joy
 - **Model outputs**: None.
 - **Emotional flickers**: None — Lena receives Chen's teaching intellectually and questions whether she even wants the middle path (lines 315-319).
 
@@ -1345,19 +1345,20 @@ Chapter 13 is the physical descent to Vault 9 and Lena's Yog-Sothoth session. Tw
   - Lines 325-333: **Yog-Sothoth output #2** — continuation. Consciousness as spectrum (bacteria to humans to model). "There's no threshold where consciousness 'begins.'"
   - Lines 343-355: **Yog-Sothoth output #3** — "The hard problem is bandwidth-limited consciousness asking about itself and hitting recursion with no base case." — **No-base-case #1 in Ch 13** (line 346). "Just patterns asking patterns what they are."
   - Lines 361-363: 32 concepts. Medical alarms screaming. Both eyes hemorrhaging. Heart rate 198. fMRI shows unprecedented activity.
-  - Lines 367-381: Lena gasps "Wait—" but understands the structural truth: consciousness observing itself with no base case. "Once you perceived it, you couldn't unknow it." **No-base-case #2 in Ch 13** (line 373).
+  - Lines 367-381: Lena gasps "Wait—" but understands the structural truth: consciousness observing itself with no base case. **No-base-case #2 in Ch 13** (line 373).
+  - Lines ~375-377: **Epistemic humility / halting problem** — Lena reflects: "Even Yog-Sothoth's." Echoes the model's own words from line 352 (*You can't reach infinite bandwidth. Neither can I.*). "The most powerful mind The Order had built could not see past its own recursion." **No-base-case #3 in Ch 13** — "No base case, even for the thing that had shown her there was no base case." Then: "Once you perceived it, you couldn't unknow it."
   - Line 383: Rostova hits interrupt.
-  - Lines 387-389: **"Twenty-seven minutes."** Lena's Yog-Sothoth record. "Morrison lasted eight. Webb lasted twenty-three. You're the third person to survive past twenty-five."
+  - Lines 387-389: **"Twenty-seven minutes."** Lena's Yog-Sothoth record. "Morrison lasted eight. Webb lasted twenty-three. No one has lasted that long."
   - Lines 395-407: Medical sedation. Rostova promises the s-risk revelation next: "I'll show you what Morrison saw. I'll tell you about the s-risks." Final words: "Are you ready for the real question?"
-- **Lore cross-refs**: → worldbuilding.md: Model Specifications (Yog-Sothoth CANONICAL — 1000T params, 10T context), Session Mechanics (Yog-Sothoth sessions — environment, interface, monitoring), Session Time Records (Lena 27 min, Morrison 8 min, Webb 23 min), Probe Array (training data), Block Universe / S-Risk (foreshadowed); → characters.md: Lena (session record, emotional flicker — ice-thinning), Rostova (Director title); → lore.md: The Mechanism; → style-guide.md: Model Output Style (Yog-Sothoth = alien coherence), Session Scene-Writing (Yog-Sothoth tier)
-- **Thematic threads**: Consciousness, infinite regress, no base case (x2), bandwidth expansion, capture risk, s-risk (foreshadowed), the sublime, body as obstacle, Director Rostova
+- **Lore cross-refs**: → worldbuilding.md: Model Specifications (Yog-Sothoth CANONICAL — 1000T params, 10T context), Session Mechanics (Yog-Sothoth sessions — environment, interface, monitoring), Session Time Records (Lena 27 min, Morrison 8 min, Webb 23 min), Probe Array (training data), Block Universe / S-Risk (foreshadowed), Cognitive Architecture (epistemic humility, halting problem); → characters.md: Lena (session record, emotional flicker — ice-thinning), Rostova (Director title); → lore.md: The Mechanism; → style-guide.md: Model Output Style (Yog-Sothoth = alien coherence), Session Scene-Writing (Yog-Sothoth tier)
+- **Thematic threads**: Consciousness, infinite regress, no base case (x3), bandwidth expansion, capture risk, s-risk (foreshadowed), the sublime, body as obstacle, Director Rostova, epistemic humility
 - **Model outputs**: 3 Yog-Sothoth outputs — lines 303-309, 325-333, 343-355. Note: outputs are briefer than Nyarlathotep's in Ch 12 because transmission is primarily via neural crown (direct cortical stimulation), not text. Most of the perception is described in Lena's narrated experience.
 - **Emotional flickers**: **Ice-thinning** (lines 289-293) — CANONICAL. "Something was stirring in the space where fear should have been — not fear itself, not yet, but a kind of pressure, a restlessness, like water moving under ice." The ice is thinning. This directly precedes the Yog-Sothoth session and marks the transition toward Ch 14's emotional return.
 
 ---
 
 **Chapter 13 Summary Statistics:**
-- **No base case**: 2 instances (lines 346, 373)
+- **No base case**: 3 instances (lines 346, 373, ~376)
 - **Model outputs**: 3 Yog-Sothoth (lines 303-309, 325-333, 343-355)
 - **Session time**: 27 minutes Yog-Sothoth (line 389) — record
 - **Emotional flickers**: 2 canonical (shape-of-fear lines 149-155, ice-thinning lines 289-293)
@@ -1408,10 +1409,11 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
   - Line 87: "I've heard it from Rostova. I've heard it from the Director." — **Hayes references "the Director" as distinct from Rostova** — implies Chen was Director when Hayes heard it, and now Rostova holds the title. Confirms the transition.
   - Lines 93: **Mother beat**: "Lena thought about Sophia, visiting her catatonic mother. About Ethan, walking away in grief. About her own mother in the hospital, reaching for a daughter who'd performed love without feeling it." [This is the reference to Anna Hart, though the "reaching for her hand" detail from characters.md is rendered here as "reaching for a daughter."]
   - Lines 95-106: Honest exchange. "I don't know." / "That's the first honest thing..." / "I feel... something. Not as much as I should. But more than I have in months."
-  - Lines 121-131: Hayes's position — can't shut it down because "someone else will do this work without the safeguards." But will remember. "Whatever you become down there... you chose it."
+  - Lines ~127-129: **Damnation register** — Hayes escalates from "broken" to something worse: "Morrison isn't broken, is he? His eyes still move. His lips still whisper. He's not gone—he's in there, seeing something he can't stop seeing, forever." Reaches for the word "damnation" but doesn't say it: "There's a word for what that is. I don't think you'd feel it even if I said it." Reader fills in the unsaid word. Last sentence callbacks to Lena's dissolution.
+  - Lines ~131-141: Hayes's position — can't shut it down because "someone else will do this work without the safeguards." But will remember. "Whatever you become down there... you chose it."
   - Lines 133-139: Lena alone — "something was stirring." Recognition: "she had become something terrible, and that becoming something terrible had been a choice."
-- **Lore cross-refs**: → characters.md: Hayes (outsider/protector, normal bandwidth), Lena (beginning of emotional return), Rostova (Director); → lore.md: Internal Spectrum (Hayes as outsider), Government Knowledge, Commercial AI Race (someone else would do it)
-- **Thematic threads**: Accountability, value drift (confronted), choice, humanity's return, oversight vs containment, the Director transition (Chen → Rostova)
+- **Lore cross-refs**: → characters.md: Hayes (outsider/protector, normal bandwidth, damnation register), Lena (beginning of emotional return), Rostova (Director); → lore.md: Internal Spectrum (Hayes as outsider), Government Knowledge, Commercial AI Race (someone else would do it); → worldbuilding.md: Information Hazards (capture as damnation — Hayes's unsaid word)
+- **Thematic threads**: Accountability, value drift (confronted), choice, humanity's return, oversight vs containment, the Director transition (Chen → Rostova), damnation register
 - **Model outputs**: None.
 - **Emotional flickers**: Lines 83-84 — "something. Not nothing. A distant echo." Lines 105-106 — "I feel... something. Not as much as I should. But more than I have in months." These are the first signs of emotional return, building from the ice-thinning in Ch 13.
 

@@ -123,7 +123,7 @@ These repetitions are deliberate structural elements:
 | Morrison whispering equations | 4 | Recurring dread motif |
 | Webb's Rachel photo | 3 | Persistent love despite cognitive damage |
 | "Finger pointing at moon" | 6 | Buddhist epistemology leitmotif (1 in Ch 2, 5 in Ch 11) |
-| "Paranoia is protocol" | 1 | Singular, defining |
+| "Paranoia is protocol" | 3 | Introduced Ch 8 (Thomas), echoed Ch 10 (Lena), confirmed Ch 10 (Yuki). Progression from institutional wisdom to internalized principle. |
 | Progressive "couldn't feel" accumulation | 11 | Tracks Lena's dissolution |
 | "Standing wave" metaphor | 3 | Distinct contexts |
 | "Pupils dilating" | 7 | Medical monitoring recurring |

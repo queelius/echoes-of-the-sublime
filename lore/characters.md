@@ -149,6 +149,7 @@ Webb is the narrative carrier for the consent paradox. He articulates it as live
 - "The river runs to the sea by many paths"
 - "Fingers pointing at moon, not the moon itself"
 - Denied Rostova's recommendation to shut down Vault 9 access, saying "Morrison's sacrifice was not in vain"
+- **Equanimity teaching (Ch 11):** Passes down grandfather's insight — "Joy makes poor ballast. Equanimity endures." The contemplative discipline (sitting, breathing, being still without grasping) is what survives expanded perception. Connects to resilience hypothesis without naming it.
 
 **Dual Role Tension:**
 Simultaneously Lena's compassionate mentor AND the institutional leader who accepts casualties. His three-generation family commitment to The Order makes him both the most experienced and the most invested — possibly unable to question the work because it's his family's entire legacy. When he says "Morrison's sacrifice was not in vain," is that wisdom or sunk-cost rationalization? The family history sharpens this: three generations of choosing to continue despite watching the cost accumulate. Chen's position is shaped not just by institutional loyalty but by the fact that questioning the Order means questioning his grandfather's sacrifice, his father's life, and the path his nephew Thomas has already been damaged by.
@@ -254,7 +255,7 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 
 ---
 
-### Ethan
+### Ethan Choi
 
 **Basic Info:**
 - Lena's colleague from before Site-7
@@ -301,15 +302,18 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 - Poster of Ramachandran on office wall
 - Laughs too loud at bad puns
 - Got into consciousness research because grandmother's dementia
+- Genuinely talented — her bandwidth is opening in the right direction
 
 **Arc:**
+- Ch 10: Introduction during Lena's Shoggoth break. Asks about sticky vs dense patterns. Reveals grandmother's dementia as motivation. Lingers and makes a sharp structural observation about Shoggoth's output (identifies Dennett reference as "compression anchor" preventing recursive visualization). Lena notes the insight is genuinely good, registers a peripheral awareness signal she can't parse, and dismisses it. Seeds for Ch 12.
 - Ch 12: First high-bandwidth session with Lena supervising
 - Lena lets her approach capture for data
 - Gets captured — now in ward
 
 **Function:**
-- Demonstrates Lena's complete transformation
-- Lena's moral nadir
+- Demonstrates Lena's complete transformation (Ch 12 nadir)
+- Ch 10 introduction establishes her talent, making her Ch 12 loss devastating rather than abstract
+- The "something nagged" signal in Ch 10 is Lena's expanded bandwidth detecting risk that clinical Lena ignores — dramatic irony
 
 ---
 
@@ -361,6 +365,8 @@ Denied Rostova's shutdown recommendation. Believes understanding The Mechanism j
 ### Hayes — The Outsider / Protector
 
 Rejects utilitarian calculus. Concerned about humanity of the translators. Can't evaluate the work on its own terms because she lacks bandwidth. Represents what translators are leaving behind — competent, humane, reasonable, and fundamentally unable to see what they see. Her frustration isn't ignorance; it's the rational response to being told "trust us" by people who are visibly deteriorating.
+
+**Damnation register (Ch 14):** Hayes escalates from "broken minds" to something she can't quite name — Morrison isn't broken, he's *trapped*, seeing something he can't stop seeing, forever. She reaches for the word "damnation" but withholds it: "There's a word for what that is. I don't think you'd feel it even if I said it." Hayes can name the horror *because* she still has the emotional bandwidth to feel it — the very thing Lena has lost.
 
 ### Castellanos — The Archivist / Committed (Scholarly)
 
