@@ -27,14 +27,14 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 
 ### Open — From v10.0 Multi-Agent Review
 
-| # | Task | Scope | Priority |
-|---|------|-------|----------|
-| M1 | Part II pacing plateau (Chs 4-11) | Repetitive training cycles; needs 2-3 dramatic interruptions | Medium |
-| M2 | Instructor voice differentiation (Yuki/Thomas/Sarah) | Largely interchangeable; need distinct speech patterns, concerns, rhythms | Medium |
-| M9 | Webb voice smoothing | His register shifts between chapters; needs consistency pass | Low |
-| M11 | Raven callbacks (Chs 13-14) | 70 lines invested in Ch 5, then motif vanishes; needs payoff | Low |
-| M12 | Webb climax presence | Underrepresented in Part III; his emotional arc needs resolution | Medium |
-| M13 | Anna Chen expansion | Her capture is pivotal but she's thin as a character beforehand | Low |
+| # | Task | Scope | Priority | Status |
+|---|------|-------|----------|--------|
+| M1 | Part II pacing plateau (Chs 4-11) | Repetitive training cycles; needs 2-3 dramatic interruptions | Medium | ✓ v11.0: Dissolution echo cuts (-60 lines), Anna expansion, time-pressure beat, debate compression |
+| M2 | Instructor voice differentiation (Yuki/Thomas/Sarah) | Largely interchangeable; need distinct speech patterns, concerns, rhythms | Medium | ✓ v11.0: Yuki=imperative, Thomas=experiential/damaged, Sarah=scholarly. Applied across Chs 4, 5, 8, 11 |
+| M9 | Webb voice smoothing | His register shifts between chapters; needs consistency pass | Low | Open |
+| M11 | Raven callbacks (Chs 13-14) | 70 lines invested in Ch 5, then motif vanishes; needs payoff | Low | Partial v11.0: Brief callbacks added in Chs 5, 13. Full motif payoff still open. |
+| M12 | Webb climax presence | Underrepresented in Part III; his emotional arc needs resolution | Medium | Open |
+| M13 | Anna Chen expansion | Her capture is pivotal but she's thin as a character beforehand | Low | ✓ v11.0: Ch 10 structural observation (+16 lines), "something nagged" signal, characters.md expanded |
 
 ### Character Expansion (from original REVISION_NOTES)
 

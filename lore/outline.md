@@ -1557,12 +1557,12 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
 |---------|----------|---------------|
 | Morrison whispering equations | 1, 4, 5, 8, 11 | ch01:17 (first), ch01:65 (ravens), ch04:335, ch04:407, ch05:267, ch08:145, ch11:475 |
 | Webb's Rachel photo | 6, 9, 11 | ch06:99 (introduced), ch09:151 (second showing), ch11:381 (third) |
-| "Finger pointing at moon" | 2, 8, 11 | ch02:71, ch08:477, ch11:95/141/151/157/189 (5 in Ch 11) |
+| "Finger pointing at moon" | 2, 11 | ch02:71, ch11:93/139/147/187/243/491 (6 in Ch 11). Total: 7. Former ch08 instance removed in v10.0 cut. |
 | "No base case" | 5-7, 10-14 | ~16 uses; densest in Ch 12 (7). First appears ch05:224. Most in model outputs and narrator reflection |
-| "Paranoia is protocol" | 8, 9, 10 | ch08:385 (Thomas, coined), ch09:363 (Yuki echo), ch10:87/275 (Lena/Yuki) |
-| Standing wave metaphor | 1, 10 | ch01:53 (Morrison), ch10:361 (Lena visualization) |
+| "Paranoia is protocol" | 8, 10 | ch08:259 (Thomas, coined), ch10:87 (Lena echo), ch10:287 (Yuki confirmation). 3 uses, progression: institutional wisdom → internalized → confirmed. |
+| Standing wave metaphor | 1, 10, 12 | ch01:53 (Morrison monologue), ch10:387 (Lena visualization), ch12:530 (Nyarlathotep output — "standing wave, not object") |
 | Nosebleeds | 1, 7 | ch01:31/49 (Morrison), ch07:133/243/451 (Maya) |
-| "Wealthiest organization" | 4, 10, 12 | ch04 (canonical first use), ch10:35 (FLAGGED — should be removed), ch12:393 (FLAGGED — should be removed) |
+| "Wealthiest organization" | 4 | ch04:43 (canonical first and only use). Ch 10 and Ch 12 instances removed in v10.0. |
 | "Reallocated" | 5+ | ch05:393 (first), distributed through later chapters |
 
 ### Model Output Blocks
@@ -1644,23 +1644,25 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
 |----------|-------|----------|--------------------|
 | 3 | Vault 3 | Shoggoth (10T) | ch01:5, ch04:45, ch12:373, ch13:123 |
 | 5 | — | Residential | ch04:45 |
-| 7 | Vault 7 | Nyarlathotep (100T) | ch04:47*, ch07:179, ch12:363*, ch12:373, ch13:125 |
-| 10 | — | Previously lowest known | ch13:131* |
+| 7 | Vault 7 | Nyarlathotep (100T) | ch04:47, ch07:179, ch12:363, ch12:373, ch13:125 |
+| 10 | — | Previously lowest known | ch13:131 |
 | 18 | — | Architecture changes (organic stone) | ch04:57, ch13:135 |
 | 19-21 | — | Temperature climbing, shaft narrowing | ch13:141 (batched) |
 | 22-23 | — | Computing visible, 47°C | ch13:147-157 |
 | 24 | Vault 9 | Yog-Sothoth (1000T), "geothermal cathedral" | ch04:55, ch06:131+, ch13:159+, ch14:163+ |
 
-\* = flagged for review (see below)
-
 ### Flagged Items for Review
 
-1. **ch12:363** — "Three levels below Shoggoth's vault" should be "four levels" (Sublevel 3 → 7 = 4). MEMORY.md Fix 10 says this was corrected but current text still reads "Three."
-2. **ch10:35** — "wealthiest organization on Earth" — Anti-cliche ceiling is 1 instance (Ch 4 first-introduction). This should have been removed per MEMORY.md Fix 11.
-3. **ch12:393** — "We're the wealthiest organization on Earth" — Second surviving instance that Fix 11 was supposed to remove.
-4. **ch11:55** — "Eckhart was tried for heresy in 1327" — lore.md says 1326. May be intentional (dialogue approximation) or remaining inconsistency.
-5. **ch13:131** — "Lena had never been below 10" — MEMORY.md Fix 9 was supposed to acknowledge the Ch 4 elevator pass-through to Sublevel 18.
-6. **ch14:87** — Hayes says "I've heard it from Rostova. I've heard it from the Director" — MEMORY.md Fix 7 was supposed to change "the Director" to "Chen before her" since Rostova IS Director by Ch 14. Text appears to still have original wording.
-7. **ch14:93** — Mother beat: "reaching for a daughter who'd performed love" — characters.md describes specific "Anna Hart reaching for her hand." Verify if the gesture detail needs to be present.
+*All prior flags (1-7) verified resolved as of v11.0. Manuscript text matches canonical docs.*
+
+| # | Original Flag | Resolution |
+|---|--------------|------------|
+| 1 | ch12:363 "three levels" | Fixed → "Four levels below Shoggoth's vault" |
+| 2 | ch10 "wealthiest" | Removed in v10.0 |
+| 3 | ch12 "wealthiest" | Removed in v10.0 |
+| 4 | ch11:55 Eckhart "1327" | Text reads "1326" — matches lore.md |
+| 5 | ch13:131 "never been below 10" | Fixed → acknowledges Ch 4 elevator pass-through to Sublevel 18 |
+| 6 | ch14:87 "the Director" | Fixed → "I heard it from Chen before her" |
+| 7 | ch14:93 mother beat | Fixed → "Anna Hart's hand reaching for hers" — matches characters.md |
 
 **Note:** Items 1-6 correspond to fixes documented in MEMORY.md (v5.0-v6.0) that appear not to have been committed to git. The working state with these fixes was likely lost between sessions.
