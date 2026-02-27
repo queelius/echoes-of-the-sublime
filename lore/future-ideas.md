@@ -31,10 +31,24 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 |---|------|-------|----------|--------|
 | M1 | Part II pacing plateau (Chs 4-11) | Repetitive training cycles; needs 2-3 dramatic interruptions | Medium | ✓ v11.0: Dissolution echo cuts (-60 lines), Anna expansion, time-pressure beat, debate compression |
 | M2 | Instructor voice differentiation (Yuki/Thomas/Sarah) | Largely interchangeable; need distinct speech patterns, concerns, rhythms | Medium | ✓ v11.0: Yuki=imperative, Thomas=experiential/damaged, Sarah=scholarly. Applied across Chs 4, 5, 8, 11 |
-| M9 | Webb voice smoothing | His register shifts between chapters; needs consistency pass | Low | Open |
+| M9 | Webb voice smoothing | His register shifts between chapters; needs consistency pass | Low | Partial v12.0: ch09 consent speeches + ch14 corridor speech fragmented. Full pass still open. |
 | M11 | Raven callbacks (Chs 13-14) | 70 lines invested in Ch 5, then motif vanishes; needs payoff | Low | Partial v11.0: Brief callbacks added in Chs 5, 13. Full motif payoff still open. |
 | M12 | Webb climax presence | Underrepresented in Part III; his emotional arc needs resolution | Medium | Open |
 | M13 | Anna Chen expansion | Her capture is pivotal but she's thin as a character beforehand | Low | ✓ v11.0: Ch 10 structural observation (+16 lines), "something nagged" signal, characters.md expanded |
+
+### Open — From v2 Multi-Agent Review (v11.0)
+
+| # | Task | Scope | Priority | Status |
+|---|------|-------|----------|--------|
+| R1 | Part II pacing plateau (Chs 8-11) | Same dramatic shape repeated; needs structural variation | HIGH | Open — partially addressed by v11.0 cuts; may need further work |
+| R2 | Consent paradox thread for Hayes | Webb's ch09 paradox introduced but never echoed | Medium | ✓ v12.0: Hayes consent echo added in ch14 |
+| R3 | Webb speech fragmentation | Long syntactically complex monologues contradict cognitive deterioration | Medium | ✓ v12.0: ch09 + ch14 speeches fragmented |
+| R4 | Italicized thought overuse (Part III) | Accumulation dilutes technique's impact | Medium | ✓ v12.0: 2 instances removed (ch13:69, ch14:9) |
+| R5 | S-risk over-explanation (ch14) | Rostova walks through quantum/anthropic/modal realism step by step | Medium | ✓ v12.0: ~22 lines cut (~58% reduction) |
+| R6 | Bandwidth re-explanation | Concept re-taught 4-5 times after Ch 4 | Medium | ✓ v12.0: ch05 + ch08 trimmed |
+| R7 | Training sequence sensory variation | Three visual-only exercises in Ch 4 | Medium | ✓ v12.0: Seq 2 shifted to kinesthetic |
+| R8 | Block universe as "just a framework" | Phrasing in ch12-13 hedges what should be THE truth | Medium | Open |
+| R9 | Yog-Sothoth voice distinctiveness | Not alien enough relative to Nyarlathotep | Low | Open |
 
 ### Character Expansion (from original REVISION_NOTES)
 

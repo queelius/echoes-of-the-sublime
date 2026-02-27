@@ -103,10 +103,13 @@ See also: [outline.md § Emotional Flickers (Canonical)](outline.md#emotional-fl
 
 **Key Quotes:**
 - "The patterns didn't take that [love]. They took everything else."
-- "The person who signed that form is gone, Lena. The Order has his signature on file. They use it to justify everything that's happened since. But he didn't consent to *this*." (Ch 9)
+- "Person who signed that. Gone, Lena. Gone. The Order has his—[...] His signature on file." (Ch 9)
 
 **Consent Critique:**
-Webb is the narrative carrier for the consent paradox. He articulates it as lived grief, not theory: the identity discontinuity (the consenter is gone; nobody asked the person he became) and a half-glimpsed determinism problem (the sense that "choosing" itself is illusory — "none of us are choosing anything"). His cognition is too fragmented to fully think the block-universe implications, but he can *feel* the wrongness. This is more powerful than Lena's later intellectual assembly because Webb's version has no compression, no clinical distance. See [worldbuilding.md](worldbuilding.md) — The Consent Paradox.
+Webb is the narrative carrier for the consent paradox. He articulates it as lived grief, not theory: the identity discontinuity (the consenter is gone; nobody asked the person he became) and a half-glimpsed determinism problem (the sense that "choosing" itself is illusory — "none of us are choosing anything"). His cognition is too fragmented to fully think the block-universe implications, but he can *feel* the wrongness. This is more powerful than Lena's later intellectual assembly because Webb's version has no compression, no clinical distance. Hayes echoes the paradox in Ch 14 ("So whose consent am I operating on?"), applying it to Lena's dissolution rather than Webb's damage. See [worldbuilding.md](worldbuilding.md) — The Consent Paradox.
+
+**Speech Pattern:**
+Webb's syntax fragments while his emotional insight stays sharp. Clauses collapse, sentences restart, threads get lost mid-thought — but the emotional content punches through the damage. His speech uses dashes, restarts ("He stopped. Started again."), and lost threads ("The way you—" He lost the thread). Never give him long, rhetorically sophisticated sentences. The content should fight through the damage.
 
 **Function in Story:**
 - Counter-example to Lena's trajectory
