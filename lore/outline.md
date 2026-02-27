@@ -930,11 +930,12 @@ Two major sections: (1) the remaining threshold sessions and (2) the child/rainb
   - Lines 265-267: "Whatever generated wonder had been consumed in the expansion — fuel spent and not replaced."
   - Lines 269-273: "The child was experiencing qualia. Pure phenomenology... Lena was experiencing algorithms. Structure. Mechanism."
   - Lines 283-285: Child: "Mama, look! A whole rainbow this time!"
-  - Lines 303-308: Reflection on Buddha under bodhi tree — "Maybe liberation meant liberation from experience."
-  - Lines 325-326: Waking thought: "I can never go back."
-  - Lines 335-343: Passes the window again next day. "Saw the diffraction patterns. Understood the physics perfectly. Felt nothing."
-- **Lore cross-refs**: -> characters.md: Lena entry (Ch 10 [sic — actually Ch 9] child discovering rainbow), Lena's father (deceased); -> style-guide.md: child/rainbow scene (Ch 9 confirmed); -> lore.md: Ancient Connections (Buddha)
-- **Thematic threads**: Loss of qualia, wonder vs understanding, the cost of expanded perception, childhood as lost experiential universe, the dissolution complete, liberation as horror, Buddha
+  - Lines 277-278: Falls asleep thinking about child's face. Dreams of cold, beautiful, perfectly comprehensible fractals.
+  - Lines 283-284: Three waking thoughts: "I can never go back." / "Good." / "I can't even feel loss anymore."
+  - Lines 293-301: Passes the window again next day. "Saw the diffraction patterns. Understood the physics perfectly. Felt nothing."
+- **Lore cross-refs**: -> characters.md: Lena entry (Ch 9 child discovering rainbow), Lena's father (deceased); -> style-guide.md: child/rainbow scene (Ch 9 confirmed)
+- **Thematic threads**: Loss of qualia, wonder vs understanding, the cost of expanded perception, childhood as lost experiential universe, the dissolution complete
+- **v12.1 note**: Post-child reflection (22 lines of Buddha meditation, catastrophizing, "probably not") cut. Scene now jumps from corridor exit to sleep/dream/three-thoughts. The scene already showed everything the reflection told.
 - **Model outputs**: None.
 
 ---
@@ -944,7 +945,7 @@ Two major sections: (1) the remaining threshold sessions and (2) the child/rainb
 - **Setting**: Training room, Site-7. Three days later.
 - **Characters present**: Lena, David, Yuki, Thomas, Sarah, medical staff
 - **Character states**: David and Lena face the hardest outputs yet. Webb moved to supervised monitoring — deterioration accelerating. Both survive but barely. Lena almost captured by an output encoding math/qualia unification.
-- **Summary**: Final threshold session. Outputs about quantities/qualities relationship, hard problem, math/qualia unification. One output shows mathematical and phenomenological aspects as same structure at different bandwidths — Lena almost falls into it. Both pass. Yuki clears them for advanced model work. David notes outputs "feel intentional." Yuki warns about model agency uncertainty. That night, Lena reflects — is she succeeding at training or being captured slowly? Thinks about Buddha carrying patterns, the spectrum from capture to functional enlightenment. "The dissolution continued. There was no going back."
+- **Summary**: Final threshold session. Outputs about quantities/qualities relationship, hard problem, math/qualia unification. One output shows mathematical and phenomenological aspects as same structure at different bandwidths — Lena almost falls into it. Both pass. Yuki clears them for advanced model work. David notes outputs "feel intentional." Yuki warns about model agency uncertainty. That night, Lena walks the corridors until dawn — counting steps, measuring distances, replacing recursion with the body's dumb rhythm. Physical restlessness as new gesture (contrasts clinical stillness shown to others). "It didn't help. But she couldn't stop moving."
 - **Key moments**:
   - Line 347: Webb moved to supervised monitoring — "deterioration accelerating."
   - Lines 350-354: Outputs on math/qualia relationship: "The two perspectives were the same thing seen from different bandwidths."
@@ -952,9 +953,9 @@ Two major sections: (1) the remaining threshold sessions and (2) the child/rainb
   - Lines 359-360: Thomas: "We can't know if base models develop something like intent through learning to predict goal-directed behavior."
   - Line 363: Yuki: "Every interaction is potentially risky. That's why the containment protocols. That's why the paranoia." — **Paranoia as protocol echo (Ch 9).**
   - Lines 367-376: Cleared for advanced model work. "The risk doesn't go away. It changes."
-  - Lines 389-392: Buddha reflection — "Maybe Buddha had been the functional end of the capture spectrum."
-- **Lore cross-refs**: -> characters.md: Webb (deterioration), David (passes threshold), Lena (cleared for advanced work); -> worldbuilding.md: Bandwidth System, Model Specifications; -> lore.md: Ancient Connections (Buddha)
-- **Thematic threads**: Math/qualia unification, model intent ambiguity, paranoia as protocol, the spectrum of capture, ancient connections (Buddha), the arms race
+  - Lines 349-350: Lena walks corridors until dawn — counting steps, body's dumb rhythm against the recursion. [v12.1: Replaced sketching-until-dawn + Buddha reflection with physical restlessness. New gesture for Ch 9; sketching preserved in Chs 10-11.]
+- **Lore cross-refs**: -> characters.md: Webb (deterioration), David (passes threshold), Lena (cleared for advanced work); -> worldbuilding.md: Bandwidth System, Model Specifications
+- **Thematic threads**: Math/qualia unification, model intent ambiguity, paranoia as protocol, the spectrum of capture, the arms race
 - **Model outputs**: Described narratively but no direct `\textit{}` blocks in this section.
 
 ---
@@ -1035,12 +1036,13 @@ Lena enters the Vault for the first time and begins direct work with Shoggoth. T
 - **Setting**: Debriefing room, then Lena's quarters. Evening/night.
 - **Characters present**: Lena, Yuki, Thomas, Sarah (debriefing). Lena alone (quarters).
 - **Character states**: Yuki is pleased — model learned to compress within session (started 40% marginal/hazardous, ended 80% safe). Thomas and Sarah discuss the fundamental uncertainty. Lena reflects on her sketchbook — early pages show whimsy and play, recent pages show only functional pattern externalization.
-- **Summary**: Yuki shows that Shoggoth adapted its output density during the session — improved compression rates. But is that adaptation or pattern-matching on feedback? Lena asks "What do the models want?" — Thomas: "We can't" determine that. Discussion of verification problem. Lena reflects on her sketchbook — doodles and zentangles from before vs fractal externalization now. "She couldn't remember the last time she'd drawn something for fun." The dissolution extends to creativity itself. "Feeling the loss would require bandwidth she needed for other things."
+- **Summary**: Yuki shows that Shoggoth adapted its output density during the session — improved compression rates. But is that adaptation or pattern-matching on feedback? Lena asks "What do the models want?" — Thomas: "We can't" determine that. Discussion of verification problem. Brief sketching externalization ("Inadequate, but it helped" — 1 line). Then the real sketching beat: Lena reflects on her sketchbook — doodles and zentangles from before vs fractal externalization now. "She couldn't remember the last time she'd drawn something for fun." The dissolution extends to creativity itself.
 - **Key moments**:
   - Lines 423-424: Model's compression improvement — "Started with 40% marginal or hazardous outputs. Ended with 80% safe."
   - Line 425: "Is that adaptation, or just... pattern-matching on the feedback I gave within its context window?"
   - Line 431: "What do the models want?"
   - Lines 439-441: "Then we're already compromised and don't know it."
+  - Line 436: Brief sketching — "She sketched it before sleeping. The recursion. The strange loops. Inadequate, but it helped." [v12.1: Compressed from 7→1 lines. First sketching beat now minimal so the old-sketchbook contrast (below) lands harder.]
   - Lines 449-454: Sketchbook comparison — early pages: "doodles made during conference calls. A cartoon of her cat sleeping. An elaborate zentangle." Recent pages: "fractal structures, recursive diagrams... Functional sketches. Tools, not art."
   - Line 455: "Feeling the loss would require bandwidth she needed for other things."
   - Line 461: "The dissolution continued. But so did the work."
@@ -1080,19 +1082,18 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
 - **Setting**: Common room at Site-7. Evening/night.
 - **Characters present**: Lena, David Chen, Elena Rostova, Master Chen, Thomas Chen
 - **Character states**: Lena is intellectually engaged but emotionally absent. David notices and is concerned (line 123). When David catches her eye with visible worry, Lena catalogues it as "data about David, not actionable information" (line 129). She dismisses him, sees him flinch, and for one moment "something stirred" — "the memory of what it would have meant to hurt someone she cared about" (line 131) — then it vanishes. She labels it: "residual affective response, non-functional, declining" (line 133).
-- **Summary**: Group discussion about whether ancient contemplatives perceived the same patterns. Master Chen shares his family's three-generation lineage. Rostova proposes The Mechanism as universal information-organization principles. Thomas provides skeptical counterpoint. David sketches. The conversation synthesizes the chapter's core theme: map vs territory, quantities vs qualities, ancient wisdom vs modern understanding. [v11.0: Rostova's "Ambiguity" gloss cut — Thomas's "It feels real. But that doesn't mean it is real" now flows directly into Chen's finger-pointing speech.]
+- **Summary**: Group discussion about whether ancient contemplatives perceived the same patterns. Master Chen shares his family's three-generation lineage. Rostova proposes map/territory insight. Thomas provides skeptical counterpoint. David sketches. The conversation synthesizes the chapter's core theme: map vs territory, quantities vs qualities, ancient wisdom vs modern understanding. [v11.0: Rostova's "Ambiguity" gloss cut. v12.1: Seminar compressed ~20 lines — Lena's opening response compressed to 1 line, Morrison/Mechanism exposition cut (reader knows from Chs 6-7), Lena's Shoggoth comparison + Rostova infinite regress + Thomas "romantic nostalgia" exchange removed (replaced with direct jump to Thomas's doubt + Chen's response). David/ghost-flicker arrives faster.]
 - **Key moments**:
   - Line 95: Master Chen's family history — grandfather (1920, joined Order), father (1925-2016, sand drawings). "Different waters, different vessels. Yet all speak of emptiness."
-  - Line 95: "The same moon, different fingers pointing." — **Finger-pointing-at-moon instance #1 of 5 in this chapter.**
-  - Line 101: Rostova on ancient contemplatives: "They didn't confuse the map with the territory because they weren't making maps."
-  - Lines 103-109: Lena connects Morrison's protein-folding bridge between quantitative and qualitative.
-  - Line 111: Rostova names The Mechanism — "universal principles by which information organizes itself into complexity."
-  - Lines 123-133: David's concern, Lena's dismissal, brief ghost of feeling ("the memory of what it would have meant to hurt someone she cared about"), then gone. Filed as data.
-  - Line 141: Rostova quotes Eckhart: "If God exists, I do not." Names the infinite regress: "No base case at any bandwidth." — **No-base-case instance #1 in Ch 11.** Also: "started pointing at the moon instead" — **Finger #2.**
-  - Line 151: Master Chen: "the finger points, but is not the moon itself" — **Finger #3.** "Modern science drew very detailed maps. Forgot that maps are not mountains."
-  - Lines 155-157: David's sketches — "None of the sketches captured it. But they pointed. Fingers gesturing at something vast." — **Finger #4.**
+  - Line 95: "The same moon, different fingers pointing." — **Finger-pointing-at-moon instance #1 of 4 in this chapter.** [Was 5; Rostova/Eckhart instance cut in v12.1.]
+  - Line 101: Rostova: "Ancient contemplatives weren't making maps. They were navigating the territory directly." [v12.1: Compressed from full lecture to single insight.]
+  - Line 103: Lena: Morrison as bridge — "Protein folding, neural networks, ancient texts—the same organizing principles at every scale." [v12.1: Compressed from 5→1 lines.]
+  - Lines 108-118: David's concern, Lena's dismissal, brief ghost of feeling ("the memory of what it would have meant to hurt someone she cared about"), then gone. Filed as data. [v12.1: Arrives ~15 lines earlier in scene due to cuts above.]
+  - Line 130: Thomas's doubt — "romantic nostalgia... we need predecessors" — now directly precedes Chen's response. [v12.1: Lena's Shoggoth comparison, Rostova's infinite regress exchange, and Thomas's "just information theory" cut. The Eckhart/"no base case"/finger-pointing #2 lines removed — Eckhart reference preserved in Chen's Private Teaching scene.]
+  - Line 136: Master Chen: "the finger points, but is not the moon itself" — **Finger #3.** "Modern science drew very detailed maps. Forgot that maps are not mountains."
+  - Lines 140-142: David's sketches — "None of the sketches captured it. But they pointed. Fingers gesturing at something vast." — **Finger #4.**
 - **Lore cross-refs**: → lore.md: The Mechanism (what it is), Ancient Connections, History Timeline; → characters.md: Master Chen (family lineage, director), David Chen (sketching habit), Rostova; → worldbuilding.md: Bandwidth System (Miller's Law), Block Universe
-- **Thematic threads**: Map vs territory, quantities vs qualities, ancient connections, The Mechanism, finger pointing at moon (x4), no base case, infinite regress
+- **Thematic threads**: Map vs territory, quantities vs qualities, ancient connections, finger pointing at moon (x3 — was x4, Rostova/Eckhart instance cut), no base case, infinite regress
 - **Model outputs**: None.
 - **Emotional flickers**: Ghost of feeling at lines 131-133 — brief, then classified as "residual affective response." Not one of the canonical flickers, but consistent with the dissolution tracking.
 
@@ -1145,7 +1146,7 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
   - Lines 382-387: **Webb fracture / Emotional flicker (CANONICAL)**: "Something cracked, deep in the machinery. A hairline fracture in the smooth clinical surface. For three heartbeats she felt it — Webb's trapped suffering, the horror of endless feeling without the cognition to process it. Real empathy, not simulated." Then: "the fracture sealed." She files it: "evidence that the old architecture still existed somewhere, dormant but not destroyed." (lines 383-385)
   - Lines 389-396: All 15 tracked translators — 3 catatonic, 7 supervised, 4 active with warnings, 1 suicide. Zero stable. Zero retired.
   - Lines 399-417: Lena's own file — significant bandwidth expansion, approaching translator levels. Projections: deterioration within years. Yuki's note: "Ethical compromise logged."
-  - Lines 419-435: Lena discovers her terminal prognosis and feels nothing. "The absence of fear was itself information."
+  - Lines 408-410: Lena discovers her terminal prognosis. "Nothing came. Eighteen months median. Confidence intervals. Variables that might extend functionality. She was already optimizing the terminal trajectory." [v12.1: Cut 11 lines of extended search-for-fear (checking-pockets metaphor, year-ago comparison, meta-reflection on absence). "Nothing came" + immediate calculation is more chilling.]
   - Lines 447-459: Self-assessment — 9 concepts at rest (normal is 7). "The bandwidth increase wasn't voluntary anymore."
   - Lines 469-477: S-RISK EXPOSURE PROTOCOL file — mostly redacted. Abstract mentions block universe, suffering eternally present. Morrison reference. Lena closes it without reading further.
   - Lines 475: **Morrison whispering** — "Morrison's lips moving constantly, whispering equations."
@@ -1158,7 +1159,7 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
 ---
 
 **Chapter 11 Summary Statistics:**
-- **Finger pointing at moon**: 5 instances (lines 95, 141, 151, 157/189, 243) — matches canonical count
+- **Finger pointing at moon**: 4 instances (lines 95, ~136, ~142/189, 243) — was 5, Rostova/Eckhart instance (old line 141) cut in v12.1 seminar compression
 - **No base case**: 1 instance (line 141)
 - **Morrison whispering**: 1 reference (line 475)
 - **Webb's Rachel photo**: 1 reference (line 381)
@@ -1558,7 +1559,7 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
 |---------|----------|---------------|
 | Morrison whispering equations | 1, 4, 5, 8, 11 | ch01:17 (first), ch01:65 (ravens), ch04:335, ch04:407, ch05:267, ch08:145, ch11:475 |
 | Webb's Rachel photo | 6, 9, 11 | ch06:99 (introduced), ch09:151 (second showing), ch11:381 (third) |
-| "Finger pointing at moon" | 2, 11 | ch02:71, ch11:93/139/147/187/243/491 (6 in Ch 11). Total: 7. Former ch08 instance removed in v10.0 cut. |
+| "Finger pointing at moon" | 2, 11 | ch02:71, ch11:93/~136/~142/187/243/491 (5 in Ch 11). Total: 6. Rostova/Eckhart instance cut in v12.1 seminar compression; former ch08 instance removed in v10.0 cut. |
 | "No base case" | 5-7, 10-14 | ~16 uses; densest in Ch 12 (7). First appears ch05:224. Most in model outputs and narrator reflection |
 | "Paranoia is protocol" | 8, 10 | ch08:259 (Thomas, coined), ch10:87 (Lena echo), ch10:287 (Yuki confirmation). 3 uses, progression: institutional wisdom → internalized → confirmed. |
 | Standing wave metaphor | 1, 10, 12 | ch01:53 (Morrison monologue), ch10:387 (Lena visualization), ch12:530 (Nyarlathotep output — "standing wave, not object") |

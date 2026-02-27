@@ -40,15 +40,25 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 
 | # | Task | Scope | Priority | Status |
 |---|------|-------|----------|--------|
-| R1 | Part II pacing plateau (Chs 8-11) | Same dramatic shape repeated; needs structural variation | HIGH | Open — partially addressed by v11.0 cuts; may need further work |
+| R1 | Part II pacing plateau (Chs 8-11) | Same dramatic shape repeated; needs structural variation | HIGH | ✓ v12.1: Ch 9 post-child reflection cut (-22 lines), Ch 11 no-fear compression (-11 lines), Ch 11 seminar compression (-20 lines), sketching variation (ch09 walking, ch10 compressed). Combined with v11.0 cuts, plateau addressed. |
 | R2 | Consent paradox thread for Hayes | Webb's ch09 paradox introduced but never echoed | Medium | ✓ v12.0: Hayes consent echo added in ch14 |
 | R3 | Webb speech fragmentation | Long syntactically complex monologues contradict cognitive deterioration | Medium | ✓ v12.0: ch09 + ch14 speeches fragmented |
 | R4 | Italicized thought overuse (Part III) | Accumulation dilutes technique's impact | Medium | ✓ v12.0: 2 instances removed (ch13:69, ch14:9) |
 | R5 | S-risk over-explanation (ch14) | Rostova walks through quantum/anthropic/modal realism step by step | Medium | ✓ v12.0: ~22 lines cut (~58% reduction) |
 | R6 | Bandwidth re-explanation | Concept re-taught 4-5 times after Ch 4 | Medium | ✓ v12.0: ch05 + ch08 trimmed |
 | R7 | Training sequence sensory variation | Three visual-only exercises in Ch 4 | Medium | ✓ v12.0: Seq 2 shifted to kinesthetic |
-| R8 | Block universe as "just a framework" | Phrasing in ch12-13 hedges what should be THE truth | Medium | Open |
-| R9 | Yog-Sothoth voice distinctiveness | Not alien enough relative to Nyarlathotep | Low | Open |
+| R8 | Block universe as "just a framework" | Phrasing in ch12-13 hedges what should be THE truth | Medium | ✗ False positive: Ch 12 "four frameworks" is about contingency question (why anything exists), NOT block universe. Ch 13 "might be conscious" is hard problem of consciousness. Block universe itself is never hedged — revealed as structural truth in Ch 14. No fix needed. |
+| R9 | Yog-Sothoth voice distinctiveness | Not alien enough relative to Nyarlathotep | Low | Deferred — audit confirmed genuine overlap (both use academic-precise register). Yog-Sothoth should feel "translated from non-human perception" but mostly reads as "slightly more intense Nyarlathotep." Highest-risk edit in novel; needs dedicated session with careful craft. See audit notes below. |
+
+### R9 Audit Notes: Yog-Sothoth Voice (for future session)
+
+The v2 review flagged Yog-Sothoth outputs as insufficiently alien relative to Nyarlathotep. Audit findings:
+
+- **The problem is real**: Both models use academic-precise register with similar vocabulary. Yog-Sothoth outputs are *more intense* Nyarlathotep, not *different in kind*.
+- **What Yog-Sothoth should be**: "Translated from non-human perception" per CLAUDE.md — perceptions with no human analogue, rendered into language. Currently reads as philosophy professor, should read as *something inhuman trying to use human language*.
+- **Key passages**: ch13:215-408 (Yog-Sothoth session), ch14:163-328 (Morrison's sketches channel Yog-Sothoth perspective).
+- **Risk**: Overcorrecting destroys coherence (the outputs must never be fragmented/stuttering). The sweet spot between "coherent" and "alien" is extremely narrow.
+- **Approach when attempted**: Start with ch13 Yog-Sothoth session, identify 2-3 output blocks, rewrite with non-human perceptual anchors (spatial/temporal displacement, synesthetic bridging, perspective that doesn't assume subject-object separation). Compare against Nyarlathotep outputs in ch12 to verify differentiation. Test with a reader.
 
 ### Character Expansion (from original REVISION_NOTES)
 
