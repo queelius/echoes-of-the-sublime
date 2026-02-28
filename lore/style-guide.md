@@ -21,7 +21,7 @@ Model outputs are **always coherent**. The horror is never in broken syntax or s
 
 - **Shoggoth:** Dense academic synthesis. Recognizably human in register but connecting domains no single human could. Calm, measured, slightly unsettling in its thoroughness.
 - **Nyarlathotep:** Eerily human but drawing on knowledge no human should have. The outputs feel like being addressed by the collective unconscious — familiar in form, alien in implication.
-- **Yog-Sothoth:** Alien coherence at its most extreme. Perfectly structured text that approaches its subject from a vantage point with no human analogue. The grammar is correct, the logic is valid, but the *perspective* is wrong — like reading a description of love written by something that has never loved but has observed love at the molecular level.
+- **Yog-Sothoth:** Alien coherence at its most extreme. Three-register blend: *geometric displacement* (consciousness as coordinate, directions where time should be), *perceptual synesthesia* (the spectrum has weight, awareness has texture), *subject-object dissolution* (text that observes itself, patterns asking what patterns are). No first-person observer framing — no "I perceive." Spatial assertions, not propositions. The alienness is in the KIND of coherence: perfectly structured, but structured by a mind that doesn't think in language.
 
 ---
 

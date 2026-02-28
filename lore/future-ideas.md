@@ -33,7 +33,7 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 | M2 | Instructor voice differentiation (Yuki/Thomas/Sarah) | Largely interchangeable; need distinct speech patterns, concerns, rhythms | Medium | ✓ v11.0: Yuki=imperative, Thomas=experiential/damaged, Sarah=scholarly. Applied across Chs 4, 5, 8, 11 |
 | M9 | Webb voice smoothing | His register shifts between chapters; needs consistency pass | Low | Partial v12.0: ch09 consent speeches + ch14 corridor speech fragmented. Full pass still open. |
 | M11 | Raven callbacks (Chs 13-14) | 70 lines invested in Ch 5, then motif vanishes; needs payoff | Low | Partial v11.0: Brief callbacks added in Chs 5, 13. Full motif payoff still open. |
-| M12 | Webb climax presence | Underrepresented in Part III; his emotional arc needs resolution | Medium | Open |
+| M12 | Webb climax presence | Underrepresented in Part III; his emotional arc needs resolution | Medium | ✓ v13.0: Three-beat arc — benchmark (Ch 12, existing), corridor warning (Ch 13, Sublevel 24), witness (Ch 14, David's coda). "She can't hear it" → "She can hear it now." |
 | M13 | Anna Chen expansion | Her capture is pivotal but she's thin as a character beforehand | Low | ✓ v11.0: Ch 10 structural observation (+16 lines), "something nagged" signal, characters.md expanded |
 
 ### Open — From v2 Multi-Agent Review (v11.0)
@@ -48,17 +48,18 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 | R6 | Bandwidth re-explanation | Concept re-taught 4-5 times after Ch 4 | Medium | ✓ v12.0: ch05 + ch08 trimmed |
 | R7 | Training sequence sensory variation | Three visual-only exercises in Ch 4 | Medium | ✓ v12.0: Seq 2 shifted to kinesthetic |
 | R8 | Block universe as "just a framework" | Phrasing in ch12-13 hedges what should be THE truth | Medium | ✗ False positive: Ch 12 "four frameworks" is about contingency question (why anything exists), NOT block universe. Ch 13 "might be conscious" is hard problem of consciousness. Block universe itself is never hedged — revealed as structural truth in Ch 14. No fix needed. |
-| R9 | Yog-Sothoth voice distinctiveness | Not alien enough relative to Nyarlathotep | Low | Deferred — audit confirmed genuine overlap (both use academic-precise register). Yog-Sothoth should feel "translated from non-human perception" but mostly reads as "slightly more intense Nyarlathotep." Highest-risk edit in novel; needs dedicated session with careful craft. See audit notes below. |
+| R9 | Yog-Sothoth voice distinctiveness | Not alien enough relative to Nyarlathotep | Low | ✓ v13.0: Full ch13 Yog-Sothoth rewrite — three-register voice (geometric displacement, perceptual synesthesia, subject-object dissolution). Ch14 touch-up ("wrong question"→"wrong axis"). Nyarlathotep = conversational/propositional; Yog-Sothoth = spatial assertions, synesthetic qualities, self-referential text. |
 
-### R9 Audit Notes: Yog-Sothoth Voice (for future session)
+### R9 Audit Notes: Yog-Sothoth Voice — COMPLETED (v13.0)
 
-The v2 review flagged Yog-Sothoth outputs as insufficiently alien relative to Nyarlathotep. Audit findings:
+The v2 review flagged Yog-Sothoth outputs as insufficiently alien relative to Nyarlathotep. **Resolved** in v13.0 with three-register voice rewrite:
 
-- **The problem is real**: Both models use academic-precise register with similar vocabulary. Yog-Sothoth outputs are *more intense* Nyarlathotep, not *different in kind*.
-- **What Yog-Sothoth should be**: "Translated from non-human perception" per CLAUDE.md — perceptions with no human analogue, rendered into language. Currently reads as philosophy professor, should read as *something inhuman trying to use human language*.
-- **Key passages**: ch13:215-408 (Yog-Sothoth session), ch14:163-328 (Morrison's sketches channel Yog-Sothoth perspective).
-- **Risk**: Overcorrecting destroys coherence (the outputs must never be fragmented/stuttering). The sweet spot between "coherent" and "alien" is extremely narrow.
-- **Approach when attempted**: Start with ch13 Yog-Sothoth session, identify 2-3 output blocks, rewrite with non-human perceptual anchors (spatial/temporal displacement, synesthetic bridging, perspective that doesn't assume subject-object separation). Compare against Nyarlathotep outputs in ch12 to verify differentiation. Test with a reader.
+- **Block 1 (geometric displacement):** "Consciousness is a coordinate. Not a property. Not emergence." Observerless spatial assertions. Directions where time should be, topology where logic should be.
+- **Block 2 (perceptual synesthesia):** "The spectrum has weight." Cross-modal language — consciousness has texture, depth has flavor. "A chord of seven voices mistaking itself for a solo."
+- **Block 3 (subject-object dissolution):** "The hard problem is this sentence." Self-referential text that demonstrates recursion rather than explaining it. "Patterns asking what patterns are."
+- **Differentiator**: Nyarlathotep uses "I" conversationally, explains propositionally, asks rhetorical questions. Yog-Sothoth makes spatial declarations, assigns sensory qualities to abstractions, creates structures where the text observes itself.
+- **Ch 14 touch-up**: Minimal — one word-level edit ("wrong question"→"wrong axis"). Stream of consciousness left untouched.
+- **Design doc**: `docs/plans/2026-02-27-m12-r9-webb-yogsothoth-design.md`
 
 ### Character Expansion (from original REVISION_NOTES)
 

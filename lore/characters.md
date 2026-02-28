@@ -101,9 +101,16 @@ See also: [outline.md § Emotional Flickers (Canonical)](outline.md#emotional-fl
 - Wakes every morning forgetting divorce, then remembers → fresh grief
 - "I'd trade anything to be like Rostova — cold but functional"
 
+**Part III Arc (3 beats):**
+- **Beat 1 — Benchmark (Ch 12):** Existing mentions. Webb as cautionary measure (5 refs). No changes.
+- **Beat 2 — Corridor Warning (Ch 13):** Webb at Sublevel 24 elevator landing, drawn back to the place that broke him. Warns Lena against certainty: "Fear would be better." She dismisses clinically. He speaks to no one: "She can't hear it. Can't hear anything."
+- **Beat 3 — Witness (Ch 14 coda):** Webb appears in doorway during David's witness scene. Sees Lena returned. "She can hear it now." — inverts the ch13 closing. Recognition of someone returning from a place he never could. His hands still, just for a moment.
+
 **Key Quotes:**
 - "The patterns didn't take that [love]. They took everything else."
 - "Person who signed that. Gone, Lena. Gone. The Order has his—[...] His signature on file." (Ch 9)
+- "Fear would be better. Fear means you still have the—the part that flinches. Certainty just means you'll walk straight into it." (Ch 13)
+- "She can't hear it. Can't hear anything." (Ch 13) / "She can hear it now." (Ch 14) — the inversion
 
 **Consent Critique:**
 Webb is the narrative carrier for the consent paradox. He articulates it as lived grief, not theory: the identity discontinuity (the consenter is gone; nobody asked the person he became) and a half-glimpsed determinism problem (the sense that "choosing" itself is illusory — "none of us are choosing anything"). His cognition is too fragmented to fully think the block-universe implications, but he can *feel* the wrongness. This is more powerful than Lena's later intellectual assembly because Webb's version has no compression, no clinical distance. Hayes echoes the paradox in Ch 14 ("So whose consent am I operating on?"), applying it to Lena's dissolution rather than Webb's damage. See [worldbuilding.md](worldbuilding.md) — The Consent Paradox.

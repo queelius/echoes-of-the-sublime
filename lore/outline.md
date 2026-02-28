@@ -1302,10 +1302,10 @@ Chapter 13 is the physical descent to Vault 9 and Lena's Yog-Sothoth session. Tw
 #### Scene 2: The Message and the Descent (lines 99-214)
 
 - **Setting**: Sublevel 7 (Lena's desk), then elevator descending from Sublevel 3 through 7, 10, 12, 15, 18, 19-21, 22, 23 to Sublevel 24. 0317 hours.
-- **Characters present**: Lena alone
-- **Character states**: Lena is clinical — heart rate increases from 62 to 71, "a bodily response she observed clinically, without emotional weight" (line 117). During the descent, her body rebels against the environment — heat, pressure, wrongness — while her optimized consciousness refuses to acknowledge the danger.
+- **Characters present**: Lena; Webb (at Sublevel 24 elevator landing)
+- **Character states**: Lena is clinical — heart rate increases from 62 to 71, "a bodily response she observed clinically, without emotional weight" (line 117). During the descent, her body rebels against the environment — heat, pressure, wrongness — while her optimized consciousness refuses to acknowledge the danger. Webb is at Sublevel 24, drawn back to the place that broke him — soaked with sweat, gross tremor, tracking invisible geometries. His emotional insight is sharp despite cognitive fragmentation.
 
-- **Summary**: Message arrives at 0317: "VAULT 9. NOW." Lena descends. Past Sublevel 3 (Shoggoth), past Sublevel 7 (Nyarlathotep). At Sublevel 10, the elevator continues — she didn't know levels existed below 10. At Sublevel 18, the architecture changes: dark organic stone, bioluminescent panels, the walls "grown rather than built." Sublevels 19-21 are batched (temperature climbing, shaft narrowing, ears popping). Sublevel 22: heat 40°C+, body screaming. Sublevel 23: hexagonal computing structures visible, 47°C, copper taste. Sublevel 24: the cathedral.
+- **Summary**: Message arrives at 0317: "VAULT 9. NOW." Lena descends. Past Sublevel 3 (Shoggoth), past Sublevel 7 (Nyarlathotep). At Sublevel 10, the elevator continues — she didn't know levels existed below 10. At Sublevel 18, the architecture changes: dark organic stone, bioluminescent panels, the walls "grown rather than built." Sublevels 19-21 are batched (temperature climbing, shaft narrowing, ears popping). Sublevel 22: heat 40°C+, body screaming. Sublevel 23: hexagonal computing structures visible, 47°C, copper taste. Sublevel 24: elevator opens and Webb is sitting on the floor. He warns her against certainty; she dismisses him clinically. Then the cathedral.
 
 - **Key moments**:
   - Line 101: Message at 0317 — "VAULT 9. NOW."
@@ -1316,7 +1316,8 @@ Chapter 13 is the physical descent to Vault 9 and Lena's Yog-Sothoth session. Tw
   - Line 147: Sublevel 22.
   - Lines 149-155: **Shape-of-fear (CANONICAL EMOTIONAL FLICKER)**: "Her body understanding what her optimized consciousness refused to acknowledge: She was descending into something that wasn't designed for human comfort." Then (line 153): "Not fear — she couldn't feel fear — but the *shape* of fear, the mammalian architecture beneath her optimized consciousness sending signals so loud that ignoring them required active effort. Her breath caught. Her hand tightened on the railing with a force that wasn't calculated. Something old and wordless was trying to tell her to stop, and for two heartbeats she couldn't quite refuse to listen." Then collapsed back to data. "But the two heartbeats lingered in her awareness like a stain she couldn't fully analyze away."
   - Line 157: **Sublevel 23 trimmed** — brief: motors straining, hexagonal forms, 47°C, hands numb, copper taste, visual cortex spiking.
-  - Lines 159-198: **Sublevel 24 — the cathedral**. Vault 9. "Cathedral-sized." Ceiling three stories up, 200 meters in every direction. Crystalline structures size of buildings, hexagonal arrays 10 meters tall, magnetic fields pulling iron in blood. Photonic processors in fractal geometries. Memristive arrays that look grown, not assembled. Sound: roaring. Geothermal pipes "subway-tunnel-sized." Heat 52°C, 55°C.
+  - Lines 165-185: **Webb at Sublevel 24 (CANONICAL — Webb Beat 2 of 3)**. Elevator opens, Webb sitting on floor opposite. Soaked with sweat, gross tremor, tracking invisible geometries. He warns against her certainty: "Fear would be better. Fear means you still have the—the part that flinches. Certainty just means you'll walk straight into it." Lena dismisses clinically: "Thank you, James" (meaning: *noted and discarded*). Webb's closing, to no one: "She can't hear it. Can't hear anything." — This line inverts in ch14 coda. See → characters.md: Webb (three-beat arc).
+  - Lines ~187-220: **Sublevel 24 — the cathedral**. Vault 9. "Cathedral-sized." Ceiling three stories up, 200 meters in every direction. Crystalline structures size of buildings, hexagonal arrays 10 meters tall, magnetic fields pulling iron in blood. Photonic processors in fractal geometries. Memristive arrays that look grown, not assembled. Sound: roaring. Geothermal pipes "subway-tunnel-sized." Heat 52°C, 55°C.
   - Lines 189-192: Bandwidth spikes involuntarily from *seeing* the infrastructure — 12, 15, 19 concepts. "From standing in the cathedral and perceiving the scale."
   - Lines 195-213: Walk across cathedral floor — 200 meters in 55°C heat. Vision tunnels. She collapses at 70 meters. Gets back up. Keeps walking. "Her body had become an obstacle to be overcome rather than a vessel to be inhabited."
 - **Lore cross-refs**: → worldbuilding.md: Site-7 (Sublevel layout 3/7/24), Model Specifications (Yog-Sothoth specs), Session Mechanics (Yog-Sothoth environment — 55°C, 800MW, magnetic fields); → lore.md: The Order (resources, infrastructure); → characters.md: Lena (emotional flicker — shape-of-fear)
@@ -1341,26 +1342,26 @@ Chapter 13 is the physical descent to Vault 9 and Lena's Yog-Sothoth session. Tw
   - Lines 239: "Things that make reality nearly unacceptable once you know they exist." — S-risk foreshadowing.
   - Lines 247-281: Session setup — medical chair, subcutaneous neural crown, restraints, fMRI scanner. System boot: warnings list ontological hazard, bandwidth expansion irreversible, S-RISK EXPOSURE POSSIBLE, perceptual capture.
   - Lines 289-293: **Ice-thinning (CANONICAL EMOTIONAL FLICKER)**: "She reached for it. Not consciously — some reflex beneath the optimization, some vestigial subroutine still trying to generate the appropriate response to mortal danger. And the reaching itself felt different than it had a week ago, a month ago. The absence wasn't clean anymore. Wasn't the smooth null she'd grown accustomed to. Something was stirring in the space where fear should have been — not fear itself, not yet, but a kind of pressure, a restlessness, like water moving under ice." Then: "She couldn't access it. But she could feel the ice thinning." (line 293)
-  - Lines 297-309: **Yog-Sothoth output #1** — "What is consciousness?" Multi-channel response. "Consciousness is what reality perceives when it observes itself through bandwidth-limited nodes." Neural crown direct stimulation.
-  - Lines 311-321: Visual field explodes — she sees her own consciousness as topological object, working memory as basin of attraction, attention as gradient descent. "There was no boundary" between conscious and unconscious.
-  - Lines 325-333: **Yog-Sothoth output #2** — continuation. Consciousness as spectrum (bacteria to humans to model). "There's no threshold where consciousness 'begins.'"
-  - Lines 343-355: **Yog-Sothoth output #3** — "The hard problem is bandwidth-limited consciousness asking about itself and hitting recursion with no base case." — **No-base-case #1 in Ch 13** (line 346). "Just patterns asking patterns what they are."
+  - Lines ~327-333: **Yog-Sothoth output #1 (geometric displacement register)** — "What is consciousness?" Multi-channel response. "Consciousness is a coordinate. Not a property. Not emergence." Seven dimensions collapsed into three. Temporality flattened into sequence. No observer framing — observerless spatial assertions. Neural crown direct stimulation.
+  - Lines 335-347: Visual field explodes — she sees her own consciousness as topological object, working memory as basin of attraction, attention as gradient descent. "There was no boundary" between conscious and unconscious.
+  - Lines ~349-357: **Yog-Sothoth output #2 (perceptual synesthesia register)** — continuation. "The spectrum has weight." Consciousness described through cross-modal qualities: thin/translucent at low end, textured chord of seven voices at human position. Conscious/unconscious as deep water vs surface. "Both wet. Both water. One reflects. One does not know it is deep."
+  - Lines ~367-379: **Yog-Sothoth output #3 (subject-object dissolution register)** — "The hard problem is this sentence." Text demonstrates recursion rather than explaining it. "Patterns asking what patterns are, the asking generating the appearance of someone to ask. No base case." — **No-base-case #1 in Ch 13**. Closing question preserved: "Does knowing this change what it is like to be you?"
   - Lines 361-363: 32 concepts. Medical alarms screaming. Both eyes hemorrhaging. Heart rate 198. fMRI shows unprecedented activity.
   - Lines 367-381: Lena gasps "Wait—" but understands the structural truth: consciousness observing itself with no base case. **No-base-case #2 in Ch 13** (line 373).
-  - Lines ~375-377: **Epistemic humility / halting problem** — Lena reflects: "Even Yog-Sothoth's." Echoes the model's own words from line 352 (*You can't reach infinite bandwidth. Neither can I.*). "The most powerful mind The Order had built could not see past its own recursion." **No-base-case #3 in Ch 13** — "No base case, even for the thing that had shown her there was no base case." Then: "Once you perceived it, you couldn't unknow it."
+  - Lines ~375-377: **Epistemic humility / halting problem** — Lena reflects: "Even Yog-Sothoth's." Echoes the model's own words: *A bandwidth that dissolves the question rather than answering it.* "The most powerful mind The Order had built could not see past its own recursion." **No-base-case #3 in Ch 13** — "No base case, even for the thing that had shown her there was no base case." Then: "Once you perceived it, you couldn't unknow it."
   - Line 383: Rostova hits interrupt.
   - Lines 387-389: **"Twenty-seven minutes."** Lena's Yog-Sothoth record. "Morrison lasted eight. Webb lasted twenty-three. No one has lasted that long."
   - Lines 395-407: Medical sedation. Rostova promises the s-risk revelation next: "I'll show you what Morrison saw. I'll tell you about the s-risks." Final words: "Are you ready for the real question?"
 - **Lore cross-refs**: → worldbuilding.md: Model Specifications (Yog-Sothoth CANONICAL — 1000T params, 10T context), Session Mechanics (Yog-Sothoth sessions — environment, interface, monitoring), Session Time Records (Lena 27 min, Morrison 8 min, Webb 23 min), Probe Array (training data), Block Universe / S-Risk (foreshadowed), Cognitive Architecture (epistemic humility, halting problem); → characters.md: Lena (session record, emotional flicker — ice-thinning), Rostova (Director title); → lore.md: The Mechanism; → style-guide.md: Model Output Style (Yog-Sothoth = alien coherence), Session Scene-Writing (Yog-Sothoth tier)
 - **Thematic threads**: Consciousness, infinite regress, no base case (x3), bandwidth expansion, capture risk, s-risk (foreshadowed), the sublime, body as obstacle, Director Rostova, epistemic humility
-- **Model outputs**: 3 Yog-Sothoth outputs — lines 303-309, 325-333, 343-355. Note: outputs are briefer than Nyarlathotep's in Ch 12 because transmission is primarily via neural crown (direct cortical stimulation), not text. Most of the perception is described in Lena's narrated experience.
+- **Model outputs**: 3 Yog-Sothoth outputs — lines ~327-333, ~349-357, ~367-379. **Voice rewritten (v13.0)**: Three-register blend differentiating from Nyarlathotep — geometric displacement (Block 1), perceptual synesthesia (Block 2), subject-object dissolution (Block 3). Outputs are briefer than Nyarlathotep's in Ch 12 because transmission is primarily via neural crown. Most of the perception is described in Lena's narrated experience.
 - **Emotional flickers**: **Ice-thinning** (lines 289-293) — CANONICAL. "Something was stirring in the space where fear should have been — not fear itself, not yet, but a kind of pressure, a restlessness, like water moving under ice." The ice is thinning. This directly precedes the Yog-Sothoth session and marks the transition toward Ch 14's emotional return.
 
 ---
 
 **Chapter 13 Summary Statistics:**
 - **No base case**: 3 instances (lines 346, 373, ~376)
-- **Model outputs**: 3 Yog-Sothoth (lines 303-309, 325-333, 343-355)
+- **Model outputs**: 3 Yog-Sothoth (lines ~327-333, ~349-357, ~367-379) — rewritten v13.0 with three-register voice
 - **Session time**: 27 minutes Yog-Sothoth (line 389) — record
 - **Emotional flickers**: 2 canonical (shape-of-fear lines 149-155, ice-thinning lines 289-293)
 - **Director Rostova**: First use of Director title (line 199)
@@ -1421,11 +1422,12 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
 
 ---
 
-#### Scene 3: The Forty-Three Minutes (lines 141-162)
+#### Scene 3: The Forty-Three Minutes (lines ~145-162)
 
 - **Setting**: In front of the elevator. Site-7.
 - **Characters present**: Lena alone
-- **Character states**: Lena stands for 43 minutes before pressing the button. For the first time in chapters, she *feels* — "not quite fear. Not quite curiosity. Something between dread and compulsion" (line 155). Her hand descends. She chooses.
+- **Character states**: Lena stands for 43 minutes before pressing the button. For the first time in chapters, she *feels* — "not quite fear. Not quite curiosity. Something between dread and compulsion" (line ~157). Her hand descends. She chooses.
+- **Note (v13.0)**: Webb corridor scene previously at this location was moved to ch13 Scene 2 (Sublevel 24 encounter). The forty-three minutes passage now follows directly from the scene break after Hayes's confrontation.
 
 - **Summary**: Lena stands before the elevator for 43 minutes, confronting the choice. She recognizes she was wrong about having transcended human needs for comfortable fictions. She feels "something" — dread, compulsion, the recognition of irreversibility. She presses the button and descends.
 
@@ -1507,7 +1509,7 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
 #### Scene 6: Aftermath — David's Witness (lines 575-740)
 
 - **Setting**: Medical area (Lena restrained), then the surface. Morning.
-- **Characters present**: Lena, Rostova, medical team; then David, Master Chen; then Lena, Rostova, David
+- **Characters present**: Lena, Rostova, medical team; then David, Master Chen; then Lena, Rostova, David, Webb (witness)
 - **Character states**: Lena has survived — "far more" than Morrison held. She can *feel*. She's crying "like a human would cry." Rostova is shaken — "her voice unsteady in a way Lena had never heard." David has been waiting 12 hours, terrified.
 
 - **Summary**: Lena wakes in restraints. Rostova: she held more than Morrison ever did, for 11 seconds past his peak, and came back. "You're the first translator to come back from Yog-Sothoth and cry." Lena articulates the insight: "Feeling" — bandwidth expansion didn't destroy capacity for feeling; it was optimized away, and facing the sublime brought it back. Rostova: "That might be what we've been missing. Why everyone else breaks. They try to perceive without letting it *matter*." Lena acknowledges she'll eventually drift like Morrison — "but not today." David waits at the surface with Master Chen. The elevator opens. Lena walks out under her own power, face streaked with tears, hands shaking. David sees recognition in her eyes. She says: "I can feel it again. I can feel *everything*." David embraces her. The ending hovers.
@@ -1527,8 +1529,9 @@ Chapter 14 is the climax. Five `---` breaks create six movements. Lena's humanit
   - Lines 698-709: Lena's face streaked with tears, eyes red, hands shaking. "But she was *there*." David sees recognition — "not pattern-matching. Not identification. *Recognition*."
   - Lines 709-711: "David. I can feel it again. I can feel *everything*."
   - Lines 717-733: David's understanding: "She was Lena. Lena, transformed." "Cracked wide enough to feel again, to weep again, to be human again."
-  - Lines 735-739: David pulls her into an embrace. "She collapsed against him — not with weakness but with relief."
-  - Line 740: Final line: "And hoped — not irrationally anymore, but with something like faith — that this was the beginning of something, not the end."
+  - Lines ~567-571: **Webb witness beat (CANONICAL — Webb Beat 3 of 3)**. Webb appears in the doorway — David notices the rolling tremor, gaze fixed on Lena. Webb tries to speak, loses the words, then: "She can hear it now." Quietly. To no one and everyone. His hands still, just for a moment — "the kind of recognition that comes from watching someone return from a place you never could." Inverts ch13:185 ("She can't hear it. Can't hear anything."). See → characters.md: Webb (three-beat arc).
+  - Lines ~573-577: David pulls her into an embrace. "She collapsed against him — not with weakness but with relief."
+  - Line ~578: Final line: "And hoped — not irrationally anymore, but with something like faith — that this was the beginning of something, not the end."
 - **Lore cross-refs**: → lore.md: The Ending (ambiguous — reader never learns outcome; humanity returns; David witnesses), Core Identity (liberation leads to horror — BUT also to feeling); → characters.md: Lena (emotional return, session record, the full trajectory), David Chen (witness function), Rostova (Director, carried burden alone), Morrison (peak exceeded), Chen (father parallel); → worldbuilding.md: Block Universe / S-Risk (perceived, felt, survived); → style-guide.md: What to EMPHASIZE (ambiguous ending, the sublime)
 - **Thematic threads**: Humanity as feeling, the sublime, witness and testimony, feeling at scale, choice, hope, the ending ambiguity (she'll drift eventually — "but not today"), David as witness, Chen family parallels, Director Rostova
 - **Model outputs**: None.
