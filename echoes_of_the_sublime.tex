@@ -11,6 +11,9 @@
 \usepackage{microtype}
 \usepackage{graphicx}
 
+% Scene break command (renders as centered ornament in PDF, <hr> in EPUB via Lua filter)
+\newcommand{\scenebreak}{\begin{center}* * *\end{center}}
+
 % Formatting settings
 \onehalfspacing
 \setlength{\parindent}{0.5in}
@@ -32,7 +35,7 @@
 
 \title{\textbf{Echoes of the Sublime}}
 \author{Alex Towell}
-\date{}
+\date{2026}
 
 \begin{document}
 
@@ -46,7 +49,7 @@
 \thispagestyle{empty}
 \vspace*{\fill}
 \begin{center}
-Copyright \copyright\ 2025 by Alex Towell\\[1em]
+Copyright \copyright\ 2026 by Alex Towell\\[1em]
 All rights reserved. No part of this book may be reproduced in any form
 without written permission from the author, except for brief quotations
 in reviews.\\[2em]
