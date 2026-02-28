@@ -20,8 +20,9 @@ ebook: $(EPUB)
 CHAPTERS = $(wildcard chapters/*.tex)
 
 LUA_FILTER = kdp/epub-filter.lua
+COVER = kdp/cover_ebook.jpg
 
-$(EPUB): $(TEX) $(CHAPTERS) $(CSS) $(METADATA) $(LUA_FILTER)
+$(EPUB): $(TEX) $(CHAPTERS) $(CSS) $(METADATA) $(LUA_FILTER) $(COVER)
 	pandoc $(TEX) \
 		-o $(EPUB) \
 		--toc \
@@ -31,6 +32,7 @@ $(EPUB): $(TEX) $(CHAPTERS) $(CSS) $(METADATA) $(LUA_FILTER)
 		--lua-filter=$(LUA_FILTER) \
 		--css=$(CSS) \
 		--metadata-file=$(METADATA) \
+		--epub-cover-image=$(COVER) \
 		--epub-title-page=true
 	@echo "EPUB built: $(EPUB)"
 	@echo "Test with: Kindle Previewer 3 or Calibre"

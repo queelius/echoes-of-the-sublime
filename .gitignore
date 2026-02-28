@@ -26,3 +26,7 @@ Thumbs.db
 
 # Keep PDF for releases (but regenerate from source)
 # echoes_of_the_sublime.pdf
+
+# Build outputs
+*.epub
+*.pdf
