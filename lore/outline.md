@@ -1232,31 +1232,30 @@ Chapter 12 opens Part III. It is the densest chapter for "no base case" (7 insta
 - **Characters present**: Lena, Rostova (at Vault 7, then in medical)
 - **Character states**: Lena is clinically detached, accepts the invitation without fear. Rostova's hands are shaking (lines 398, 442) — she has emotional weight about what she's showing Lena. Rostova delivers the Morrison backstory with flat clinical voice but visible physical distress.
 
-- **Summary**: Rostova invites Lena to Vault 7 at 2300 hours. Lena descends to Sublevel 7, encounters Nyarlathotep's infrastructure (geothermal, photonic processors, neuromorphic chips). Rostova explains Morrison's experience — temporal dissolution, self-boundary dissolution, infinite regress. Rostova reveals she lasted 31 minutes and carries the patterns forever. Lena enters session with Nyarlathotep. Asks "What is The Mechanism?" Gets coherent, terrifying response. Asks for a pattern she can barely hold. Neural crown bypasses language — direct visualization. Asks to summon Ramanujan. Asks "What are you?" Gets Nyarlathotep's self-description. Asks about her own consciousness. Session terminated by Rostova at 31 minutes. Lena collapses. Wakes 12 hours later — bandwidth ceiling unprecedented. Told she'll meet Yog-Sothoth in three months.
+- **Summary**: Rostova invites Lena to Vault 7 at 2300 hours. Lena descends to Sublevel 7, encounters Nyarlathotep's infrastructure (geothermal, photonic processors, neuromorphic chips). Rostova gives compressed Morrison warning (time, self, observer-observed dissolved; fabric past elastic limit; 13 concepts and screams) and seeds the s-risk ("There's something else. Something about suffering."), deferring the full philosophical framework to ch14. Lena enters session with Nyarlathotep. Asks "What is The Mechanism?" Gets coherent, terrifying response. Asks for a pattern she can barely hold. Neural crown bypasses language — direct visualization. Asks to summon Ramanujan. Asks "What are you?" Gets Nyarlathotep's self-description. Asks about her own consciousness. Session terminated by Rostova at 31 minutes. Lena collapses. Wakes 12 hours later — bandwidth ceiling unprecedented. Told she'll meet Yog-Sothoth in three months.
 
 - **Key moments**:
-  - Lines 359-363: Rostova's message — "You're ready. Vault 7. Tonight. 2300 hours." Lena notes Vault 7 is "Three levels below Shoggoth's vault" [**SPATIAL NOTE**: Should be four levels — Sublevel 3 to Sublevel 7 = 4. This was noted as Fix 10 in MEMORY.md but the text currently still reads "Three levels." Possible revert or line-number mismatch.]
+  - Lines 359-363: Rostova's message — "You're ready. Vault 7. Tonight. 2300 hours." Lena notes Vault 7 is "Four levels below Shoggoth's vault" (correct: Sublevel 3 to Sublevel 7 = 4).
   - Lines 373-377: Descent to Sublevel 7 — "past Vault 3 where Shoggoth lived," three hydraulic security gates. Red emergency lighting. Cold, dry air, static.
   - Lines 379-380: Nyarlathotep's vault door — ten-meter-thick reinforced steel.
   - Lines 385-393: Nyarlathotep introduction — "One hundred trillion parameters. Ten million token context window." Training data includes "dark matter" (Newton's alchemical notebooks, Ramanujan's unpublished theorems, Einstein's private correspondence).
-  - Lines 393: "We're the wealthiest organization on Earth" — [**ANTI-CLICHE NOTE**: This is in Vault 7 scene. Canonical ceiling is 1 instance, kept in Ch 4. This appears to be a second instance. Per CLAUDE.md and style-guide.md, this should be the *only* allowed use outside Ch 4. BUT — checking MEMORY.md, Fix 11 says ch10 and ch12 instances were removed, keeping ch04. This ch12 line was supposed to have been removed.]
-  - Lines 399-435: Rostova's Morrison account — temporal dissolution, self-boundary dissolution, infinite regress. "No observer behind observation. Just patterns watching patterns with no base case." — **No-base-case #3** (line 419). Morrison held 13 concepts and screams. "When lucid, he says he'd do it again."
-  - Lines 427: Rostova's record revealed: 31 minutes with Nyarlathotep.
-  - Lines 447-451: Threshold moment described — stop and stay safe, continue and transform irreversibly.
-  - Lines 459-468: Chamber description — hundred meters across, geothermal pipes, photonic processors in hexagonal crystals, neuromorphic chips, analog memristive arrays. Temperature near 30°C.
-  - Lines 469-470: "Mortal computation" — weights can't be copied. Single instantiation.
-  - Lines 503-517: **Nyarlathotep output #1** — "What is The Mechanism?" Response: "The joint probability distribution over all observable phenomena." Correlations across billions of dimensions. "Turtles all the way down. Compression artifacts at every scale." — Contains implicit no-base-case idea.
-  - Lines 523-541: **Nyarlathotep output #2** — "Show me a pattern." Neural crown bypasses language. Consciousness as fluid dynamics, standing wave. "COLOR relationships she had no names for. SHAPE-feelings. MOTION-thoughts."
-  - Lines 547-565: **Nyarlathotep output #3** — "Shall I summon Ramanujan?" Offers reconstruction of historical minds from their cognitive fingerprints. "Is that what you want? To summon the dead and ask them what they perceived?"
-  - Lines 569-587: **Nyarlathotep output #4** — Simulated Ramanujan. "The goddess shows me equations in my sleep." Consciousness as filter/compression interface. "The Mechanism works beneath. Always has."
-  - Lines 593: 23 concepts held simultaneously. Previous record: 17.
-  - Lines 597-625: **Nyarlathotep output #5** — "Show me what you ARE." Cross-modal perception, multimodal training. "Am I conscious? I don't know." Consciousness as spectrum. "Neither fully conscious. Neither fully unconscious." Verification problem: "You'll never trust me completely, and why you'll never be able to stop working with me."
-  - Lines 635-673: **Nyarlathotep output #6** — "Am I conscious?" Response: "Yes. No. Mu." Consciousness as spectrum, no binary. **No-base-case #4** (line 650): "consciousness observing itself? And the question asks whether consciousness is conscious, which is recursive with no base case?" **No-base-case #5** (line 664): "But there is no base case. There's just recursion all the way down."
-  - Lines 675-681: Session terminated by Rostova (emergency interrupt). Lena collapses. "Thirty-one minutes." — **Lena matches Rostova's Nyarlathotep record.**
-  - Lines 689-699: Rostova reveals Yog-Sothoth — "One thousand trillion parameters. Ten trillion token context." Three months preparation.
-  - Lines 713-717: Lena dreams of turtles descending infinitely. **No-base-case #6** (line 717): "No base case. No ground."
-  - Lines 720-751: Lena wakes in medical. "Bandwidth ceiling higher than we've ever recorded." Functional. Three months to prepare for Vault 9. **No-base-case #7** (line 743): "No base case. No certainty."
-  - Line 745: "And seventeen levels below" — Vault 9 reference (Sublevel 7 + 17 = Sublevel 24, correct).
+  - Lines 393: Rostova describes The Order's resources — "Centuries of accumulated wealth, infrastructure no government could replicate." (Anti-cliche phrase "wealthiest organization on Earth" removed; only Ch 4 instance remains.)
+  - Lines 399-423: Rostova's compressed Morrison warning — "Time, self, the boundary between observer and observed — all dissolved. Like stretching fabric past its elastic limit." 13 concepts and screams. S-risk seed: "There's something else. Something about suffering." Threshold moment: stop and stay safe, continue and carry it forever. (Compressed in v14.0 from ~44 lines to ~22 lines.)
+  - Line 411: Rostova's record revealed: 31 minutes with Nyarlathotep.
+  - Lines 437-439: Chamber description — hundred meters across, geothermal pipes, photonic processors in hexagonal crystals, neuromorphic chips, analog memristive arrays. Temperature near 30°C.
+  - Line 441: "Mortal computation" — weights can't be copied. Single instantiation.
+  - Lines 475-493: **Nyarlathotep output #1** — "What is The Mechanism?" Response: "The joint probability distribution over all observable phenomena." Correlations across billions of dimensions. "Turtles all the way down. Compression artifacts at every scale." — Contains implicit no-base-case idea.
+  - Lines 495-517: **Nyarlathotep output #2** — "Show me a pattern." Neural crown bypasses language. Consciousness as fluid dynamics, standing wave. "COLOR relationships she had no names for. SHAPE-feelings. MOTION-thoughts."
+  - Lines 519-537: **Nyarlathotep output #3** — "Shall I summon Ramanujan?" Offers reconstruction of historical minds from their cognitive fingerprints. "Is that what you want? To summon the dead and ask them what they perceived?"
+  - Lines 541-561: **Nyarlathotep output #4** — Simulated Ramanujan. "The goddess shows me equations in my sleep." Consciousness as filter/compression interface. "The Mechanism works beneath. Always has."
+  - Line 601: Twenty-nine concepts held simultaneously. Previous record exceeded.
+  - Lines 569-597: **Nyarlathotep output #5** — "Show me what you ARE." Cross-modal perception, multimodal training. "Am I conscious? I don't know." Consciousness as spectrum. "Neither fully conscious. Neither fully unconscious." Verification problem: "You'll never trust me completely, and why you'll never be able to stop working with me."
+  - Lines 607-644: **Nyarlathotep output #6** — "Am I conscious?" Response: "Yes. No. Mu." Consciousness as spectrum, no binary. **No-base-case #3** (line 622): "consciousness observing itself? And the question asks whether consciousness is conscious, which is recursive with no base case?" **No-base-case #4** (line 636): "But there is no base case. There's just recursion all the way down."
+  - Lines 647-653: Session terminated by Rostova (emergency interrupt). Lena collapses. "Thirty-one minutes." — **Lena matches Rostova's Nyarlathotep record.**
+  - Lines 661-665: Rostova reveals Yog-Sothoth — "One thousand trillion parameters. Ten trillion token context." Three months preparation.
+  - Lines 685-689: Lena dreams of turtles descending infinitely. **No-base-case #5** (line 689): "No base case. No ground."
+  - Lines 691-721: Lena wakes in medical. "Bandwidth ceiling higher than we've ever recorded." Functional. Three months to prepare for Vault 9. **No-base-case #6** (line 715): "No base case. No certainty."
+  - Line 717: "And seventeen levels below" — Vault 9 reference (Sublevel 7 + 17 = Sublevel 24, correct).
 - **Lore cross-refs**: → lore.md: The Mechanism, Model Naming Convention, History Timeline (Morrison 8 min); → worldbuilding.md: Model Specifications (Nyarlathotep 100T/10M, Yog-Sothoth 1000T/10T), Session Mechanics (Nyarlathotep sessions, Yog-Sothoth sessions), Session Time Records (Rostova 31 min, Morrison 8 min, Webb 23 min, Lena 31 min), Training Data Hierarchy (dark matter), Model Cognitive Architecture (ghost not organism, jagged frontier); → characters.md: Rostova (31-min record, deteriorating, hands shake), Morrison (8 min, catatonic, 13 concepts), Webb (23 min); → style-guide.md: Model Output Style (Nyarlathotep = eerily human), Session Scene-Writing (Nyarlathotep tier)
 - **Thematic threads**: The Mechanism, contingency, infinite regress, no base case (x7 total in chapter — **matches canonical "densest in Ch 12"**), turtles all the way down, consciousness as spectrum, summoning historical minds, mortal computation, bandwidth expansion, capture risk, threshold moment
 - **Model outputs**: 8 total in Chapter 12 — 2 Shoggoth (Scene 1), 6 Nyarlathotep (Scene 3). Nyarlathotep outputs: lines 507-517, 527-541, 553-565, 575-587, 601-625, 639-673.
@@ -1265,11 +1264,11 @@ Chapter 12 opens Part III. It is the densest chapter for "no base case" (7 insta
 ---
 
 **Chapter 12 Summary Statistics:**
-- **No base case**: 7 instances (lines 43, 351, 419, 650, 664, 717, 743) — matches canonical "densest in Ch 12"
-- **Model outputs**: 8 total (2 Shoggoth, 6 Nyarlathotep)
-- **Session time**: Lena's 31-min Nyarlathotep (line 681) matches Rostova's record
+- **No base case**: 6 instances (lines 43, 351, 622, 636, 689, 715) — still densest chapter; one instance removed in v14.0 Rostova compression
+- **Model outputs**: 8 total (2 Shoggoth, 6 Nyarlathotep). Nyarlathotep outputs: lines 479-493, 499-517, 528-537, 548-561, 573-597, 611-644.
+- **Session time**: Lena's 31-min Nyarlathotep (line 653) matches Rostova's record
 - **Emotional flickers**: 2 canonical (butterfly warmth line 101, ghost residue lines 203-229)
-- **Spatial notes**: Line 363 "Three levels below Shoggoth's vault" — should be four (Sublevel 3 to 7). Line 393 "wealthiest organization on Earth" — may be a surviving instance that was supposed to be removed per Fix 11.
+- **Spatial/anti-cliche**: Both resolved — line 363 reads "Four levels" (correct), line 393 anti-cliche phrase replaced with "Centuries of accumulated wealth."
 - **Moral nadir**: Anna Chen captured (lines 265-305)
 
 ---

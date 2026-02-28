@@ -130,8 +130,8 @@ These repetitions are deliberate structural elements:
 | Nosebleeds | 3 | Different characters |
 | "The Mechanism" definition | 3 | Each adds context |
 | "Reallocated" | 5 | Well-distributed after v2.0 |
-| "No base case" | ~18 | Thematic repetition; densest in Ch 12 (7), also Chs 5-7, 10, 13-14; most in model outputs |
-| "Something" | ~102 | Reduced from 359 in v4.0; further cuts risk over-editing — this is the floor |
+| "No base case" | ~16 | Thematic repetition; densest in Ch 12 (6, was 7 before v14.0 compression), also Chs 5-7, 10, 13-14; most in model outputs |
+| "Something" | ~99 | Reduced from 359 in v4.0; brought back below target in v14.0 after drift to ~107 |
 
 ---
 
@@ -142,7 +142,7 @@ Phrases that were over-used and deliberately reduced. Maintain these ceilings:
 | Pattern | Current Count | Ceiling | Notes |
 |---------|--------------|---------|-------|
 | "Wealthiest organization on Earth" | 1 | 1 | Kept in Ch 4 (first introduction only); show wealth through infrastructure elsewhere |
-| "Exchanged glances" | 3 | 3 | Reduced from 10 in v4.0 |
+| "Exchanged glances" | 1 | 3 | Reduced from 10 in v4.0; further reduced in v11.0 |
 | "Data point" (narrative) | 2 | 2 | Reduced from 7 in v4.0; OK in technical/model contexts |
 | "Felt nothing" / "should feel" | ~14 | ~14 | Reduced from 34 in v4.0; vary dissolution language |
 | "Lena felt cold" | 4 | 4 | Reduced from 8 in v4.0 |

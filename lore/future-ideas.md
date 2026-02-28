@@ -50,6 +50,21 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 | R8 | Block universe as "just a framework" | Phrasing in ch12-13 hedges what should be THE truth | Medium | ✗ False positive: Ch 12 "four frameworks" is about contingency question (why anything exists), NOT block universe. Ch 13 "might be conscious" is hard problem of consciousness. Block universe itself is never hedged — revealed as structural truth in Ch 14. No fix needed. |
 | R9 | Yog-Sothoth voice distinctiveness | Not alien enough relative to Nyarlathotep | Low | ✓ v13.0: Full ch13 Yog-Sothoth rewrite — three-register voice (geometric displacement, perceptual synesthesia, subject-object dissolution). Ch14 touch-up ("wrong question"→"wrong axis"). Nyarlathotep = conversational/propositional; Yog-Sothoth = spatial assertions, synesthetic qualities, self-referential text. |
 
+### Open -- From v14.0 Full Review (2026-02-28)
+
+| # | Task | Scope | Priority | Status |
+|---|------|-------|----------|--------|
+| H1 | Kenji Chen birth year regression | ch11:93 "1890" should be "1880" | HIGH | Done v14.0 |
+| M1 | Ch 12 structural overload (Rostova s-risk briefing) | Pre-Nyarlathotep Morrison walkthrough too long | Medium | Done v14.0: Compressed ~50% (44 to 22 lines), planted s-risk seed |
+| M2 | Part II pacing plateau | Chs 8-11 philosophically dense | Medium | No fix — acknowledged as design trade-off |
+| M3 | "just" density (126 instances) | Mechanical hedges in ch07/ch12 especially | Medium | Done v14.0: 11 removed (105 to 94), preserved thematic instances |
+| M4 | Filter words in session scenes | "she could feel/perceive" adds distance | Medium | Done v14.0: 4 session-scene instances removed (ch12-14) |
+| M5 | Ch 12 exposition density (merged with M1) | Same passage as M1 | Medium | Done v14.0: See M1 |
+| M6 | characters.md stale phrasing | "third person to survive past 25" | Medium | Done v14.0 |
+| M7 | Instructor voice in Ch 4 (Sarah) | Sarah not differentiated from Thomas | Medium | Done v14.0: 2 scholarly-framing beats added |
+| M8 | David Chen voice | Generic dialogue, needs deliberateness | Medium | Done v14.0: 4 beats across ch06, ch09, ch14 |
+| M9 | "something" count drift | ~107 up from ~102 target | Medium | Done v14.0: 8 weakest replaced (107 to 99) |
+
 ### R9 Audit Notes: Yog-Sothoth Voice — COMPLETED (v13.0)
 
 The v2 review flagged Yog-Sothoth outputs as insufficiently alien relative to Nyarlathotep. **Resolved** in v13.0 with three-register voice rewrite:

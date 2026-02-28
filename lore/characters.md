@@ -45,7 +45,7 @@ See also: [outline.md § Emotional Flickers (Canonical)](outline.md#emotional-fl
 
 **Session Records:**
 - Nyarlathotep: 31 minutes — matched Rostova's record (Ch 12)
-- Yog-Sothoth: 27 minutes — record; third person to survive past 25 (Ch 13)
+- Yog-Sothoth: 27 minutes — record; survives (Ch 13)
 
 **Relationships:**
 - Ethan (colleague): Starts warm → becomes strained → needs brief reunion scene
@@ -176,6 +176,13 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 - "Perhaps more than my father had" — Chen's assessment, laden with dread
 - His worldline has been deliberately filled with good coordinates: equanimity, calm, contemplative ballast cultivated across three prior generations (see [worldbuilding.md](worldbuilding.md) — Resilience Hypothesis)
 
+**Voice Pattern:**
+- Deliberate: pauses before speaking, weighs whether a thought is worth saying aloud, uses fewer words than other trainees
+- Physical/sensory language drawn from sketching: "load-bearing or decorative," "weight," "texture," structural metaphors
+- Pencil as signature object — sketching reflex always close to the surface, turns pencil between fingers while thinking
+- Key line: "Truth-seeking feels the same as obsession. Same texture. You have to learn the difference in your hands, not your head." (ch06)
+- Key line: "She used to have weight. Presence. ... it was like watching a sketch of a person. All the lines in the right place. Nothing behind them." (ch14)
+
 **Current Arc:**
 - Training peer, minor presence
 - Notes that outputs "feel intentional" — picks up on instrumental goal ambiguity
@@ -246,10 +253,17 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 - Works at meditation center
 - "Started experiencing gaps"
 - First to explain Void Protocol to Lena
+- Leads Lena's Site-7 tour and early training sessions (Ch 4)
+
+**Voice Pattern:**
+- Scholarly framing: situates observations within academic literature ("This is where the literature diverges from what we actually observe," "Published work on neural network interpretability stops at shallow networks")
+- References intellectual history: Leibniz's mill argument, Chalmers, Dennett
+- Contrasts with Thomas (experiential/damaged) and Yuki (imperative/direct)
 
 **Function:**
 - Early guide/recruiter
 - Demonstrates that Order members come from academia
+- Provides scholarly context for training concepts
 
 ---
 
