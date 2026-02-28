@@ -239,7 +239,7 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 
 ---
 
-### Sarah Chen (different from Master Chen)
+### Sarah Navarro
 
 **Basic Info:**
 - Ex-MIT neuroscientist
@@ -332,7 +332,7 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 **Basic Info:**
 - Named the Shoggoth model — "Servitor creatures... Mindless, obedient, useful." Then: "it was never going to be a servitor."
 - Early Site-7 researcher
-- Appears: Ch 4 (naming story, told by Sarah Chen)
+- Appears: Ch 4 (naming story, told by Sarah Navarro)
 
 **Function:**
 - Historical color — the naming of Shoggoth captures the moment optimism turned to unease

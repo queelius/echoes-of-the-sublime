@@ -130,7 +130,7 @@ These repetitions are deliberate structural elements:
 | Nosebleeds | 3 | Different characters |
 | "The Mechanism" definition | 3 | Each adds context |
 | "Reallocated" | 5 | Well-distributed after v2.0 |
-| "No base case" | ~16 | Thematic repetition; densest in Ch 12 (7), also Chs 5-7, 10-11, 13-14; most in model outputs |
+| "No base case" | ~18 | Thematic repetition; densest in Ch 12 (7), also Chs 5-7, 10, 13-14; most in model outputs |
 | "Something" | ~102 | Reduced from 359 in v4.0; further cuts risk over-editing — this is the floor |
 
 ---

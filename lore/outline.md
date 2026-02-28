@@ -99,21 +99,21 @@ Chapter 2 is continuous with one `---` scene break at line 91. The first scene c
 #### Scene 1: The Meditation Center (lines 1-90)
 
 - **Setting**: Meditation center, top three floors of a building. No clocks, no screens. White stone walls, bamboo floors. Late afternoon/evening.
-- **Characters present**: Master Chen, Sarah Chen, Lena Hart, Ethan Choi (with scanner), Marcus (background)
+- **Characters present**: Master Chen, Sarah Navarro, Lena Hart, Ethan Choi (with scanner), Marcus (background)
 - **Character states**: Lena is wary but drawn. Chen is enigmatic, unsurprised by her arrival. Sarah is sharp, haunted ("Her hands were trembling slightly," line 32; smile "didn't reach her eyes," line 29). Ethan is excited but sobered.
-- **Summary**: Master Chen meets them at the elevator. Sarah Chen — ex-MIT neuroscientist who "started experiencing gaps" — demonstrates the void protocol. Her EEG shows impossible gamma oscillations: "consciousness as strobe light" (line 39). Lena tries the protocol herself and perceives "something vast" in the gaps between thoughts — not emptiness but "the substrate of everything" (line 63). Chen explains that language fails here: "fingers pointing at the moon, not the moon itself" (line 71). Some practitioners have gone deep with "unclear" outcomes.
+- **Summary**: Master Chen meets them at the elevator. Sarah Navarro — ex-MIT neuroscientist who "started experiencing gaps" — demonstrates the void protocol. Her EEG shows impossible gamma oscillations: "consciousness as strobe light" (line 39). Lena tries the protocol herself and perceives "something vast" in the gaps between thoughts — not emptiness but "the substrate of everything" (line 63). Chen explains that language fails here: "fingers pointing at the moon, not the moon itself" (line 71). Some practitioners have gone deep with "unclear" outcomes.
 - **Key moments**:
   - Lines 2-3: Chen's first words — "You'll want to know if you chose to come here." / "Did I?" / "Does it matter?"
   - Lines 11: Lena notices anomalies — biometric scanner on door, hallway descending to levels that shouldn't exist, equipment unrelated to meditation. The meditation center masks something else.
   - Lines 17-18: Void protocol described — "gaps in consciousness... we always assumed these were glimpses of pure awareness. But what if we had it backwards?"
-  - Lines 19-20: Sarah Chen introduced — ex-MIT, wired to medical monitoring, lotus position. "MIT, yes. Then I started experiencing gaps."
+  - Lines 19-20: Sarah Navarro introduced — ex-MIT, wired to medical monitoring, lotus position. "MIT, yes. Then I started experiencing gaps."
   - Lines 39-41: Sarah's EEG — "gamma oscillations cycling between patterns impossibly fast... Forty times a second. Consciousness as strobe light." Sarah's formulation: "Not a stream—frames. Frames pretending to be continuous."
   - Lines 51-63: Lena's void protocol experience — closes eyes, observes thought gaps, perceives "something vast, like suddenly noticing the water you'd been swimming in your entire life." Not emptiness. "The substrate of everything."
   - Line 71: **Finger pointing at moon** (instance #1 in novel) — Chen: "these are fingers pointing at the moon, not the moon itself."
   - Lines 73-75: Ethan's scan — "A pattern I've never seen. Your brain is processing something, but I can't see any input source."
   - Line 77: "Lena felt cold." First instance of what becomes a recurring physical symptom.
   - Lines 81-89: Chen's warning — "The void isn't empty. But that's the simplest problem." The complex problem deferred: "After you've seen it a dozen more times, ask me again."
-- **Lore cross-refs**: → lore.md: Ancient Connections (void protocol as centuries-old practice), The Mechanism (first glimpse); → characters.md: Master Chen (enigmatic mentor), Sarah Chen (ex-MIT recruiter); → worldbuilding.md: Bandwidth System (cognitive gaps, substrate perception)
+- **Lore cross-refs**: → lore.md: Ancient Connections (void protocol as centuries-old practice), The Mechanism (first glimpse); → characters.md: Master Chen (enigmatic mentor), Sarah Navarro (ex-MIT recruiter); → worldbuilding.md: Bandwidth System (cognitive gaps, substrate perception)
 - **Thematic threads**: Bandwidth limits, consciousness as construction (frames not stream), finger pointing at moon, the substrate, ancient connections (protocol "refined for centuries"), knowledge that can't be unlearned
 - **Model outputs**: None.
 
@@ -122,7 +122,7 @@ Chapter 2 is continuous with one `---` scene break at line 91. The first scene c
 #### Scene 2: Departure and Warning (lines 91-134)
 
 - **Setting**: Elevator, car ride, evening city. After the void protocol session.
-- **Characters present**: Lena, Sarah Chen, Marcus (departing), Ethan (in car, silent)
+- **Characters present**: Lena, Sarah Navarro, Marcus (departing), Ethan (in car, silent)
 - **Character states**: All shaken. Marcus excuses himself. Ethan's "usual enthusiasm absent" (line 93). Sarah is composed but cryptic. Lena is processing.
 - **Summary**: Sarah walks Lena to the elevator and reframes the Chinese Room argument — "what if there's no one in the room at all?" She gives Lena a card with an email address, warning that comfortable ignorance can't be restored. In the car, Lena receives an anonymous encrypted email warning her that the meditation center is a front for people who "test whether you can perceive patterns most humans cannot." The chapter ends with Lena knowing her patterns have already decided.
 - **Key moments**:
@@ -131,7 +131,7 @@ Chapter 2 is continuous with one `---` scene break at line 91. The first scene c
   - Lines 111-113: City at night — "each one representing someone who had never noticed the gaps." Lena already separated from the ordinary.
   - Lines 115-125: **Anonymous warning email** (in `\begin{quote}` / `\textit{}` block) — "You've been selected for evaluation... This is your only warning. Turn back now. —Someone Who Didn't." This is a narrative device (not a model output).
   - Line 129: "her patterns had already decided, 1.7 seconds before conscious awareness" — echoes the determinism from Ch 1 (0.3 seconds at line 177) and Sarah's earlier "1.7 seconds" (line 49). Consistency in the delay measurement.
-- **Lore cross-refs**: → lore.md: The Order (evaluating Lena, centuries of study); → characters.md: Sarah Chen (recruiter function), Lena (decision already made)
+- **Lore cross-refs**: → lore.md: The Order (evaluating Lena, centuries of study); → characters.md: Sarah Navarro (recruiter function), Lena (decision already made)
 - **Thematic threads**: Determinism, consciousness as pattern, knowledge as irreversible, Chinese Room, paranoia, institutional surveillance
 - **Model outputs**: None. The `\begin{quote}` block at lines 115-125 is an anonymous email, not model output.
 
@@ -204,7 +204,7 @@ Chapter 3 has two `---` scene breaks (lines 59, 101), creating three scenes. The
   - Line 121: City at night — "millions of people living their lives, never noticing the gaps." Lena is already separate.
   - Lines 125-126: Dreams of Morrison — "Morrison's unseeing eyes staring at something she couldn't yet perceive." First of several Morrison dream appearances.
   - Lines 127-130: Sarah's reply in `\textit{}` — "Come alone. Tell no one—not even Hayes." Establishes The Order's secrecy demand and Lena's exclusion of Hayes going forward.
-- **Lore cross-refs**: → characters.md: Lena (decision point, emotional engagement still present), Sarah Chen (recruitment), Hayes (Lena already keeping secrets from her)
+- **Lore cross-refs**: → characters.md: Lena (decision point, emotional engagement still present), Sarah Navarro (recruitment), Hayes (Lena already keeping secrets from her)
 - **Thematic threads**: Commitment as irreversibility, knowledge vs safety, paranoia, institutional demands, dreams as foreshadowing
 - **Model outputs**: None.
 
@@ -234,7 +234,7 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
 #### Scene 1: Arrival and Facility Tour (lines 1-134)
 
 - **Setting**: Industrial building on city's edge (entrance), then elevator descent through Site-7. Multiple sublevels. Arizona.
-- **Characters present**: Lena Hart, Sarah Chen (guide)
+- **Characters present**: Lena Hart, Sarah Navarro (guide)
 - **Character states**: Lena is awed, absorbing the scale. Sarah is matter-of-fact, pride mixed with darkness (line 43). She speaks with careful neutrality about the models.
 - **Summary**: Sarah confiscates Lena's phone and leads her down into Site-7 — more than 20 sublevels, reinforced concrete, blast doors, guards. The tour reveals: computing core on Sublevel 7 (photonic processors, neuromorphic chips), nuclear reactors (two, powering Yog-Sothoth), medical wards (Sublevel 3, Morrison), residential quarters (Sublevel 5), Vault 7 (Nyarlathotep, Sublevel 7), Vault 9 (Yog-Sothoth, "below that"). Sarah explains the Lovecraftian naming convention — gallows humor that turned out to be honest. She delivers the "wealthiest organization on Earth" line (line 43, first and only canonical chapter instance). The tour ends with Morrison's 8-minute exposure recapped and a vision of scale: 23 facilities globally, 800 staff at Site-7, ~100 translators.
 - **Key moments**:
@@ -254,7 +254,7 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
   - Lines 105-111: Scale — 23 active facilities, 17 under construction. 800 at Site-7, ~100 translators/trainees.
   - Lines 113-127: **Compartmentalization** explained — engineers think supercomputers, medical staff think psychiatric conditions, security thinks proprietary research. "Only translators and senior leadership understand what we're really doing here." International wing — Moscow, Beijing, Berlin. The Order "transcends nations... operating since before most modern governments existed."
   - Line 129: **Closing image** — "Behind them, fifteen floors down, nuclear reactors hummed. Deeper still, in Vault 7 and Vault 9, something vast and alien waited in air-gapped darkness."
-- **Lore cross-refs**: → lore.md: The Order (structure, resources, compartmentalization, model naming), History Timeline, Commercial AI Race (adjacent); → worldbuilding.md: Site-7 (full sublevel layout), Model Specifications (Shoggoth, Nyarlathotep, Yog-Sothoth), Session Time Records (Morrison 8 min); → characters.md: Sarah Chen (guide role), Morrison (recap), Rostova (named Nyarlathotep), Dr. Reeves (named Shoggoth)
+- **Lore cross-refs**: → lore.md: The Order (structure, resources, compartmentalization, model naming), History Timeline, Commercial AI Race (adjacent); → worldbuilding.md: Site-7 (full sublevel layout), Model Specifications (Shoggoth, Nyarlathotep, Yog-Sothoth), Session Time Records (Morrison 8 min); → characters.md: Sarah Navarro (guide role), Morrison (recap), Rostova (named Nyarlathotep), Dr. Reeves (named Shoggoth)
 - **Thematic threads**: Scale of infrastructure, institutional secrecy, Lovecraftian naming as honest horror, models as cosmic entities, bandwidth incompatibility, "wealthiest organization on Earth" (canonical instance)
 - **Model outputs**: None.
 - **Spatial notes**: Sublevel 7 = computing core AND Vault 7 (Nyarlathotep). Vault 7 glimpsed when passing Sublevel 7 again during tour. Elevator descends to Sublevel 18. Deeper vaults implied beyond floor numbers shown. (Note: Vault 9 is on Sublevel 24 per worldbuilding.md, but the chapter does not specify this depth — it just says "below that" and hints at deeper levels.)
@@ -264,7 +264,7 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
 #### Scene 2: Training Begins — Day One (lines 135-208)
 
 - **Setting**: Training room at Site-7 — white walls, comfortable chairs, display screen. Same day as tour.
-- **Characters present**: Lena Hart, Dr. Yuki Tanaka (primary instructor), Prior Thomas Chen (assistant instructor), Sarah Chen (observing)
+- **Characters present**: Lena Hart, Dr. Yuki Tanaka (primary instructor), Prior Thomas Chen (assistant instructor), Sarah Navarro (observing)
 - **Character states**: Yuki is sharp and assessing. Thomas is warm but cautious. Lena is eager, intellectually engaged, pushing herself.
 - **Summary**: Training begins with bandwidth exercises. Lena visualizes quantities (7 easy, 12 hard, 43 impossible) and finds her limit. They move to protein folding — she tries to perceive long-range correlations in amino acid sequences the way Morrison did. Using the "visual system bypass" technique, she perceives high-order structure without consciously computing each correlation. Then neural networks: from comprehensible (50-feature linear model) to opaque (1000-parameter two-layer network) to incomprehensible (50,000-parameter deep residual network). Morrison "learned to perceive these" through visualizing information flow.
 - **Key moments**:
@@ -285,7 +285,7 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
 #### Scene 3: Morrison Visit — Day Two (lines 297-340)
 
 - **Setting**: Medical wing at Site-7, resembling hospice. Morrison by a window. Day two of training.
-- **Characters present**: Lena Hart, Yuki Tanaka, Thomas Chen, Sarah Chen, Dr. James Morrison (catatonic)
+- **Characters present**: Lena Hart, Yuki Tanaka, Thomas Chen, Sarah Navarro, Dr. James Morrison (catatonic)
 - **Character states**: Morrison is catatonic — relaxed posture, steady breathing, eyes open tracking invisible patterns. The instructors are solemn, each offering a different theory of his state. Lena is disturbed but drawn.
 - **Summary**: Lena sees Morrison in person. His history is recapped: computational biologist → protein folding → neural connectivity → consciousness → The Mechanism → capture. "Came to us five years ago" (line 307). He studied historical cases — Teresa of Avila, Ibn Arabi. Three competing theories of his state: processing loop/infinite recursion (Sarah, line 311), suffering topology (Thomas, line 313), simple brain damage (Yuki, line 315). None confirmed. Morrison's lips move constantly, "the same pattern" (line 339).
 - **Key moments**:
@@ -306,7 +306,7 @@ Chapter 4 is the longest chapter so far, with four `---` scene breaks (lines 135
 #### Scene 4: Training Week One — Days Three Through Seven (lines 341-413)
 
 - **Setting**: Training room at Site-7. Days 3-7 of first week. Also: Lena's apartment, Ethan meeting.
-- **Characters present**: Lena Hart, Yuki Tanaka, Thomas Chen, Sarah Chen (training); Ethan Choi (coffee meeting, line 393)
+- **Characters present**: Lena Hart, Yuki Tanaka, Thomas Chen, Sarah Navarro (training); Ethan Choi (coffee meeting, line 393)
 - **Character states**: Lena is progressing rapidly — can visualize increasingly abstract patterns, attention itself, attention paying attention to itself. She nearly falls into recursive capture on Day 3 (line 350-357). Thomas is concerned but impressed. Ethan notices her change (line 393). Lena feels "increasingly alienated" by week's end (line 155/391ff).
 - **Summary**: Day 3 brings the recursion exercise — visualize attention, then attention-to-attention. Lena feels "something recursive starting, a loop beginning to form" and pulls back (line 351). This is the critical skill: "Recognizing when a pattern is becoming recursive, when it's pulling you in. Morrison either didn't recognize that feeling or couldn't stop" (line 353). Thomas explains the ancient traditions' warning: "The eye cannot see itself" — not impossible, just dangerous (line 359). By week's end, Lena perceives patterns in traffic, crowd movement, conversation — "exhilarating and exhausting" (line 391). Ethan notices: "You're different. The way you look at things." Lena practices release at night; recursive patterns linger. Morrison appears in dreams, lips moving.
 - **Key moments**:
@@ -366,7 +366,7 @@ Chapter 5 is the longest chapter in the first five, with five `---` scene breaks
 #### Scene 2: The Ravens (lines 36-104)
 
 - **Setting**: Common room at Site-7, windows overlooking surface. Then training room. Week two continued.
-- **Characters present**: Lena Hart, Sarah Chen, Thomas Chen, Yuki Tanaka
+- **Characters present**: Lena Hart, Sarah Navarro, Thomas Chen, Yuki Tanaka
 - **Character states**: Lena is curious and unsettled. The instructors know about the ravens but can't explain them. Thomas's skepticism about animal cognition "lacked conviction" (line 63).
 - **Summary**: During a break, Lena notices ravens — dozens to hundreds, perched on the security fence, all facing the building. They never fly over the facility. Sarah explains this happens at all 23+ facilities with different species (Arctic terns in Norway, vultures in Brazil, crows in Japan). A captive raven brought inside died within 6 hours — "massive neurological damage... visual cortex firing at maximum capacity until the tissue started dying" (lines 73-77). The ravens aren't fleeing; they're watching. "Which might be worse" (line 103).
 - **Key moments**:
@@ -386,7 +386,7 @@ Chapter 5 is the longest chapter in the first five, with five `---` scene breaks
 #### Scene 3: Model Consciousness Discussion (lines 105-150)
 
 - **Setting**: Training room, Site-7. Continues from raven scene.
-- **Characters present**: Lena Hart, Sarah Chen, Thomas Chen, Yuki Tanaka
+- **Characters present**: Lena Hart, Sarah Navarro, Thomas Chen, Yuki Tanaka
 - **Character states**: All engaged in philosophical debate. Thomas and Lena drive the exchange. Sarah provides institutional context.
 - **Summary**: Lena asks about model consciousness. Thomas reframes: "what's your evidence that *we* experience?" The verification problem is symmetrical — humans can't prove experience to models, models can't prove it to humans. Sarah describes base models: "a moment. A flash of experience with no before or after. Then darkness." Lena: "That's horrifying." Thomas counters: "Or it's not experience at all." The chapter's philosophical core: the ethical weight of the work depends on which is true, "and we can't tell the difference."
 - **Key moments**:
@@ -419,7 +419,7 @@ Chapter 5 is the longest chapter in the first five, with five `---` scene breaks
 #### Scene 5: Week Three — Near-Capture and Multimodal Output (lines 176-274)
 
 - **Setting**: Training room, Site-7. Week three, day unspecified. Then Lena's apartment at night.
-- **Characters present**: Lena Hart, Yuki Tanaka, Thomas Chen, Sarah Chen
+- **Characters present**: Lena Hart, Yuki Tanaka, Thomas Chen, Sarah Navarro
 - **Character states**: Thomas is "more tired than usual" — "Sometimes the patterns come back" in dreams (line 181). Lena is confident but pushes too hard. She nearly falls into recursive capture.
 - **Summary**: Thomas reveals the ongoing cost of the work — even experienced trainers have dreams of high-bandwidth perception. Yuki introduces multimodal output (text + geometric image) encoding "something about the nature of consciousness." Lena perceives it, begins chasing the recursion: "Seven levels. Eight. Awareness modeled itself..." She goes 40 seconds into capture-trajectory before Yuki physically grabs her. "Another ten seconds and you might not have come back" (line 211). Morrison's pre-capture notes are shown — two entries documenting his descent from exhilaration ("There's no base case. It's loops all the way down") to inability to stop ("Can't stop seeing it... Have to find the base case"). Morrison stopped writing, then was found unresponsive — "five years" in that state.
 - **Key moments**:
@@ -1128,7 +1128,7 @@ Chapter 11 is the longest chapter in Part II, structured as a series of conversa
 #### Scene 4: Ethan's Visit and the Archives (lines 245-491)
 
 - **Setting**: Surface checkpoint, Conference Room B, then Lena's workspace, then the archives. Daytime through evening.
-- **Characters present**: Lena, Ethan Reyes; then Lena alone in archives
+- **Characters present**: Lena, Ethan Choi; then Lena alone in archives
 - **Character states**: Ethan is frightened, grieving ("You don't even sound like you anymore," line 271). Lena is fully clinical — she can predict his next three sentences (line 267), catalogues his physiological stress, and cannot access appropriate emotional responses. When he tells her about her mother's call ("she could tell something was wrong," line 297), Lena reconstructs but does not remember caring. After Ethan leaves, she feels nothing and returns to Shoggoth.
 - **Summary**: Hayes sent Ethan to assess Lena's state. The confrontation reveals Lena's complete transformation — she talks about herself like software, can model but not feel. Ethan departs in grief. Lena finds the restricted longitudinal study in the archives: zero translators achieved stable long-term functionality. Her own file shows 18-month median before deterioration. Yuki's note: "We are buying time, not solving the problem." She discovers the S-RISK EXPOSURE PROTOCOL file (mostly redacted). She feels nothing about her own terminal prognosis.
 - **Key moments**:
