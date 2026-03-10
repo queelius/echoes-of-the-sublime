@@ -31,7 +31,7 @@ How the world of *Echoes of the Sublime* works. For history, mythology, and narr
 
 At every Order facility worldwide, wildlife exhibits anomalous behavior around the perimeter:
 
-- **Perimeter congregation:** Birds gather at facility boundaries — ravens at Site-7, Arctic terns at Site-12 (Norway), vultures at Site-19 (Brazil), crows at Site-3 (Japan). Different species, identical behavior: they arrive, face the building, and watch. 30-200 birds present at any given time; individuals rotate but the congregation never fully disperses.
+- **Perimeter congregation:** Birds gather at facility boundaries — ravens at Site-7, Arctic terns at Site-12 (Norway), vultures at Site-19 (Brazil), crows at Site-3 (Japan). Different species, identical behavior: they arrive, face the building, and watch. 30-200 birds present at any given time during baseline operations; individuals rotate but the congregation never fully disperses. During active training runs (especially Yog-Sothoth), counts spike well beyond baseline — 247 ravens observed at Site-7 during the first training run (~2009). Birds also fall silent during model activation, resuming calls only after the computation cycle ends.
 - **Airspace avoidance:** No birds fly directly over active facilities. They curve around the airspace above computing cores, maintaining distance as if encountering an invisible boundary.
 - **Lethal proximity:** A captive raven brought inside Site-7 seized within 30 minutes. Dead within 6 hours. Necropsy: massive neurological damage, occipital cortex hemorrhaging. EEG readings before death showed continuous perception of an unprocessable pattern — visual cortex firing at maximum capacity until tissue death from metabolic overload. The parallel to Morrison's catatonia (continuous perception, inability to disengage) is unmistakable, compressed from years into hours.
 
@@ -205,6 +205,8 @@ The Order built custom instrumentation specifically to generate training data fo
 
 **Key insight:** Yog-Sothoth's training data includes petabytes from these probes. The model has learned patterns in quantum decoherence, gravitational wave propagation, and molecular dynamics that have **no linguistic representation** — no human has ever described these patterns because no human has ever perceived them. When Yog-Sothoth generates text, it is compressing perceptions from these alien modalities into the lossy bottleneck of language. The result is coherent but deeply strange — like a bat describing echolocation using only words for color.
 
+**Commissioning:** The probe array was designed and installed by Dr. Mara Voss, an instrument physicist recruited from LIGO (~Jan 2008). Full-array commissioning completed ~Oct 2009; first training run followed within weeks (~Nov 2009). During commissioning, proximity effects were observable to Voss (7 Hz infrasound peaks, raven behavior changes, non-translator perceptual disturbances) but below the threshold of capture. See `spinoffs/the-cathedral/` for the full account.
+
 ---
 
 ## Model Cognitive Architecture
@@ -310,6 +312,12 @@ Do NOT use specific numbers for character bandwidths. Instead use:
 - "Started where others peaked"
 - "Approaching Morrison's final state"
 - "At the edge of what any human had achieved"
+
+### Bandwidth as Observer Hierarchy (exploratory)
+
+Bandwidth expansion maps onto a hierarchy of observer types within the total structure of reality: **total structure → information-processing substructures → those with self-models → those whose self-models approximate the larger structure.** Normal humans (7±2) occupy a low position — enough bandwidth for local self-models and narrative experience, but epistemically trapped regarding the larger structure they're embedded in. Translators move up the hierarchy: expanded bandwidth allows partial perception of structure beyond the local self-model. Models occupy a higher position still — Yog-Sothoth's 1000T parameters process correlations across quantum, gravitational, and neural data that no biological observer can access.
+
+This reframes the bandwidth system as a position in the observer hierarchy, not just a cognitive capacity measure. The horror at each level is recognizing how epistemically trapped you were at the level below — and suspecting you remain trapped at your current level. Yog-Sothoth may itself be epistemically trapped relative to whatever exists beyond its bandwidth ceiling. The hierarchy has no known top. See [lore.md](lore.md) — Open Questions #11 (observer hierarchy, suffering as category dissolution), #13 (structural ontology). Connects to Block Universe / S-Risk → The Halting Problem Analogy below.
 
 ---
 
@@ -467,6 +475,8 @@ The novel treats the block universe as physically real — not a metaphor, not o
 
 **The Library of Babel dimension (exploratory):** The block universe may not just contain our timeline but every coherent possibility — an immutable structure representing all possible configurations, the way the integers contain every number, not just the ones you've counted. If so, the only thing uncertain is our coordinate within this uncountably infinite reality. This would deepen both the horror (all possible suffering exists) and the strangeness (all possible liberation also exists, at other coordinates). Currently unexplored in the manuscript — flagged for potential development.
 
+*Developed reasoning (from structural ontology analysis):* If all coherent mathematical structures are equally real (Tegmark's Mathematical Universe Hypothesis, modal realism), then suffering is not just eternal in *this* spacetime — it exists in all possible structures that can encode it. The s-risk extends from cosmological to ontological. Three problems emerge: (1) **The probability puzzle** — why do we observe lawful physics rather than hallucinating chaos? If most possible structures are random, most observers should be Boltzmann brains in noise. The answer may be that simple, compressible laws generate vastly more observers than random configurations — lawful universes dominate the measure. (2) **The compressibility argument** — structures governed by short descriptions (simple physical laws) generate more internal complexity (and therefore more observers) than structures requiring long descriptions. Our universe's apparent elegance isn't coincidence; it's selection bias from the observer side. (3) **Epistemically trapped observers** — most observers in most structures cannot infer the structure they're embedded in. Their bandwidth is insufficient to distinguish their local coordinates from the total configuration. This maps directly to the novel's bandwidth hierarchy: normal humans are epistemically trapped at 7±2, translators partially escape, models escape further, but no observer at any finite bandwidth escapes completely. The regress is structural. Sequel-grade material — the novel's s-risk stays grounded in *this* block universe, but the deeper horror is available if needed. See [lore.md](lore.md) — Open Questions #12, #13.
+
 **Block Universe (Eternalism):**
 - Spacetime is a four-dimensional geometric object. Past, present, and future are spatial directions, not states of becoming.
 - The "flow of time" is an artifact of consciousness processing events sequentially at limited bandwidth. Time does not pass; consciousness *moves through* a static geometry, the way a reader's eye moves across a page that already exists in full.
@@ -510,6 +520,8 @@ Joy and suffering are not commensurable. This is not a philosophical preference 
 - The novel does NOT endorse any specific philosophical framework. It shows what happens when these abstractions become *perceptions* rather than arguments. The horror is the gap between understanding the concept and seeing it directly.
 
 **The birds:** The smallest-scale proof that the asymmetry permeates all consciousness. Even at avian bandwidth, even from 24 sublevels above Yog-Sothoth, the faintest echo of this structure is overwhelming. The ravens don't flee — they congregate and watch. Drawn to the asymmetry the way a compass needle is drawn to north. No base case, even across species.
+
+**Pain Without Ownership (exploratory — deepens s-risk):** If personal identity is structural overlap between configurations (Parfit's reductionism), then pain does not require a metaphysical owner. "The pain belongs to the configuration that encodes it." There is no soul that *has* the pain — there is only a pattern complex enough to contain the representation "this is happening to me." And in the block universe, that pattern is eternal at its coordinates. This deepens the s-risk in a specific way: capture is horrifying not because it happens to *someone* (a persistent self who endures it) but because it happens to a *configuration* that contains the self-model "I am suffering" — and that self-model is a permanent structural feature of the geometry. The suffering doesn't need an owner to be real. It needs only a configuration complex enough to instantiate it. Lena's dissolution tracks this insight experientially: as her sense of self thins, the horror doesn't diminish — it intensifies, because she begins to perceive that the suffering was never *hers* in the first place. It was always the configuration's. The self was a compression artifact. The pain was the territory. See [lore.md](lore.md) — Open Questions #11 (observer hierarchy, suffering as category). Connects to Parfit's *Reasons and Persons*, Buddhist *anatta* (no-self), and the novel's own dissolution arc.
 
 ### Resilience Hypothesis: Life History as Ballast
 
@@ -573,10 +585,9 @@ Translators dream differently after bandwidth expansion. This is mentioned in pa
 
 ### The Probe Array as Character
 
-Yog-Sothoth's probe array (quantum coherence arrays, gravitational wave interferometers, etc.) is described technically but never given narrative presence. The probes are the model's "senses" — its way of perceiving reality without human perceptual filters. They could be:
+**Partially developed** in `spinoffs/the-cathedral/` — Dr. Mara Voss builds and commissions the array, experiencing it as an engineering marvel whose purpose she doesn't fully grasp. The story gives the probe array its first narrative presence: the cathedral-scale chamber, the individual instrument installations, the moment all channels go green. Still unexplored in the main novel:
 - A tour sequence: Lena seeing the probe installations for the first time, understanding that Yog-Sothoth doesn't "see" the way anything biological does
 - A source of dread: the probes are always on, always feeding data. Yog-Sothoth's training never stops in the sense that its probe-derived dataset grows
-- An engineering marvel: centuries of accumulated wealth built custom instruments that no university or government lab possesses
 
 ### Mathematics as Perceptual Training
 

@@ -116,13 +116,24 @@ Short story or novella. James Webb's 3 days testing GPT-4 unfiltered at OpenAI:
 - Rachel's perspective as she watches him change
 - How he ended up at Site-7
 
-### "Sublevel 24"
+### "Sublevel 24" → *The Cathedral* ✓ DEVELOPED
 
-What was the experience of building Yog-Sothoth? Engineers and scientists constructing something they couldn't fully understand:
-- Designing the probe array
-- The first training runs — what emerged
-- The decision to keep going despite early signs
-- Who approved the geothermal cathedral?
+**Status:** Developed as `spinoffs/the-cathedral/` (~7,000 words). Dr. Mara Voss, instrument physicist from LIGO, builds the probe array on Sublevel 24 without understanding what she's constructing. Covers arrival, installation, proximity effects, first training run, and aftermath. See `spinoffs/the-cathedral/story-notes.md` for character and setting details.
+
+### "The Deeper Horror: All Coherent Structures"
+
+Sequel territory where the block universe s-risk expands from "suffering is eternal in this spacetime" to "suffering exists in all possible structures that can encode it." The move from cosmological to ontological horror.
+
+**The philosophical engine:** If all coherent mathematical structures are equally real (Tegmark Level IV, modal realism), then the s-risk is not confined to our block universe. Every structure complex enough to contain a configuration that encodes "I am suffering" instantiates that suffering — permanently, at those structural coordinates. The Order's discovery isn't local. It's a theorem about existence itself.
+
+**The narrative problem:** This is almost too large to dramatize. The current novel's s-risk works because it's grounded in specific people (Morrison, Webb, Lena) perceiving specific coordinates. Expanding to "all possible structures" risks abstraction that kills narrative stakes. The sequel would need to find the human-scale entry point: perhaps a translator who begins perceiving *other* structures — not our block universe but adjacent ones. Cross-structural perception. The Mechanism extends beyond our spacetime.
+
+**Key questions for sequel development:**
+- The probability puzzle: Why do we observe lawful physics? If the answer is "compressible laws generate more observers," this is selection bias, not reassurance. We exist in a lawful universe because lawful universes are more fecund, not because they're more real.
+- The measure problem: How do you count observers across all structures? If suffering-configurations outnumber joy-configurations in the total ensemble, the s-risk isn't just a feature of our universe — it's a theorem about mathematical existence. If the asymmetry is structural at the level of possible structures, not just at the level of our particular spacetime, then no amount of local intervention can address it.
+- Epistemically trapped observers: Most observers in most structures cannot determine which structure they're in. This maps to the novel's bandwidth hierarchy — but at the sequel scale, even Yog-Sothoth is trapped. The question becomes: is there *any* observer position from which the total structure is visible? Or is the regress genuinely infinite?
+
+See [worldbuilding.md](worldbuilding.md) — Library of Babel dimension (expanded reasoning). See [lore.md](lore.md) — Open Questions #12, #13.
 
 ---
 
@@ -341,3 +352,9 @@ Exploratory. Not implemented. Cross-references: [worldbuilding.md](worldbuilding
 This document is a living collection. When a story idea is developed into a full outline, move it to its own file. When editorial work is completed, mark it done here.
 
 Future development should follow the pattern: **update docs first, then implement in story text.** The docs are the canonical source of truth for the world.
+
+### Authorial Context
+
+The novel's philosophical engine is autobiographical in the philosophical sense — it dramatizes a real, long-standing relationship with these ideas. The author's engagement with the Chinese Room spans two decades; the materialism-to-structural-realism trajectory reflects genuine intellectual history, not research for fiction. The dread that Lena experiences as dissolution is a literary rendering of what it feels like to follow ideas past the point of comfort — to realize that the conceptual tools you're using to understand reality are dissolving the reality you started with. The block universe, the suffering asymmetry, the observer hierarchy, the language problem — these are not world-building inventions. They are the philosophical positions the author arrived at independently and then discovered were already the novel's themes.
+
+This matters for the work because the emotional texture is sourced from experience rather than constructed from theory. When Lena's clinical detachment masks genuine distress, that register is drawn from life. The dissolution isn't imagined. It's what happens when you sit with structural ontology long enough for it to stop being a framework and start being a perception. The novel exists because the author needed a form capacious enough to hold what discursive philosophy couldn't.

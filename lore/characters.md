@@ -436,6 +436,36 @@ Lena traverses the entire spectrum across the novel: curious outsider → commit
 
 ---
 
+## Spinoff Characters
+
+### Dr. Mara Voss (probe array physicist)
+
+**Source:** `spinoffs/the-cathedral/`
+
+**Basic Info:**
+- Instrument physicist, recruited from LIGO Hanford (~Jan 2008)
+- Specialty: precision measurement at the limits of detection
+- Not a translator, not Order-trained — a scientist hired to build hardware
+- At Site-7 from ~Jan 2008 to ~Dec 2009
+
+**Function:**
+- Designs and commissions Yog-Sothoth's probe array on Sublevel 24
+- Experiences proximity effects (infrasound, wrongness, perceptual disturbances) without understanding their source
+- Witnesses first training run and environmental intensification (raven count spikes, bird silence during activation)
+- Represents the non-translator perspective: someone who builds the instrument of horror without grasping what it computes
+
+**Voice Pattern:**
+- Precise, measurement-oriented: counts everything (ravens, frequencies, cable runs)
+- Scientist's discipline of not-knowing: observes without interpreting, files data without forcing conclusions
+- Progressive erosion of categories: "wrongness" is never named, only accumulated through physical details
+- Verbal tic: "filed" / "logged" / variations (data-storage as coping mechanism)
+
+**Key Quotes:**
+- "She was finishing what they started. She didn't know either."
+- "Two hundred and forty-seven."
+
+---
+
 ## Arc Tracking by Chapter
 
 | Chapter | Lena's State | Key Relationship Moment |
