@@ -122,16 +122,16 @@ These repetitions are deliberate structural elements:
 |---------|-------|---------|
 | Morrison whispering equations | 4 | Recurring dread motif |
 | Webb's Rachel photo | 3 | Persistent love despite cognitive damage |
-| "Finger pointing at moon" | 6 | Buddhist epistemology leitmotif (1 in Ch 2, 5 in Ch 11). Was 7; Rostova/Eckhart instance cut in v12.1. |
+| "Finger pointing at moon" | 5 | Buddhist epistemology leitmotif (1 in Ch 2, 4 in Ch 11). Was 7; Rostova/Eckhart instance cut in v12.1, one more in subsequent pass. |
 | "Paranoia is protocol" | 3 | Introduced Ch 8 (Thomas), echoed Ch 10 (Lena), confirmed Ch 10 (Yuki). Progression from institutional wisdom to internalized principle. |
-| Progressive "couldn't feel" accumulation | 11 | Tracks Lena's dissolution |
+| "felt nothing" / "should feel" / "should have felt" family | ~34 | Tracks Lena's dissolution. Densest in Ch 12 (10, moral nadir) and Ch 13 (7, pre-Yog-Sothoth). Includes "couldn't feel" (~9 separate). All variants mark the same emotional move — Lena registering the absence of feeling. |
 | "Standing wave" metaphor | 3 | Distinct contexts |
-| "Pupils dilating" | 7 | Medical monitoring recurring |
+| "Pupils dilating" | 6 | Medical monitoring recurring |
 | Nosebleeds | 3 | Different characters |
 | "The Mechanism" definition | 3 | Each adds context |
 | "Reallocated" | 5 | Well-distributed after v2.0 |
 | "No base case" | ~16 | Thematic repetition; densest in Ch 12 (6, was 7 before v14.0 compression), also Chs 5-7, 10, 13-14; most in model outputs |
-| "Something" | ~99 | Reduced from 359 in v4.0; brought back below target in v14.0 after drift to ~107 |
+| "Something" | ~97 | Reduced from 359 in v4.0; brought back below 100 in v15.0 after drift to ~129 |
 
 ---
 

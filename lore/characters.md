@@ -36,8 +36,7 @@ All character arcs, relationships, and tracking. For the world they inhabit, see
 - Ch 11: Webb fracture — 3 heartbeats of real empathy for Webb's trapped suffering (ch11:383)
 - Ch 12: Butterfly warmth — brief ghost of feeling during routine observation
 - Ch 12: Ghost residue — phantom sensation of empathy, quickly dissolved
-- Ch 13: Shape-of-fear — recognizes fear's architecture without experiencing it
-- Ch 13: Ice-thinning — sense that something beneath the clinical surface is trying to surface
+- Ch 13: Shape-of-fear / ice-thinning — two-beat flicker in a single passage (ch13:315-317): first recognizes fear's architecture without experiencing it ("a kind of pressure, a restlessness, like water moving under ice"), then senses the clinical surface is thinning ("she could feel the ice thinning")
 - Ch 14: Mother beat — Anna Hart reaching for her hand; Lena reaching back with nothing behind the gesture, then needing to call her (ch14:355)
 
 These bridge the gap between Lena's moral nadir (Ch 12) and her humanity returning (Ch 14).

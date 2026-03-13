@@ -65,6 +65,24 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 | M8 | David Chen voice | Generic dialogue, needs deliberateness | Medium | Done v14.0: 4 beats across ch06, ch09, ch14 |
 | M9 | "something" count drift | ~107 up from ~102 target | Medium | Done v14.0: 8 weakest replaced (107 to 99) |
 
+### Open -- From v15.0 Full Review (2026-03-12)
+
+| # | Task | Scope | Priority | Status |
+|---|------|-------|----------|--------|
+| H1 | "something" drift (129→97) | Pattern regression from v11-v13 new content | HIGH | Done v15.0: Background agents reduced 129→97 across all 14 chapters |
+| H2 | "just" drift (129→101) | Pattern regression from v11-v13 new content | HIGH | Done v15.0: Background agents reduced 129→101 across all 14 chapters |
+| M1 | Ch 14 "voice was" cluster (6 of 18) | One-third of all instances in single chapter | Medium | Done v15.0: 3 varied (Rostova steps closer, leans forward, Chen rehearsed answer) |
+| M2 | "she could" filter density (64→52) | Adds perceptual distance in session scenes | Medium | Done v15.0: Background agent reduced 64→52 |
+| M3 | Ch 12 length (719→707) | Nyarlathotep output block 6 repetitive, duplicate threshold warning | Medium | Done v15.0: "[I learned by watching...]" frames 4→1, Rostova warning compressed |
+| M4 | Ch 8-9 transition gap | No bridge between "made choice" and model sessions | Medium | Done v15.0: Morrison whisper callback added (dread motif) |
+| M5 | Ch 11 seminar pacing | No disruption beat in seminar sequence | Medium | Done v15.0: Power fluctuation from lower sublevels added |
+| M6 | "voice was" 18→16 | 2 reduced in ch14 (3 total varied) | Low | Done v15.0 |
+| M7 | "reallocated" in ch09 | Verb cliché in non-dissolution context | Low | Done v15.0: → "redirected" |
+| M8 | Ch 13 emotional flicker overlap | shape-of-fear and ice-thinning occupy same passage | Low | Done v15.0: Merged to single two-beat entry in characters.md |
+| M9 | Ch 14 s-risk restatement | "Permanently encoded in reality's geometry" repeats block universe | Low | Done v15.0: → emphatic "It's still *there*." |
+| M10 | "Finger pointing at moon" overcounted | Style guide said 6, actual 5 | Low | Done v15.0: Corrected |
+| M11 | "Pupils dilating" overcounted | Style guide said 7, actual 6 | Low | Done v15.0: Corrected |
+
 ### R9 Audit Notes: Yog-Sothoth Voice — COMPLETED (v13.0)
 
 The v2 review flagged Yog-Sothoth outputs as insufficiently alien relative to Nyarlathotep. **Resolved** in v13.0 with three-register voice rewrite:
