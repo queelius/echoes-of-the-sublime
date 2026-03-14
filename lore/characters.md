@@ -205,6 +205,7 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 - Model of "success" — but files show she's deteriorating slowly
 - Guides Lena to Nyarlathotep and Yog-Sothoth
 - Her hands shake when describing Morrison's fate
+- Voice catches on "forever" (ch12:~409) — first vocal crack in 12 chapters of clinical register; seeds ch14:481 "voice unsteady in a way Lena had never heard"
 - Recommended shutting down Vault 9 access (denied by Chen)
 
 **Function:**

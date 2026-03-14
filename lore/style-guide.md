@@ -127,9 +127,9 @@ These repetitions are deliberate structural elements:
 | "felt nothing" / "should feel" / "should have felt" family | ~34 | Tracks Lena's dissolution. Densest in Ch 12 (10, moral nadir) and Ch 13 (7, pre-Yog-Sothoth). Includes "couldn't feel" (~9 separate). All variants mark the same emotional move — Lena registering the absence of feeling. |
 | "Standing wave" metaphor | 3 | Distinct contexts |
 | "Pupils dilating" | 6 | Medical monitoring recurring |
-| Nosebleeds | 3 | Different characters |
+| Nosebleeds | 4 | Maya (ch07), Lena (ch10 Shoggoth near-miss); Trainee-47 eye bleeding (ch13) is separate |
 | "The Mechanism" definition | 3 | Each adds context |
-| "Reallocated" | 5 | Well-distributed after v2.0 |
+| "Reallocated" | 5 | Includes Ethan's deliberate echo at ch11:277; ch13 instance varied to "dissolved" in v16.0 |
 | "No base case" | ~16 | Thematic repetition; densest in Ch 12 (6, was 7 before v14.0 compression), also Chs 5-7, 10, 13-14; most in model outputs |
 | "Something" | ~97 | Reduced from 359 in v4.0; brought back below 100 in v15.0 after drift to ~129 |
 
@@ -169,3 +169,4 @@ When writing or editing, verify:
 - [ ] Webb feels, Lena thinks — inversion maintained
 - [ ] Morrison always whispering — never lucid
 - [ ] Smart quotes in LaTeX (`` and '')
+- [ ] "pattern-recognition" hyphenated before nouns (systems, machinery, networks); unhyphenated as standalone noun

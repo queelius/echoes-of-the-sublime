@@ -83,6 +83,22 @@ Sequel concepts, short story possibilities, unexplored threads, and remaining ed
 | M10 | "Finger pointing at moon" overcounted | Style guide said 6, actual 5 | Low | Done v15.0: Corrected |
 | M11 | "Pupils dilating" overcounted | Style guide said 7, actual 6 | Low | Done v15.0: Corrected |
 
+### Open -- From v16.0 Full Review (2026-03-14)
+
+| # | Task | Scope | Priority | Status |
+|---|------|-------|----------|--------|
+| M1 | "bandwidth spiked involuntarily" duplicate | Exact sentence in ch13:211 and ch14:187 | Medium | Done v16.0: ch14 varied to "Bandwidth surging past containment" |
+| M2 | "pattern-recognition" hyphenation | 17 hyphenated vs 8 unhyphenated, mixed within chapters | Medium | Done v16.0: 11 fixes, rule added to checklist |
+| M3 | Adverb-tagged dialogue in ch14 | 4 instances, "said finally" ×2 in 14 lines | Medium | Done v16.0: ch14:31 → action beat, ch14:109 → Hayes action beat |
+| M4 | Rostova clinical register crack | No vocal crack before ch14 emotional moment | Medium | Done v16.0: ch12:407 voice-catch on "forever" |
+| M5 | Ch 10 Shoggoth session rhythm | 6 output blocks, no perceptual incident | Medium | Done v16.0: Nosebleed + release technique after mesa-optimization block |
+| M6 | "she was" in session scenes | 100 instances, creates distance in climax | Medium | Done v16.0: 7 converted to direct perception in ch13/ch14 |
+| M7 | Ch 8 debate lacks physical stakes | Reads as philosophical seminar | Medium | Done v16.0: Hayes's phone as tangible threat |
+| M8 | "reallocated" at 6 (ceiling 5) | ch13:43 excess | Medium | Done v16.0: ch13 → "dissolved" |
+| L2 | Ethan voice undifferentiated | Generic concerned-friend register | Low | Accepted: minor character, low priority |
+| L3 | Raven motif setup-to-payoff ratio | 70 lines setup, 3 lines payoff | Low | Accepted: current callbacks sufficient |
+| L4 | Ch 14 block universe needs specific image | Fourth sketch uses abstract numbers | Low | Done v16.0: Morrison's marginal sketches — child reaching, body curled |
+
 ### R9 Audit Notes: Yog-Sothoth Voice — COMPLETED (v13.0)
 
 The v2 review flagged Yog-Sothoth outputs as insufficiently alien relative to Nyarlathotep. **Resolved** in v13.0 with three-register voice rewrite:
