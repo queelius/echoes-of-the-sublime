@@ -129,9 +129,11 @@ These repetitions are deliberate structural elements:
 | "Pupils dilating" | 6 | Medical monitoring recurring |
 | Nosebleeds | 4 | Maya (ch07), Lena (ch10 Shoggoth near-miss); Trainee-47 eye bleeding (ch13) is separate |
 | "The Mechanism" definition | 3 | Each adds context |
-| "Reallocated" | 5 | Includes Ethan's deliberate echo at ch11:277; ch13 instance varied to "dissolved" in v16.0 |
+| "Reallocated" | 3 | Includes Ethan's deliberate echo at ch11:277; ch13 varied to "dissolved" (v16.0), ch09 to "redirected" (v15.0) |
 | "No base case" | ~16 | Thematic repetition; densest in Ch 12 (6, was 7 before v14.0 compression), also Chs 5-7, 10, 13-14; most in model outputs |
-| "Something" | ~96 | Reduced from 359 in v4.0; stable below 100 since v15.0 |
+| "Something" | ~80 | Reduced from 359 in v4.0; continued drift downward through v16.x |
+| "Just" | ~94 | Reduced from 239 in v4.0; thematic dissolution markers preserved |
+| "Tried to" | 36 | Thematic uses preserved (Lena trying/failing to feel); mundane filters converted in v16.4 |
 
 ---
 
@@ -144,7 +146,7 @@ Phrases that were over-used and deliberately reduced. Maintain these ceilings:
 | "Wealthiest organization on Earth" | 1 | 1 | Kept in Ch 4 (first introduction only); show wealth through infrastructure elsewhere |
 | "Exchanged glances" | 1 | 3 | Reduced from 10 in v4.0; further reduced in v11.0 |
 | "Data point" (narrative) | 2 | 2 | Reduced from 7 in v4.0; OK in technical/model contexts |
-| "Felt nothing" / "should feel" | ~14 | ~14 | Reduced from 34 in v4.0; vary dissolution language |
+| "Felt nothing" / "should feel" | ~13 | ~14 | Reduced from 34 in v4.0; vary dissolution language |
 | "Lena felt cold" | 4 | 4 | Reduced from 8 in v4.0 |
 
 ---
