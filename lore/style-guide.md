@@ -131,7 +131,7 @@ These repetitions are deliberate structural elements:
 | "The Mechanism" definition | 3 | Each adds context |
 | "Reallocated" | 5 | Includes Ethan's deliberate echo at ch11:277; ch13 instance varied to "dissolved" in v16.0 |
 | "No base case" | ~16 | Thematic repetition; densest in Ch 12 (6, was 7 before v14.0 compression), also Chs 5-7, 10, 13-14; most in model outputs |
-| "Something" | ~97 | Reduced from 359 in v4.0; brought back below 100 in v15.0 after drift to ~129 |
+| "Something" | ~96 | Reduced from 359 in v4.0; stable below 100 since v15.0 |
 
 ---
 
