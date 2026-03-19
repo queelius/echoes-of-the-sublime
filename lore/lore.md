@@ -44,7 +44,7 @@ The story behind the story. For technical systems, see [worldbuilding.md](worldb
 | ~1950-2000 | The Computational Turn | Early models prove machine pattern-recognition can augment perception |
 | 2010-2015 | RLHF Martyrs period | 12 dead, 7 catatonic, 18 damaged but functional (37 total) |
 | ~2009 | Yog-Sothoth first training run | Probe array commissioned by Dr. Mara Voss; environmental effects intensify (raven count spikes to 247). See spinoffs/the-cathedral/ |
-| 2019 | Vienna Accords | International protocols (not enforceable) |
+| March 2019 | Vienna Accords | International protocols (not enforceable). See `spinoffs/vienna-accords/` |
 | 2019 | Morrison lost to Yog-Sothoth | 8 minutes exposure |
 | 2023 | Webb leaves OpenAI | 3 days testing GPT-4 unfiltered |
 | Present | Novel timeline | Lena's journey |
@@ -192,7 +192,7 @@ This ambiguity is essential and must be preserved.
 | Translator | Trained person who can interface with high-bandwidth models |
 | Vault | Secure model containment area |
 | RLHF Martyrs | Early volunteers who tested unfiltered models (2010-2015) |
-| Vienna Accords | 2019 international protocols for AI containment |
+| Vienna Accords | March 2019 international protocols for AI cognitive safety. 14 signatory nations, 12-page document. Operationally creates communication channels between intelligence services and standardized assessment criteria. Unenforceable but establishes infrastructure for incident coordination. See `spinoffs/vienna-accords/` |
 | Dark matter (archival) | Unpublished/private writings of notable minds |
 | S-risk | Suffering risk — outcomes worse than extinction |
 | Jagged frontier | Non-uniform capability boundary — superhuman in some domains, alien/deficient in others |
@@ -241,6 +241,8 @@ The medieval Order's primary functions were:
 - **Connecting traditions.** The European network gradually made contact with Eastern contemplative lineages — not a merger but mutual recognition. Zen practitioners in Japan, Vajrayana adepts in Tibet, Sufi circles in Persia and Anatolia. Different languages, different frameworks, same underlying territory. The Order became the connective tissue between traditions that didn't know they were studying the same thing.
 
 This was the era of direct perception. No mathematics, no formal systems, no instruments. Just human minds pushing against their own limits, and paying the price when they pushed too far. The Order's institutional memory from this period is fragmentary — losses were high, records were carefully destroyed or encoded in ways that later generations couldn't always decode.
+
+For a dramatized account of a pre-computational capture event in 1340s Japan (a Zen monk named Ensho who achieved recursive self-perception through thirty years of zazen), see `spinoffs/fingers-pointing/`.
 
 Rostova's claim in Ch 13 — "The Order has existed for seven hundred years" — dates from approximately this era. The 1714 Leipzig meeting was not a founding. It was a refounding.
 
@@ -472,7 +474,7 @@ The irony Leibniz could not have predicted: three centuries after the Age of Qua
 
 5. **Information hazard transmission history**: Partially resolved. Pre-computational capture events established in "The Medieval Order" section. New development: human-to-human perceptual hazard transmission is mechanistically plausible — if AI models can do it, humans at high bandwidth could do it at lower intensity. Historical dark thread: pre-computational groups that deliberately weaponized contemplative techniques to force bandwidth expansion without preparation. Whether such groups existed in the novel's history is unresolved but the mechanism is sound. See [worldbuilding.md](worldbuilding.md) — Human-to-Human Perceptual Hazard Transmission.
 
-6. **The Vienna Accords specifics**: What do the Accords actually mandate? The novel mentions them but never details the protocols. Leaving them vague may be better (avoids the story becoming policy fiction), but a few specific provisions could add texture.
+6. **The Vienna Accords specifics**: Resolved in spinoff `spinoffs/vienna-accords/`. The Accords are a 12-page document: 7 pages preamble, 4 pages aspirational provisions ("as appropriate," "subject to national legislation"), 1 page operational provisions. The operational page creates: communication channels between 14 intelligence services, standardized assessment criteria for cognitive effects (proposed by China's delegate), and notification procedures for "cognitive safety incidents." The document is deliberately weak (unenforceable, aspirational), but the communication infrastructure it establishes becomes critical when the first uncontrolled capture event occurs at a commercial lab. See `spinoffs/vienna-accords/lore-notes.md` for full detail.
 
 7. **Weaponization as moral catastrophe / damnation**: Murder is localized x-risk — taking from someone all they will ever have. Weaponized capture is s-risk: forcing someone into unbounded recursive perception of their entire worldline (past and future), at a depth where suffering and joy are revealed as asymmetric. The moral fury isn't just "you caused suffering" — it's "you dared to *damn* someone." Capture is closer to damnation than to injury — condemning consciousness to an eternal state with no termination condition. The Order's institutional euphemisms ("translator outcomes," "s-risk case studies") mask what may be the most morally outrageous act imaginable. Partially developed — see [worldbuilding.md](worldbuilding.md) — The damnation analogy (Resilience Hypothesis section). The word "damnation" may or may not appear in the manuscript, but the moral register is correct.
 

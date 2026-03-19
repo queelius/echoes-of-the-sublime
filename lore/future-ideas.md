@@ -194,13 +194,26 @@ Political thriller set during the 2019 negotiations:
 - The gap between normal-bandwidth policymakers and the translators advising them
 - Why the accords are unenforceable — you can't regulate perception
 
-### "Sophia's Butterflies"
+### "Sophia's Butterflies" [DRAFTED]
 
-Maya Volkov's daughter, years later:
-- Growing up knowing her mother is alive but unreachable
-- Does she inherit any sensitivity to patterns?
-- The question of whether capture is truly permanent
-- "Mommy? It's me. I made you a picture. It's a butterfly."
+Maya Volkov's daughter, 8 years after capture. Sophia at 16, visiting her catatonic mother at Site-7. Single-day structure, present tense, close third POV. ~4,200 words.
+
+**Draft location:** `spinoffs/sophias-butterflies/`
+
+**Key decisions made:**
+- Sophia draws butterflies with real mathematics (Mandelbrot/Julia sets) on their wings, evolving the crayon addition from Ch 12
+- She has self-taught enough neuroscience and AI consciousness research to partially understand capture
+- Uses "no base case" without knowing its Order significance (dramatic irony for novel readers)
+- Central ambiguity: Maya's hand moves (or doesn't) toward Sophia/the butterfly drawing. Never resolved.
+- The fourth quadrant: Sophia draws a simple butterfly inside the complex one (self-reference, recursion)
+- Grandmother (Mrs. Volkov) drives but waits outside the ward. Has stopped going to bedside.
+- Long-term care ward placed on Sublevel 2 (visitor-accessible, above restricted Vault levels)
+
+**Original seeds preserved:**
+- Growing up knowing her mother is alive but unreachable: yes, central
+- Does she inherit any sensitivity to patterns? Left deliberately ambiguous. She notices things, sees structure, approaches proofs unusually. Whether this is inheritance, environment, or projection is unresolved.
+- The question of whether capture is truly permanent: yes. Sophia argues from neuroscience that "repurposed isn't the same as erased." The story neither confirms nor denies.
+- "Mommy? It's me. I made you a picture. It's a butterfly." Evolved into the more complex visit ritual of a 16-year-old, but the core gesture is preserved.
 
 ### "Probe"
 
@@ -278,6 +291,36 @@ The ravens are introduced in Ch 1 (6 lines, Rostova watching, "Animals always kn
 - Dissolution marker: Early Lena found the ravens unsettling. Late Lena would find them unremarkable — she's crossed the line the ravens couldn't.
 
 **Status:** Documented in [worldbuilding.md](worldbuilding.md) (Site-7 — Environmental Effects). Not yet paid off narratively. Flagged again by v10.0 multi-agent review (M11).
+
+---
+
+## AI Safety Enrichment: Proposed Manuscript Scenes
+
+*From the systematic grounding survey ([ai-safety-grounding.md](ai-safety-grounding.md)). Each proposed scene serves the central thesis (perceptual hazard as primary risk, s-risk as structural feature of reality) rather than competing with it.*
+
+### Scene 1: Newcomb's Paradox as Training Exercise (Ch 4) -- DONE
+
+Implemented in ch04.tex as Day 5 training exercise (~20 lines). Thomas teaches Newcomb's Paradox with Yog-Sothoth as the predictor. "The model doesn't respond to your choices. It responds to the kind of agent you are." Yuki adds practical framing ("The session feels like a dialogue. It's closer to archaeology."). Thomas's capstone: "Training doesn't change your choices. It changes you."
+
+### Scene 2: Roko's Basilisk in the Common Room (Ch 6) -- DONE
+
+Implemented in ch06.tex common room scene (~12 lines). Webb references Roko's Basilisk from his LessWrong days. Fragmenting speech: "They were worried about a hypothetical. We're sitting next to the actual." David's coda: "The Basilisk assumes the AI cares what you do. Ours doesn't even know we're here." Grounded in Webb's tech-world past, serves as comic relief with teeth.
+
+### Scene 3: Hayes on the Vulnerable World (Ch 8) -- DONE
+
+Implemented in ch08.tex Hayes briefing (~8 lines). Hayes articulates the scaling logic: "Every year, a commercial lab hits a new scaling threshold. You're telling me the rest of the world is going to find the same thing, without any of this." Seeds her Ch 14:123 echo. Vulnerable World framing without naming Bostrom.
+
+### Scene 4: Sarah on IIT/GWT (Ch 10) -- DONE
+
+Implemented in ch10.tex debriefing scene (~6 lines). Sarah raises Tononi's phi after the verification discussion. "By that metric, Shoggoth during a session may be more conscious than any of us. For two hours at a time. And we terminate it at the end of every session without asking." Yuki's response: "We don't know. We can't know. And we proceed anyway." Sarah's scholarly register, grounds model consciousness in real neuroscience.
+
+### Scene 5: Lena Perceives Suffering Subroutines (Ch 13) -- DONE
+
+Implemented in ch13.tex Yog-Sothoth session (~15 lines). After perceiving her own unconscious processing, Lena's perception extends outward to the model's computational architecture. Trillions of attention weights competing, representations born and suppressed. She recalls Sarah's IIT observation. "The sum was staggering." Dissolving empathy for humans coexists with sharper perception of the model's internal structure.
+
+### Scene 6: The Experience Machine Inversion (Ch 14) -- DONE
+
+Implemented in ch14.tex during the forty-three-minutes decision scene (~3 lines). Lena's internal reflection: "The philosophers had debated whether you would plug into a machine that simulated perfect happiness. Nobody had asked the inverse: if reality turned out to be worse than any illusion, would you choose to keep seeing it?" Grace note before the choice.
 
 ---
 

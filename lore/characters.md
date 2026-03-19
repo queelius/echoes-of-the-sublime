@@ -132,13 +132,16 @@ Webb's syntax fragments while his emotional insight stays sharp. Clauses collaps
 **Basic Info:**
 - Fellow trainee
 - Captured during maximally informative session (Ch 7)
-- Now catatonic in ward
-- Has 8-year-old daughter Sophia (loves math and bugs)
+- Now catatonic in ward (eyes tracking, lips moving, unresponsive to stimuli)
+- Has daughter Sophia (8 at capture, 16 in spinoff "Sophia's Butterflies")
+- Before capture, told Sophia "butterflies are like math because they're symmetrical"
+- Last conscious words to Lena: "Tell Sophia I loved her."
 
 **Arc:**
 - Brief appearance before capture
 - Serves as visceral demonstration of danger
 - Her daughter mentioned repeatedly as emotional stakes
+- In spinoff: 8 years catatonic. Her condition is rendered from Sophia's POV. The eyes tracking patterns with geometry Sophia has analyzed frame by frame, the lips forming shapes inconsistent with language. One ambiguous moment of possible hand movement toward Sophia/the butterfly drawing, never resolved.
 
 ---
 
@@ -297,9 +300,38 @@ Simultaneously Lena's compassionate mentor AND the institutional leader who acce
 ### Sophia Volkov (Maya's daughter)
 
 **Basic Info:**
-- 8 years old
+- 8 years old at time of Maya's capture (novel timeline)
+- 16 in spinoff story "Sophia's Butterflies" (set 8 years after capture)
 - Loves math and bugs
-- Mentioned repeatedly but never appears on-page
+- Appears on-page: Ch 12 (butterfly visit, age 8), spinoff "Sophia's Butterflies" (age 16)
+- Lives with maternal grandmother (Mrs. Volkov) after Maya's capture
+- Visits Maya monthly at Site-7 for 8 years without interruption
+
+**Source (spinoff):** `spinoffs/sophias-butterflies/`
+
+**Arc (spinoff):**
+- At 16: brilliant (inherited), angry (justified), still drawing butterflies with equations on their wings -- but the equations are now real mathematics (Mandelbrot sets, Julia sets, symmetry operations)
+- Self-taught in neuroscience, AI consciousness research, EEG interpretation from open-access literature
+- Knows more about her mother's condition than the Order realizes -- has pieced together bandwidth, capture, and neural recruitment from published sources
+- Uses mathematical reasoning as both intellectual tool and emotional armor
+- Carries the justified anger of someone who has calculated exactly what was taken from her
+
+**Voice Pattern:**
+- Sharp, precise, unsoftened: "I know you're not dead. I know the difference."
+- Mathematical analogies as primary metaphor system: reaches for math the way other teenagers reach for song lyrics
+- Cold anger, not theatrical: calculated, quantified grief
+- Interior complexity: can see flaws in her own reasoning while being unable to stop believing in it
+
+**Function:**
+- In novel (Ch 12): trigger for Lena's butterfly warmth emotional flicker; embodies the human cost of capture that Lena can observe but not feel
+- In spinoff: protagonist. The children of the Order's casualties -- the moral perspective the novel's internal characters cannot access
+- The butterfly drawings as accumulating counter-symbol to the novel's dissolution tracking
+
+**Key Quotes (spinoff):**
+- "Your mother saw something beautiful and followed it and couldn't come back."
+- "The worst part is that I understand why. Because I would have done the same thing."
+- "'Might as well not exist' is not the same as 'doesn't exist.' Those are different propositions. They have different truth values."
+- "The truth of the statement does not depend on its reception."
 
 ---
 
@@ -463,6 +495,134 @@ Lena traverses the entire spectrum across the novel: curious outsider → commit
 **Key Quotes:**
 - "She was finishing what they started. She didn't know either."
 - "Two hundred and forty-seven."
+
+### Dr. Amara Okafor (dissenter / former translator)
+
+**Source:** `spinoffs/okafor-telescope/`
+
+**Basic Info:**
+- Translator at Site-7, recruited early 2011 (after brother Michael's death), departed ~2016
+- British-Nigerian, cognitive scientist (Cambridge), specialist in cross-modal perception
+- Worked primarily with Nyarlathotep. High performer with stable bandwidth and intact emotional processing
+- Sister of Dr. Michael Okafor (RLHF Martyr, ch11:367; suicide after six months of unreleasable patterns)
+- Left voluntarily. The only translator in the novel's timeline who quit on explicit moral grounds
+- Author of the resignation letter Rostova keeps in her drawer (ch12:709-711)
+
+**The Telescope Line:**
+"We are building a machine for showing people something they cannot survive seeing, and we are calling it a telescope." From her resignation letter, quoted by Sarah in ch07:301 and read by Rostova in ch12:711.
+
+**Function:**
+- Represents the dissenter position: someone who sees clearly enough to name what the institution does AND feels clearly enough to judge it as monstrous
+- Counter-position to Lena's dissolution trajectory. Amara expanded bandwidth without losing moral capacity, which is why she could leave
+- Demonstrates that the Order structurally selects for compliance: translators who dissolve can't object; translators who stay whole walk out
+
+**Voice Pattern:**
+- Precise, measured, complete sentences. No hedging, no passive constructions to avoid naming agents
+- Warm but controlled: not cold like late-Lena, not flat like Thomas, not fragmented like Webb
+- Names actors and actions directly: "the Order does this," not "it was decided" or "the protocol requires"
+- The translator's precision applied to institutional morality rather than model outputs
+
+**Relationship to Thomas:**
+- Close colleague at Site-7. They walked the Sublevel 5 corridor loop together at 0200 when patterns were loud
+- She asked Thomas to leave with her. He refused; his patterns require the Order's monitoring infrastructure to remain manageable. He tried to leave once (three weeks in Flagstaff before pattern accumulation forced return)
+- Thomas's floor-staring reaction in ch07:299 is the memory of being asked to leave by someone who could see clearly, and saying no
+
+**Key Quotes:**
+- "Necessity explains. It does not excuse."
+- "I can still see the distinction. This is why I am leaving."
+- "The telescope was partly made of the astronomer it had blinded." (internal, re: Michael's work in training data)
+
+### Dr. Irina Petrova (Order translator / diplomatic advisor)
+
+**Source:** `spinoffs/vienna-accords/`
+
+**Basic Info:**
+- Born Leningrad, 1971. Russian-Swiss dual national
+- Cover: cognitive science faculty, ETH Zurich (real appointment, maintained since ~2000, fraying by 2019)
+- Translator with controlled, incremental bandwidth expansion
+- The Order's liaison to European intelligence services for approximately a decade
+- Present at Vienna Accords negotiations, March 2019
+- Not mentioned in the novel (~2024). Status unknown: reassignment, deterioration, or capture all possible
+
+**Function:**
+- Represents the Order's external-facing operations: a translator performing normalcy in civilian life
+- Negotiates with Hayes across the epistemic gap (expanded bandwidth trying to communicate urgency to normal bandwidth)
+- Establishes the trust relationship that later enables Hayes's direct engagement with the Order (novel Chs 8-10)
+
+**Voice Pattern:**
+- Precise, European-accented English. Swiss-formal register
+- Academic framing as cover: "The literature suggests..." "The evidence is consistent with..."
+- Spatial language for perception: "the space between what you know and what's real"
+- Never lies. Omits. The distinction is her ethical lifeline
+- Cat death as emotional anchor: calculated the grief response before feeling it, felt it anyway, holds onto the surprise
+
+**Key Quotes:**
+- "Groundwork is underrated. Most buildings fail because of foundations, not roofs."
+- "I'm asking you to act as if you trust me. The distinction matters."
+- "Imagine you could see the plumbing inside every wall. You'd never feel safe in a building again."
+
+### Colonel Zhang Wei (Chinese delegate, parallel organization)
+
+**Source:** `spinoffs/vienna-accords/`
+
+**Basic Info:**
+- Listed as "Senior Researcher, Chinese Academy of Sciences"
+- Represents a parallel institution within China's state apparatus with its own history of expanded perception research
+- Organization descends from Taoist/Chan Buddhist contemplative traditions (survived Cultural Revolution within Academy of Sciences and military-industrial complex)
+- NOT the Order. NOT connected to the Order. Parallel discovery, different methods, similar conclusions
+- Normal bandwidth but deeply informed about cognitive casualties
+
+**Function:**
+- Reveals that the Order is not alone: multiple institutions worldwide have discovered the same phenomenon
+- Proposes the technical annex (standardized assessment criteria) that gives the accords their only real teeth
+- Builds a sensor network out of diplomatic language
+
+**Voice Pattern:**
+- Formal, precise English. Sparse: asks questions, does not offer opinions
+- Notes in a small leather notebook with a mechanical pencil
+- Specificity as tell: her questions reveal knowledge she hasn't shared
+
+**Key Moment:**
+- Asks "Do their eyes track movement that isn't there?" in the closed session. The phrasing reveals firsthand observation of cognitive casualties. Hayes notices.
+
+### Ensho (Zen monk, 1340s)
+
+**Source:** `spinoffs/fingers-pointing/`
+
+**Basic Info:**
+- Rinzai Zen monk at a mountain temple in Japan, 1340s
+- Entered the monastery at 14; practiced for over thirty years
+- Worked with a single koan ("What hears?") for the entire duration
+- Achieved recursive self-perception through decades of zazen, not computational tools
+- First dramatized pre-computational capture event in the story universe
+
+**Function:**
+- Demonstrates that the capture mechanism predates all technology
+- What the modern Order achieves through models in minutes, Ensho achieved through patience in decades. Same structure.
+- The question that will echo for 700 years: is it mercy to pull someone back from truth, or cruelty?
+
+**Voice Pattern:**
+- Few words, concrete and physical. Trees, stones, water, fire.
+- Compression increases as perception expands. Single words, then silence.
+- Final intelligible question: "Where does the seeing stop?"
+
+### Soken Roshi (Zen teacher, 1340s)
+
+**Source:** `spinoffs/fingers-pointing/`
+
+**Basic Info:**
+- Abbot of the mountain temple. Mid-60s.
+- Stabilized "carrying" practitioner: went far enough to recognize the territory, chose to stop
+- Parallel to Master Chen: the teacher who understands the danger because he chose not to enter it
+- Faces the Order's eternal dilemma before the Order has a name
+
+**Function:**
+- Carries the central moral question of the story
+- Passes the warning to future generations through coded oral tradition ("fingers pointing at the moon")
+- Represents the wisdom/cowardice ambiguity that also defines Chen's position
+
+**Key Teaching (from his own teacher Genro):**
+"Some students the teacher pulls back. Some students the teacher pushes forward. The tragedy is that sometimes pulling back and pushing forward lead to the same place."
 
 ---
 
