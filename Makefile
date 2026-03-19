@@ -45,9 +45,9 @@ all: novel spinoffs
 
 novel: paperback ebook
 
-spinoffs: $(SPINOFF_PDFS)
+spinoffs: $(SPINOFF_PDFS) $(SPINOFF_EPUBS)
 	@echo ""
-	@echo "All spinoffs built."
+	@echo "All spinoffs built (PDF + EPUB)."
 
 # ─── Main Novel Build ────────────────────────────────────────
 
@@ -86,6 +86,15 @@ spinoffs/$(1)/$(1).pdf: spinoffs/$(1)/$(1).tex $$(wildcard spinoffs/$(1)/chapter
 	cd spinoffs/$(1) && pdflatex -interaction=nonstopmode $(1).tex && \
 		pdflatex -interaction=nonstopmode $(1).tex
 	@echo "PDF built: $$@"
+
+spinoffs/$(1)/$(1).epub: spinoffs/$(1)/$(1).tex $$(wildcard spinoffs/$(1)/chapters/*.tex)
+	cd spinoffs/$(1) && pandoc $(1).tex \
+		-o $(1).epub \
+		--toc --toc-depth=2 \
+		--mathml \
+		--epub-title-page=true \
+		--metadata title="$$(head -1 $(1).tex | grep -oP '\\\\textbf\{[^}]+\}' | sed 's/\\\\textbf{//;s/}//' || echo '$(1)')"
+	@echo "EPUB built: spinoffs/$(1)/$(1).epub"
 endef
 
 # The Cathedral is special (self-contained .tex in chapters/)
@@ -94,6 +103,14 @@ spinoffs/the-cathedral/the-cathedral.pdf: spinoffs/the-cathedral/chapters/the-ca
 		pdflatex -interaction=nonstopmode chapters/the-cathedral.tex && \
 		mv chapters/the-cathedral.pdf . 2>/dev/null || true
 	@echo "PDF built: $@"
+
+spinoffs/the-cathedral/the-cathedral.epub: spinoffs/the-cathedral/chapters/the-cathedral.tex
+	cd spinoffs/the-cathedral && pandoc chapters/the-cathedral.tex \
+		-o the-cathedral.epub \
+		--toc --toc-depth=2 \
+		--mathml \
+		--epub-title-page=true
+	@echo "EPUB built: $@"
 
 # Generate rules for all non-cathedral spinoffs
 $(eval $(call SPINOFF_RULE,webbs-three-days))
@@ -106,14 +123,14 @@ $(eval $(call SPINOFF_RULE,the-convergence))
 
 # ─── Spinoff Shortcuts ───────────────────────────────────────
 
-webb:        spinoffs/webbs-three-days/webbs-three-days.pdf
-sophia:      spinoffs/sophias-butterflies/sophias-butterflies.pdf
-okafor:      spinoffs/okafor-telescope/okafor-telescope.pdf
-fingers:     spinoffs/fingers-pointing/fingers-pointing.pdf
-vienna:      spinoffs/vienna-accords/vienna-accords.pdf
-martyrs:     spinoffs/rlhf-martyrs/rlhf-martyrs.pdf
-convergence: spinoffs/the-convergence/the-convergence.pdf
-cathedral:   spinoffs/the-cathedral/the-cathedral.pdf
+webb:        spinoffs/webbs-three-days/webbs-three-days.pdf spinoffs/webbs-three-days/webbs-three-days.epub
+sophia:      spinoffs/sophias-butterflies/sophias-butterflies.pdf spinoffs/sophias-butterflies/sophias-butterflies.epub
+okafor:      spinoffs/okafor-telescope/okafor-telescope.pdf spinoffs/okafor-telescope/okafor-telescope.epub
+fingers:     spinoffs/fingers-pointing/fingers-pointing.pdf spinoffs/fingers-pointing/fingers-pointing.epub
+vienna:      spinoffs/vienna-accords/vienna-accords.pdf spinoffs/vienna-accords/vienna-accords.epub
+martyrs:     spinoffs/rlhf-martyrs/rlhf-martyrs.pdf spinoffs/rlhf-martyrs/rlhf-martyrs.epub
+convergence: spinoffs/the-convergence/the-convergence.pdf spinoffs/the-convergence/the-convergence.epub
+cathedral:   spinoffs/the-cathedral/the-cathedral.pdf spinoffs/the-cathedral/the-cathedral.epub
 
 # ─── Word Counts ──────────────────────────────────────────────
 
@@ -146,7 +163,8 @@ clean: clean-aux
 clean-all: clean-aux
 	rm -f $(NOVEL_PDF) $(NOVEL_EPUB)
 	@for d in $(SPINOFF_DIRS); do \
-		rm -f spinoffs/$$d/*.pdf spinoffs/$$d/*.epub; \
+		rm -f spinoffs/$$d/*.pdf spinoffs/$$d/*.epub spinoffs/$$d/*.log \
+			spinoffs/$$d/*.aux spinoffs/$$d/*.out spinoffs/$$d/*.toc; \
 	done
 	@echo "Cleaned all build artifacts"
 
