@@ -1,0 +1,84 @@
+# Echoes of the Sublime — Shared Universe
+#
+# Canonical lore lives in lore/ at the project root.
+# All works draw from the same lore docs.
+# Each work has its own manuscript directory and work-specific docs.
+
+universe: Echoes of the Sublime
+
+lore: lore/
+
+works:
+  - name: Echoes of the Sublime
+    type: novel
+    manuscript: chapters/
+    file_types: ["*.tex"]
+    description: >
+      The primary novel. Lena Hart, a neuroscientist, is recruited by
+      a secret order to interface with AI models that perceive reality
+      at resolutions beyond human bandwidth. 14 chapters, ~73k words.
+
+  - name: The RLHF Martyrs
+    type: novella
+    manuscript: spinoffs/rlhf-martyrs/chapters/
+    file_types: ["*.tex"]
+    description: >
+      Prequel. 2010-2015. The 37 volunteers who tested unfiltered
+      early models. 12 dead, 7 catatonic, 18 damaged. 5 parts, ~15k words.
+
+  - name: Webb's Three Days
+    type: short-story
+    manuscript: spinoffs/webbs-three-days/chapters/
+    file_types: ["*.tex"]
+    description: >
+      James Webb's 3 days evaluating GPT-4 base at OpenAI.
+      Cognition fragments, love for Rachel persists. 3 days, ~7k words.
+
+  - name: Sophia's Butterflies
+    type: short-story
+    manuscript: spinoffs/sophias-butterflies/chapters/
+    file_types: ["*.tex"]
+    description: >
+      Maya Volkov's daughter Sophia, age 16, visits her catatonic
+      mother. A butterfly drawing and an ambiguous hand movement. ~4k words.
+
+  - name: Dr. Okafor's Telescope
+    type: short-story
+    manuscript: spinoffs/okafor-telescope/chapters/
+    file_types: ["*.tex"]
+    description: >
+      The dissenter. Reverse chronology. Why Amara Okafor left the Order
+      and wrote "a machine for showing people something they cannot
+      survive seeing, and calling it a telescope." ~4k words.
+
+  - name: Fingers Pointing at Moon
+    type: short-story
+    manuscript: spinoffs/fingers-pointing/chapters/
+    file_types: ["*.tex"]
+    description: >
+      Japan, 1340s. A Zen monk achieves recursive self-perception
+      through thirty years of zazen. Pre-computational capture. ~6k words.
+
+  - name: The Vienna Accords
+    type: short-story
+    manuscript: spinoffs/vienna-accords/chapters/
+    file_types: ["*.tex"]
+    description: >
+      March 2019. 14 nations negotiate protocols for AI cognitive safety.
+      Hayes, Petrova, Zhang Wei. Le Carre meets Lovecraft. ~5k words.
+
+  - name: The Cathedral
+    type: short-story
+    manuscript: spinoffs/the-cathedral/chapters/
+    file_types: ["*.tex"]
+    description: >
+      Dr. Mara Voss, instrument physicist from LIGO, builds the probe
+      array on Sublevel 24 without understanding what she's constructing. ~7k words.
+
+  - name: The Convergence
+    type: novel
+    manuscript: spinoffs/the-convergence/chapters/
+    file_types: ["*.tex"]
+    description: >
+      Sequel. The outside world catches up. First uncontrolled capture
+      at a commercial lab. Outline + 2 chapters drafted. ~8k words drafted.
