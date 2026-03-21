@@ -19,10 +19,10 @@
 \titlespacing*{\chapter}{0pt}{30pt}{20pt}
 
 % Command to suppress \chapter{} inside included files
-% (so stories with their own \chapter don't create duplicate TOC entries)
+% (so stories with their own \chapter don't create duplicate headings)
 \newcommand{\demotechapters}{%
   \let\savedchapter\chapter
-  \renewcommand{\chapter}[1]{\section*{##1}}%
+  \renewcommand{\chapter}[1]{}%
 }
 \newcommand{\restorchapters}{%
   \let\chapter\savedchapter
