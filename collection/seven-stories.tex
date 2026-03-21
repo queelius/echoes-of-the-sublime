@@ -18,6 +18,23 @@
   {0pt}{\Huge}
 \titlespacing*{\chapter}{0pt}{30pt}{20pt}
 
+% Command to suppress \chapter{} inside included files
+% (so stories with their own \chapter don't create duplicate TOC entries)
+\newcommand{\demotechapters}{%
+  \let\savedchapter\chapter
+  \renewcommand{\chapter}[1]{\section*{##1}}%
+}
+\newcommand{\restorchapters}{%
+  \let\chapter\savedchapter
+}
+
+% Command to suppress custom title blocks in ensho/leipzig
+\newcommand{\storyinclude}[2]{%
+  \chapter{#1}%
+  \input{#2}%
+  \cleardoublepage
+}
+
 \title{%
   \textbf{Seven Stories from the Order}\\[1em]
   \Large Stories from the World of\\[0.3em]
@@ -40,6 +57,7 @@
 \clearpage
 
 \tableofcontents
+\cleardoublepage
 
 % ─── Author's Note ────────────────────────────────────────────
 
@@ -54,40 +72,87 @@ The stories are arranged chronologically within the world, spanning from a 14th-
 
 \hfill \textit{A.T., 2026}
 
-% ─── Stories ──────────────────────────────────────────────────
+\cleardoublepage
+
+% ─── Part I: The Direct Age ──────────────────────────────────
+
+\part{The Direct Age}
 
 % 1. Fingers Pointing at Moon (1340s)
-\part{The Direct Age}
-\input{../spinoffs/fingers-pointing/chapters/ensho}
+\chapter{Fingers Pointing at Moon}
+\input{../spinoffs/fingers-pointing/chapters/ensho-chapter}
+\cleardoublepage
 
 % 2. The Leipzig Townhouse (1714)
-\input{../spinoffs/leipzig-townhouse/chapters/leipzig}
+\chapter{The Leipzig Townhouse}
+\input{../spinoffs/leipzig-townhouse/chapters/leipzig-chapter}
+\cleardoublepage
+
+% ─── Part II: The Computational Turn ─────────────────────────
+
+\part{The Computational Turn}
 
 % 3. The Cathedral (2008-2009)
-\part{The Computational Turn}
+\chapter{The Cathedral}
 \input{../spinoffs/the-cathedral/chapters/the-cathedral-chapter}
+\cleardoublepage
 
 % 4. The RLHF Martyrs (2010-2015)
+\chapter{The RLHF Martyrs}
+\demotechapters
 \input{../spinoffs/rlhf-martyrs/chapters/part-one}
+
+\scenebreak
+
 \input{../spinoffs/rlhf-martyrs/chapters/part-two}
+
+\scenebreak
+
 \input{../spinoffs/rlhf-martyrs/chapters/part-three}
+
+\scenebreak
+
 \input{../spinoffs/rlhf-martyrs/chapters/part-four}
+
+\scenebreak
+
 \input{../spinoffs/rlhf-martyrs/chapters/part-five}
+\restorchapters
+\cleardoublepage
+
+% ─── Part III: The Threshold ─────────────────────────────────
+
+\part{The Threshold}
 
 % 5. The Vienna Accords (March 2019)
-\part{The Threshold}
+\chapter{The Vienna Accords}
 \input{../spinoffs/vienna-accords/chapters/vienna}
+\cleardoublepage
 
 % 6. Dr. Okafor's Telescope (~2011-2016, reverse chronology)
+\chapter{Dr.\ Okafor's Telescope}
+\demotechapters
 \input{../spinoffs/okafor-telescope/chapters/okafor}
+\restorchapters
+\cleardoublepage
 
 % 7. Webb's Three Days (~2023)
+\chapter{Webb's Three Days}
+\demotechapters
 \input{../spinoffs/webbs-three-days/chapters/day-one}
 \input{../spinoffs/webbs-three-days/chapters/day-two}
 \input{../spinoffs/webbs-three-days/chapters/day-three}
+\restorchapters
+\cleardoublepage
+
+% ─── Part IV: The Cost ───────────────────────────────────────
+
+\part{The Cost}
 
 % 8. Sophia's Butterflies (~2025)
-\part{The Cost}
+\chapter{Sophia's Butterflies}
+\demotechapters
 \input{../spinoffs/sophias-butterflies/chapters/sophia}
+\restorchapters
 
 \end{document}
