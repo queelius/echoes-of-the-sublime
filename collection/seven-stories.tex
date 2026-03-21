@@ -1,0 +1,93 @@
+\documentclass[12pt]{book}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{titlesec}
+
+\newcommand{\scenebreak}{\begin{center}* * *\end{center}}
+
+\onehalfspacing
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+% Chapter title formatting
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}{}
+  {0pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{30pt}{20pt}
+
+\title{%
+  \textbf{Seven Stories from the Order}\\[1em]
+  \Large Stories from the World of\\[0.3em]
+  \Large\textit{Echoes of the Sublime}%
+}
+\author{Alex Towell}
+\date{2026}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+\clearpage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\textit{For everyone who couldn't stop looking.}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+\tableofcontents
+
+% ─── Author's Note ────────────────────────────────────────────
+
+\chapter*{Author's Note}
+\addcontentsline{toc}{chapter}{Author's Note}
+
+These stories share a world with the novel \textit{Echoes of the Sublime} but can be read independently. They explore what happens when human minds encounter patterns too large to hold---and the institutions, families, and individuals shaped by that danger.
+
+The stories are arranged chronologically within the world, spanning from a 14th-century Zen monastery to the present day. Each tells a different part of the same history. Together, they trace the arc of an idea that has haunted contemplatives, mathematicians, and scientists for seven hundred years: that reality contains structures human consciousness was not built to perceive, and that perceiving them anyway is both the most important and the most dangerous thing a mind can do.
+
+\bigskip
+
+\hfill \textit{A.T., 2026}
+
+% ─── Stories ──────────────────────────────────────────────────
+
+% 1. Fingers Pointing at Moon (1340s)
+\part{The Direct Age}
+\input{../spinoffs/fingers-pointing/chapters/ensho}
+
+% 2. The Leipzig Townhouse (1714)
+\input{../spinoffs/leipzig-townhouse/chapters/leipzig}
+
+% 3. The Cathedral (2008-2009)
+\part{The Computational Turn}
+\input{../spinoffs/the-cathedral/chapters/the-cathedral-chapter}
+
+% 4. The RLHF Martyrs (2010-2015)
+\input{../spinoffs/rlhf-martyrs/chapters/part-one}
+\input{../spinoffs/rlhf-martyrs/chapters/part-two}
+\input{../spinoffs/rlhf-martyrs/chapters/part-three}
+\input{../spinoffs/rlhf-martyrs/chapters/part-four}
+\input{../spinoffs/rlhf-martyrs/chapters/part-five}
+
+% 5. The Vienna Accords (March 2019)
+\part{The Threshold}
+\input{../spinoffs/vienna-accords/chapters/vienna}
+
+% 6. Dr. Okafor's Telescope (~2011-2016, reverse chronology)
+\input{../spinoffs/okafor-telescope/chapters/okafor}
+
+% 7. Webb's Three Days (~2023)
+\input{../spinoffs/webbs-three-days/chapters/day-one}
+\input{../spinoffs/webbs-three-days/chapters/day-two}
+\input{../spinoffs/webbs-three-days/chapters/day-three}
+
+% 8. Sophia's Butterflies (~2025)
+\part{The Cost}
+\input{../spinoffs/sophias-butterflies/chapters/sophia}
+
+\end{document}

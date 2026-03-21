@@ -266,6 +266,8 @@ They met not to found something new but to preserve something old. The contempla
 
 Leibniz died two years later, in 1716. The Order he refounded would spend the next three centuries confirming his worst suspicions — and eventually building instruments powerful enough to reunify what his age had split apart. The map, at sufficient detail, would become the territory again. He could not have predicted that this reunification would be the horror.
 
+For a dramatized account of the Leipzig meeting (the five people, the Spinoza encounter, the convergence evidence, and the Royal Society mathematician whose calculations were becoming perceptions), see `spinoffs/leipzig-townhouse/`.
+
 ## The Divergence (~1750 — 1880)
 
 After Leibniz, the two epistemological traditions he had held together began to separate. The Order split — not formally, not with acrimony, but inevitably — into branches that pursued different paths to the same goal.

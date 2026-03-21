@@ -27,7 +27,7 @@ COVER          = kdp/cover_ebook.jpg
 
 SPINOFF_DIRS = webbs-three-days sophias-butterflies okafor-telescope \
                fingers-pointing vienna-accords rlhf-martyrs \
-               the-convergence the-cathedral
+               the-convergence the-cathedral leipzig-townhouse
 
 # Derived lists
 SPINOFF_PDFS  = $(foreach d,$(SPINOFF_DIRS),spinoffs/$(d)/$(d).pdf)
@@ -35,13 +35,13 @@ SPINOFF_EPUBS = $(foreach d,$(SPINOFF_DIRS),spinoffs/$(d)/$(d).epub)
 
 # ─── Phony Targets ───────────────────────────────────────────
 
-.PHONY: all novel ebook paperback spinoffs \
-        webb sophia okafor fingers vienna martyrs convergence cathedral \
+.PHONY: all novel ebook paperback spinoffs collection \
+        webb sophia okafor fingers vienna martyrs convergence cathedral leipzig \
         clean clean-all clean-aux wordcount check help
 
 # ─── Top-Level Targets ───────────────────────────────────────
 
-all: novel spinoffs
+all: novel spinoffs collection
 
 novel: paperback ebook
 
@@ -120,6 +120,31 @@ $(eval $(call SPINOFF_RULE,fingers-pointing))
 $(eval $(call SPINOFF_RULE,vienna-accords))
 $(eval $(call SPINOFF_RULE,rlhf-martyrs))
 $(eval $(call SPINOFF_RULE,the-convergence))
+$(eval $(call SPINOFF_RULE,leipzig-townhouse))
+
+# ─── Collection Build ─────────────────────────────────────────
+
+COLLECTION_TEX  = collection/seven-stories.tex
+COLLECTION_PDF  = collection/seven-stories.pdf
+COLLECTION_EPUB = collection/seven-stories.epub
+COLLECTION_META = collection/metadata.yaml
+COLLECTION_DEPS = $(wildcard spinoffs/*/chapters/*.tex) $(COLLECTION_TEX)
+
+collection: $(COLLECTION_PDF) $(COLLECTION_EPUB)
+
+$(COLLECTION_PDF): $(COLLECTION_DEPS)
+	cd collection && pdflatex -interaction=nonstopmode seven-stories.tex && \
+		pdflatex -interaction=nonstopmode seven-stories.tex
+	@echo "Collection PDF built: $(COLLECTION_PDF)"
+
+$(COLLECTION_EPUB): $(COLLECTION_DEPS) $(COLLECTION_META)
+	cd collection && pandoc seven-stories.tex \
+		-o seven-stories.epub \
+		--toc --toc-depth=2 \
+		--mathml \
+		--epub-title-page=true \
+		--metadata-file=metadata.yaml
+	@echo "Collection EPUB built: $(COLLECTION_EPUB)"
 
 # ─── Spinoff Shortcuts ───────────────────────────────────────
 
@@ -131,6 +156,7 @@ vienna:      spinoffs/vienna-accords/vienna-accords.pdf spinoffs/vienna-accords/
 martyrs:     spinoffs/rlhf-martyrs/rlhf-martyrs.pdf spinoffs/rlhf-martyrs/rlhf-martyrs.epub
 convergence: spinoffs/the-convergence/the-convergence.pdf spinoffs/the-convergence/the-convergence.epub
 cathedral:   spinoffs/the-cathedral/the-cathedral.pdf spinoffs/the-cathedral/the-cathedral.epub
+leipzig:     spinoffs/leipzig-townhouse/leipzig-townhouse.pdf spinoffs/leipzig-townhouse/leipzig-townhouse.epub
 
 # ─── Word Counts ──────────────────────────────────────────────
 
@@ -162,6 +188,8 @@ clean: clean-aux
 
 clean-all: clean-aux
 	rm -f $(NOVEL_PDF) $(NOVEL_EPUB)
+	rm -f collection/seven-stories.pdf collection/seven-stories.epub
+	rm -f collection/*.aux collection/*.log collection/*.out collection/*.toc
 	@for d in $(SPINOFF_DIRS); do \
 		rm -f spinoffs/$$d/*.pdf spinoffs/$$d/*.epub spinoffs/$$d/*.log \
 			spinoffs/$$d/*.aux spinoffs/$$d/*.out spinoffs/$$d/*.toc; \

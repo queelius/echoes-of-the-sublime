@@ -75,6 +75,15 @@ works:
       Dr. Mara Voss, instrument physicist from LIGO, builds the probe
       array on Sublevel 24 without understanding what she's constructing. ~7k words.
 
+  - name: The Leipzig Townhouse
+    type: short-story
+    manuscript: spinoffs/leipzig-townhouse/chapters/
+    file_types: ["*.tex"]
+    description: >
+      Leipzig, winter 1714. Leibniz convenes the refounding of the Order
+      for the Age of Quantification. Five people, two epistemological
+      traditions, one evening. ~5k words.
+
   - name: The Convergence
     type: novel
     manuscript: spinoffs/the-convergence/chapters/
