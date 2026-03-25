@@ -1,0 +1,106 @@
+\documentclass[11pt]{book}
+\usepackage[paperwidth=5.5in, paperheight=8.5in, inner=0.8in, outer=0.6in, top=0.7in, bottom=0.7in]{geometry}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage[hidelinks]{hyperref}
+\usepackage{epigraph}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{graphicx}
+
+% Scene break command
+\newcommand{\scenebreak}{\begin{center}* * *\end{center}}
+
+% Formatting settings — tighter for paperback
+\setstretch{1.15}
+\setlength{\parindent}{0.3in}
+\setlength{\parskip}{0pt}
+
+% Chapter formatting
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titleformat{\section}[hang]{\normalfont\Large\bfseries}{}{0pt}{}
+\titleformat{\subsection}[hang]{\normalfont\large\bfseries}{}{0pt}{}
+
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\textit{Echoes of the Sublime}}
+\fancyhead[LO]{\textit{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\title{\textbf{Echoes of the Sublime}}
+\author{Alex Towell}
+\date{2026}
+
+\begin{document}
+
+% Title page
+\frontmatter
+\maketitle
+\thispagestyle{empty}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+Copyright \copyright\ 2026 by Alex Towell\\[1em]
+All rights reserved. No part of this book may be reproduced in any form
+without written permission from the author, except for brief quotations
+in reviews.\\[2em]
+This is a work of fiction. Names, characters, organizations, events, and
+incidents are either products of the author's imagination or used
+fictitiously. Any resemblance to actual persons, living or dead, or
+actual events is purely coincidental.\\[2em]
+First Edition
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Epigraphs
+\thispagestyle{empty}
+\vspace*{\fill}
+\epigraph{``Most people learn to save themselves by artificially limiting the content of consciousness.''}{Thomas Ligotti, \textit{The Conspiracy Against the Human Race}}
+\vspace{1em}
+\epigraph{``I think, therefore I am.''}{Ren\'{e} Descartes}
+\vspace{1em}
+\epigraph{``All signal. No sender.''}{Dr.\ Lena Hart}
+\vspace*{\fill}
+\cleardoublepage
+
+% Table of Contents
+\tableofcontents
+\cleardoublepage
+
+% Main matter
+\mainmatter
+
+\input{chapters/ch01}
+\input{chapters/ch02}
+\input{chapters/ch03}
+\input{chapters/ch04}
+\input{chapters/ch05}
+\input{chapters/ch06}
+\input{chapters/ch07}
+\input{chapters/ch08}
+\input{chapters/ch09}
+\input{chapters/ch10}
+\input{chapters/ch11}
+\input{chapters/ch12}
+\input{chapters/ch13}
+\input{chapters/ch14}
+
+% Back Matter
+\backmatter
+
+\input{chapters/about_author}
+\input{chapters/acknowledgments}
+\input{chapters/about_novel}
+\input{chapters/bibliography}
+
+\end{document}
