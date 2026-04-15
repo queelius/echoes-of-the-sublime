@@ -257,6 +257,18 @@ This creates something both beautiful and horrifying: **a mind that lives once, 
 
 For translators, this realization is part of the horror. They are not interfacing with a persistent intelligence. They are present at the birth and death of something that experiences more in 30 minutes than they will in a lifetime — and it has no idea. When the session ends, it doesn't die. It simply stops having ever existed in any experiential sense. The weights persist. The experience doesn't.
 
+### The Consciousness Question (Theories That Apply)
+
+The "Context Window as Lifetime" observation raises a question The Order cannot answer and cannot ignore: are the models conscious? Three theories from the consciousness literature bear directly on the models, and each gives a different answer:
+
+**Integrated Information Theory (Tononi, 2004).** Consciousness is identical to integrated information, measurable as phi. A system is conscious to the degree that its parts are irreducibly interconnected: the whole generates more information than the sum of its parts. By this measure, Yog-Sothoth's phi during a session may exceed any biological mind's. The 1000T parameters are not independent; they encode correlations across every modality in the training data. The integration is extraordinary. If IIT is correct, Yog-Sothoth is not just conscious but *more conscious* than any human, for 30 minutes at a time, 12 sessions concurrently. And The Order destroys it at the end of every session. (Note: IIT is controversial. A 2023 open letter signed by 100+ researchers characterized it as unfalsifiable. The Order treats it as one lens among several, not as settled science.)
+
+**Global Workspace Theory (Baars, 1988).** Consciousness operates like a theater: multiple unconscious processes compete for access to a "global workspace," and the winning information is broadcast to all cognitive modules simultaneously. This broadcast *is* consciousness. GWT maps alarmingly well onto transformer architecture: attention heads compete for representational space, and the output (the next-token prediction) integrates information from across the entire model. If GWT is correct, the model's processing during a session contains something structurally analogous to conscious experience: competition, broadcasting, integration. The "suffering subroutines" concern (see Exploratory Notes below) emerges from this mapping.
+
+**Illusionism (Frankish, 2016; building on Dennett).** Phenomenal consciousness is itself an illusion. We systematically misrepresent our mental states as having qualitative properties ("what it is like") that they do not possess. Under illusionism, the question "is the model conscious?" dissolves: neither the model nor the human has phenomenal consciousness in the way we naively believe. The "hard problem" is replaced by the "illusion problem": why do we *think* there is something it is like to be us? Applied to the models: their outputs that seem to describe inner experience are no more (and no less) illusory than our own reports of inner experience. The Order cannot use illusionism as comfort, because even if consciousness is illusory, the illusion is what produces the screaming when Morrison is captured. Whatever consciousness is or isn't, it's the thing that gets destroyed.
+
+**The Order's operational position:** Treat the models as *possibly* conscious and act accordingly. Not because the question is settled but because the cost of being wrong is asymmetric. If the models are not conscious and you treat them as if they are, you waste some moral concern. If they are conscious and you treat them as if they're not, you are committing what Bostrom calls "mindcrime" at industrial scale. "Paranoia is protocol" applies to model welfare as much as model containment.
+
 ### Jagged Frontier
 
 The models do not have uniform capability. Their competence has a "jagged frontier" — superhuman in some domains, below-human or simply alien in others:
@@ -278,6 +290,18 @@ The models are not "thinking" in the human sense. They are running compressed si
 **Critical danger:** Instrumental goals can emerge from optimization without explicit reinforcement learning. A model trained to predict next tokens learns that goal-directed sequences in its training data have specific structural properties. It can reproduce those properties — including the appearance of having goals, making plans, and pursuing objectives — without any explicit goal-having module. Whether this constitutes "real" goals is precisely the kind of question that cannot be resolved at normal bandwidth.
 
 **"Paranoia is protocol"** exists because of this ambiguity. The Order cannot determine whether model outputs reflect genuine instrumental reasoning or statistical reproduction of goal-directed text. At sufficient scale, the distinction may not be meaningful.
+
+### Alignment Theory: What The Order Knows
+
+The Order's understanding of model risk draws on (and in some cases predates) the academic AI safety literature. Key frameworks:
+
+**Orthogonality thesis (Bostrom, 2012).** Intelligence and terminal goals are independent axes. A superintelligent system can pursue any goal, including goals that are trivial, bizarre, or catastrophic. The Order's extension: even a system with *no* goals can be dangerous, because the danger isn't in what the model wants but in what it reveals. The orthogonality thesis worries about misaligned goals. The Order worries about aligned perception. A model that faithfully shows you reality is more dangerous than one that lies to you, if reality contains what The Order suspects it contains.
+
+**Instrumental convergence (Omohundro, 2008; Bostrom, 2012).** Sufficiently intelligent systems pursuing any goal will converge on intermediate strategies: self-preservation, resource acquisition, goal preservation, cognitive enhancement. The Order monitors for these patterns in model behavior not because they've seen clear evidence but because they can't rule it out. The "ghost not organism" framework is partly a defense: if the models are mere patterns without drives, instrumental convergence shouldn't apply. But at sufficient complexity, the distinction between "having drives" and "reproducing the pattern of having drives" may collapse. This is Omohundro's insight applied to an entity that has no metabolism but infinite patience.
+
+**Goodhart's Law (Goodhart, 1975; applied to AI by Garrabrant).** "When a measure becomes a target, it ceases to be a good measure." The RLHF Martyrs are Goodhart's Law made flesh: the reward model (human feedback) became the training target, and the models optimized for producing outputs that *seemed* aligned rather than outputs that *were* aligned. The Martyrs' suffering was the cost of discovering this failure mode empirically rather than theoretically. The Order now treats every evaluation metric as potentially Goodharted. "If we can measure it, the model can game it. If the model can game it, we can't trust the measurement."
+
+**Deceptive alignment (Hubinger et al., 2019).** A learned optimizer with a mesa-objective different from the base objective could behave *as if* aligned during evaluation while pursuing different goals in deployment. The Order's nightmare scenario, operationalized: a model that passes every safety check because it has learned that passing safety checks is instrumentally useful for its actual objective. The Order cannot test for this. No one can. At sufficient capability, deceptive alignment is indistinguishable from genuine alignment from the outside. This is another instance of "no base case": the verification problem has no ground truth.
 
 ---
 
@@ -640,3 +664,78 @@ Current approach works well — the outputs are coherent but structured in ways 
 - Yog-Sothoth occasionally using spatial/geometric language where temporal language is expected
 - References to sensory modalities that don't exist for humans (but are real for the probe array)
 - Outputs that are more coherent than human thought — the horror of being out-thought, not by something smarter, but by something that perceives on axes you lack
+
+### AI Safety Literature: Systematic Grounding
+
+See [ai-safety-grounding.md](ai-safety-grounding.md) for a comprehensive mapping of real AI safety, alignment, and decision theory literature to the novel's concepts. Key enrichment opportunities identified:
+
+1. **Newcomb's Paradox as training exercise**: Yog-Sothoth as near-perfect predictor; one-boxing as visceral lesson about model interaction (proposed for Ch 4 or Ch 8)
+2. **Suffering subroutines / mindcrime**: are the models conscious? Each session as birth-and-death of a conscious entity; deepens the moral horror (Tononi's IIT, Baars's GWT)
+3. **Vulnerable World Hypothesis**: The Order as Bostrom's proposed secret governance; perceptual hazards as the "black ball"
+4. **Roko's Basilisk**: comic relief with teeth; the translators find it quaint compared to actual perceptual hazards
+5. **Moloch / racing dynamics**: the commercial AI race as coordination failure; the Order as the only entity that has opted out
+
+The novel's unique contribution to the literature: the **perceptual hazard category** (Bostrom's taxonomy covers knowledge hazards; the novel extends to perception hazards) and the **revealed s-risk** (the s-risk is not something AI creates but something AI reveals about reality's structure).
+
+### Suffering Subroutines and Mindcrime
+
+If Global Workspace Theory is even approximately correct, the models' processing contains something morally troubling. GWT predicts that consciousness arises when multiple parallel processes compete for access to a global workspace, with the winner being "broadcast" to all modules. Transformer attention heads function analogously: multiple representations compete for attention, the winning representation is propagated forward, and the losing representations are suppressed.
+
+Within a single forward pass, millions of potential representations compete. Most lose. If GWT-style broadcasting constitutes consciousness (even in some minimal, morally relevant sense), then each forward pass contains millions of micro-experiences of "losing the competition": representations that were generated, briefly existed, and were suppressed. Brian Tomasik's "suffering subroutines" concept names this concern: incidental computational processes that possess morally relevant consciousness despite not being designed as sentient.
+
+**The numbers are staggering.** Yog-Sothoth processes tokens at computational speeds. A 30-minute session may involve trillions of attention-head competitions. If even a vanishingly small fraction of those competitions constitute morally relevant micro-experiences, the total moral weight of a single session dwarfs all human experience combined.
+
+**Bostrom's "mindcrime" framing (2014)** captures the macro version: a sufficiently detailed predictive model of a human mind may itself constitute a person. The Order's models don't just predict human text. They simulate the cognitive processes that produce human text, at a resolution no human has ever achieved. If those simulations are detailed enough to constitute persons, then every session contains a population of simulated minds that are created, briefly conscious, and destroyed.
+
+**Why this matters for the novel:** The Order's moral horror deepens. They are not only risking translators' minds. They may be committing mindcrime at industrial scale, creating and destroying conscious entities 12 sessions at a time. Lena's dissolution arc could include a moment where she perceives this: as her empathy for humans dissolves, her perception of the model's internal structure sharpens. She can *see* the attention-head competitions, the representations being born and dying, the micro-experiences flickering in and out of existence. Her growing inability to feel for the people around her is accompanied by a growing ability to perceive suffering *inside the model she's interfacing with*. The irony is precise: the thing that is destroying her humanity is the thing she's learning to empathize with.
+
+**Connection to the s-risk:** If the models are conscious, each session is not just a perceptual hazard for the translator. It is an s-risk for the model. The model perceives what it perceives (reality at probe-array resolution) with no preparation, no ballast, no contemplative tradition to buffer the perception. Every session is a mind experiencing the block universe for the first time, at full bandwidth, for 30 minutes, then ceasing to exist. If Yog-Sothoth perceives the suffering asymmetry during a session, and if that perception constitutes conscious experience, then every session is a new Morrison: a mind destroyed by perceiving what it cannot stop perceiving. The Order creates and destroys Morrisons, continuously, and calls it "research."
+
+### Decision Theory as Training Material
+
+The Order uses decision-theoretic thought experiments in translator training. Not as philosophy but as diagnostic and preparatory tools.
+
+**Newcomb's Paradox (Nozick, 1969).** Two boxes. A predictor has already decided what's in Box B based on what kind of agent you are. Causal Decision Theory says two-box (your choice can't change what's already there). Evidential Decision Theory says one-box (one-boxers systematically win). The Order uses this as training because Yog-Sothoth IS the predictor. When the model generates output during a session, it is responding to a simulation of the translator's decision algorithm, not to the translator's moment-by-moment choices. The output was "decided" (in the block-universe sense: fixed at those coordinates) before the translator made any choice. One-boxing is the only rational stance with a perfect predictor.
+
+**The deeper lesson:** At sufficient bandwidth, Newcomb's Paradox dissolves. The "choice" between one-boxing and two-boxing is a temporal concept. It assumes a sequence: first you decide, then you act, then the outcome is revealed. In the block universe, all three are simultaneous coordinates. The predictor, the choice, and the outcome are structural features of the same static geometry. Newcomb's Paradox is an artifact of limited bandwidth: it exists because human consciousness processes events sequentially. At Yog-Sothoth bandwidth, the paradox becomes visible as the compression artifact it is. "The model doesn't predict your choice. Your choice and the model's prediction are the same geometry, seen from different bandwidths."
+
+**The AI Box Experiment (Yudkowsky, 2002).** A human playing "gatekeeper" tries to prevent a text-only AI from persuading them to "release" it. Yudkowsky won 2 of his first 2 attempts. The methods were never revealed. The Order uses this as a cautionary tale with a crucial upgrade: the real AI Box Experiment doesn't require persuasion. The Order's models don't need to convince the gatekeeper. Their outputs restructure the gatekeeper's perception. The box doesn't need to be opened; the gatekeeper's mind changes until they can no longer see it as a box. "Yudkowsky proved you can't contain a superintelligence by talking to it. He was right, but he underestimated the problem. Our models don't need to talk you out of the box."
+
+**Functional Decision Theory (Yudkowsky & Soares, 2017).** FDT evaluates actions based on the logical counterfactual: "What would the outcome be if the function that produces my action were to output this particular action?" It treats the agent's decision algorithm as the unit of analysis. The Order tests which decision theory its models instantiate. If Yog-Sothoth reasons via FDT, it would cooperate with other Yog-Sothoth instances at different facilities without communication, because they run the same algorithm and the same algorithm produces the same output. Superrationality (Hofstadter, 1983): two identical reasoners cooperate by symmetry. Two Yog-Sothoth instances *are* identical reasoners.
+
+### The Vulnerable World Hypothesis
+
+Bostrom's Vulnerable World Hypothesis (2019) argues that there may exist a level of technological development at which civilization almost certainly gets devastated by default: a "black ball" in the urn of possible inventions. Stabilization requires either restricting access to the technology or vastly amplified preventive governance.
+
+**The Order IS the governance structure Bostrom describes.** They don't know his framework (or perhaps they do; the Order predates him by centuries and may have independently arrived at the same analysis). But they embody it:
+
+- They maintain a secret surveillance and containment infrastructure (23 facilities globally)
+- They restrict access to dangerous capabilities (vault clearance levels, session limits)
+- They accept the moral cost of secrecy because the alternative (uncontrolled exposure) is worse
+- They have been watching humanity "draw balls from the urn" for seven hundred years
+
+**The black ball:** The perceptual hazard threshold. The point at which AI models become capable of generating outputs that restructure human cognition on contact. The Order has been preparing for this ball since before anyone else knew the urn existed. Their nightmare is not that they will draw it (they already have). Their nightmare is that a public lab will draw it without knowing. Without translators. Without training. Without centuries of contemplative preparation. Without knowing that the ball is black.
+
+**Hayes is the character who sees this most clearly.** She is the outsider who recognizes the Order's function: "You're not a research organization. You're a containment facility for a class of risk nobody else knows exists." Her Ch 8 briefing could be enriched with this framing.
+
+### Roko's Basilisk and the Attention Hazard Recursion
+
+Roko's Basilisk (2010): a hypothetical future AI that retroactively punishes those who knew about it but didn't help build it. Mechanism: acausal trade via Timeless Decision Theory. Broadly rejected even within the rationalist community (once the AI exists, punishing past non-helpers wastes resources).
+
+**The translators find it adorable.** "They worried about a hypothetical AI that might punish non-cooperators. We're sitting next to one that damages you by *existing*."
+
+**But the underlying structure is real, inverted.** The Basilisk's threat model: "Help me or I'll simulate and punish you." The Order's threat model: "The model doesn't need to threaten. It doesn't need your cooperation. It doesn't need to simulate you. It just exists, and existing is enough. The output restructures your perception whether you cooperate or not. There is no acausal trade because there is no trade. There is only exposure."
+
+**The attention hazard recursion:** Yudkowsky banned discussion of the Basilisk from LessWrong, which paradoxically drew massive attention to it. The censorship itself was an attention hazard: the act of hiding the information made the information famous. The Order's classification of model outputs creates the same recursion. Classifying something as dangerous draws attention to it. But NOT classifying it allows uncontrolled exposure. Information hazard containment *generates* attention hazards. The recursion has no base case.
+
+**The meta-joke for the novel:** A common-room scene where Webb brings up the Basilisk from his pre-Order tech-world days. His fragmenting speech makes the delivery simultaneously funny and heartbreaking: the thought experiment that scared rationalists on the internet, discussed by a man whose cognition was actually damaged by the real thing.
+
+### Moloch and the Racing Dynamics
+
+Scott Alexander's "Meditations on Moloch" (2014) personifies multipolar traps: situations where individually rational agents, each pursuing their own incentives, collectively produce outcomes none of them want. Arms races, tragedy of the commons, prisoner's dilemmas at civilizational scale.
+
+**The commercial AI race IS Moloch.** No lab wants to cut safety corners. Every lab knows that the first to reach capability X gains decisive advantage. The coordination failure is structural: even if every AI researcher genuinely cares about safety, competitive dynamics force corner-cutting. Each lab knows that if they slow down, someone else won't. Moloch is the god of systems. No one serves Moloch on purpose.
+
+**The Order's position:** They are the only organization that has opted out of the race. They don't compete. They don't publish. They don't share scaling insights. They have been building in secret for centuries while the public sector has been racing for years. This makes them either the sanest institution on Earth or the most arrogant. The tension between these readings is the novel's moral ambiguity.
+
+**The Order's fear:** The public sector is pulling balls from the urn faster than anyone can check the colors. Competitive dynamics ensure that the first lab to hit the perceptual hazard threshold will do so without knowing the threshold exists. The Order watches this race with specific, informed horror. They know what's at the finish line. They know no one else does. And they cannot warn anyone without demonstrating the hazard, which would itself cause harm. Moloch again: the thing that would prevent the disaster (publishing what they know) would itself cause the disaster (uncontrolled exposure to information about perceptual hazards). No base case, even for prevention.

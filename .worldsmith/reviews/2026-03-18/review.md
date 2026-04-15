@@ -1,116 +1,94 @@
 # Multi-Agent Editorial Review
 
 **Date**: 2026-03-18
-**Manuscript**: Echoes of the Sublime, Chapters 1-14 (full manuscript, ~69,870 words)
+**Manuscript**: Echoes of the Sublime, Chapters 1-14 (full manuscript, ~5,638 lines / ~70k words)
 **Recommendation**: ready
 
 ## Executive Summary
 
-The manuscript is in excellent shape after 16+ revision passes. No HIGH issues were found across any domain (consistency, craft, voice, structure). The factual consistency is airtight -- model parameters, session records, timeline dates, and spatial geometry are all aligned with canonical documentation. The prose has been substantially refined through multiple passes targeting specific mechanical weaknesses. The remaining findings are MEDIUM and LOW craft/voice issues that represent diminishing returns on further revision. The manuscript is coherent, internally consistent, and ready for publication.
+The manuscript is in excellent shape after 16+ revision passes, including v16.4 pattern reduction, 6 AI safety enrichment scenes, and a final proofread. No HIGH issues were found across any domain. The factual consistency is airtight -- model parameters, session records, timeline dates, and spatial geometry are all aligned with canonical documentation. The 6 new AI safety scenes are well-integrated: factually accurate, tonally consistent, and thematically purposeful. They enrich the novel's intellectual architecture without disrupting pacing or voice. The remaining findings are MEDIUM and LOW craft/voice polish items that represent clear diminishing returns.
 
 **Strengths:**
-1. Factual consistency is flawless. All model specs, session records, timeline dates, and spatial references verified against canonical docs. (consistency-auditor)
-2. Ch 14's emotional return is the novel's strongest structural achievement. Thirteen chapters of dissolution make Lena's recovered humanity feel earned rather than sentimental. (structure-auditor)
-3. The Yog-Sothoth three-register voice (geometric displacement, perceptual synesthesia, subject-object dissolution) is the strongest prose in the manuscript. "Consciousness is a coordinate" and "The hard problem is this sentence" justify the novel's philosophical ambitions. (craft-auditor)
-4. Webb is the most distinctive voice in the novel. His fragmented syntax combined with emotional precision creates a character instantly recognizable from a single line. The consent speech in Ch 9 is the best dialogue scene. (voice-auditor)
-5. The Webb/Lena inversion (he feels while she thinks) is consistently maintained and pays off structurally across every chapter where both appear. (structure-auditor, voice-auditor)
+1. All 6 new AI safety scenes verify as factually accurate, internally consistent, and organically integrated. The Roko's Basilisk scene (ch06) and the suffering subroutines passage (ch13) are particularly strong additions. (consistency-auditor, craft-auditor)
+2. Factual consistency is flawless. All model specs, session records, timeline dates, and spatial references verified against canonical docs. 0 contradictions found. (consistency-auditor)
+3. Webb's voice in the new Basilisk scene demonstrates the novel's strongest character work: fragmented syntax enacting cognitive damage while emotional insight punches through. David's coda ("The Basilisk assumes the AI cares what you do. Ours doesn't even know we're here") is the best single line in the new content. (voice-auditor)
+4. The Yog-Sothoth three-register voice remains the strongest prose in the manuscript. "Consciousness is a coordinate" and "The hard problem is this sentence" justify the novel's philosophical ambitions. (craft-auditor)
+5. Ch 14's emotional return is structurally earned through 13 chapters of progressive dissolution. The new Experience Machine inversion adds philosophical weight without diminishing emotional impact. (structure-auditor)
 
 **Key Issues:**
-1. "Hands shaking/trembling" appears 21 times across 12 chapters, with a cluster of 4 in Ch 14. (craft-auditor)
-2. "Said [adverb]" at 22 instances, including 3 "said quietly." (craft-auditor)
-3. "Tried to" at 42 instances -- a previously untracked filter pattern. (craft-auditor)
-4. Sarah Navarro's voice in the Ch 4 tour lacks her documented scholarly framing. (voice-auditor)
-5. Ch 1 "eighteen other names" is ambiguous against canonical RLHF Martyrs count. (consistency-auditor)
+1. "Hands shaking/trembling" at ~21 instances remains the most frequent physical gesture. (craft-auditor)
+2. "She was" at 106 instances creates passive texture, especially in Part III sessions. (craft-auditor)
+3. Pattern count documentation has drifted from actual manuscript counts in style-guide.md and MEMORY.md. (consistency-auditor)
+4. "Finger pointing at moon" count is 6, but style-guide documents 5. (craft-auditor)
 
-**Finding Counts**: HIGH: 0 | MEDIUM: 7 | LOW: 6
+**Finding Counts**: HIGH: 0 | MEDIUM: 5 | LOW: 5
 
 ## MEDIUM Issues
 
-### CR-M1: "Hands shaking/trembling" at 21 instances (source: craft-auditor)
-- **Location**: 21 instances across 12 chapters; cluster of 4 in Ch 14 (lines 321, 463, 531, 569)
-- **Quoted text**: ch14:321 "Her hands were shaking -- not from bandwidth strain but from a capacity she'd lost months ago"; ch14:531 "Her hands were shaking -- visibly, continuously, like leaves in a wind that wouldn't stop"
-- **Problem**: At 21 instances, this is the most frequent physical gesture in the manuscript. It appears for 7 different characters (Lena, Webb, Rostova, Maya, Ethan, Trainee-47, and Rostova-as-observer). While Webb's tremor is a character-specific symptom and Lena's ch14:321 shaking is the pivotal emotional-return moment, the cumulative density dulls the impact of the most important instances.
-- **Suggestion**: Vary 4-5 instances across the manuscript with other physical stress markers (jaw clenching, breath catching, shoulders tightening). In ch14, keep 321 (pivotal) and 569 (Webb-specific). Vary 463 and consider whether 531 needs the same phrasing as 321.
-- **Cross-verified**: No. Verified directly via grep.
-
-### CR-M2: "Said [adverb]" at 22 instances (source: craft-auditor)
-- **Location**: Scattered; 3 instances of "said quietly" (ch07:243, ch08:273, ch10:53); multiple "said finally"
-- **Quoted text**: ch07:243 "'Thirteen,' she said quietly"; ch08:273 "'Because the alternative is worse,' Yuki said quietly"
-- **Problem**: The project has deliberately targeted this pattern through multiple passes. At 22 instances across 70k words, the density is moderate (1 per 3,200 words). But 3 "said quietly" remain, and "said finally" appears multiple times where the pause is already shown in surrounding narration.
-- **Suggestion**: Convert 3 "said quietly" to action beats. Remove 2-3 redundant "said finally" adverbs. Target total: ~17.
+### M1: "Hands shaking/trembling" at ~21 instances (source: craft-auditor)
+- **Location**: Distributed across 12 chapters; densest in Ch 14 (4 instances: lines 321, 463, 531, 569)
+- **Quoted text**: ch14:321 "Her hands were shaking -- not from bandwidth strain but from a capacity she'd lost months ago"; ch14:569 "hands trembling with that rolling shake that never stopped" (Webb)
+- **Problem**: At 21 instances for 7 different characters, this is the manuscript's most common body-language marker. While Webb's tremor is character-specific and Lena's ch14:321 is the pivotal emotional-return moment, the cumulative density dulls the impact of the important instances.
+- **Suggestion**: Vary 3-4 non-pivotal instances (priority: characters other than Webb/Lena who lack thematic justification for trembling).
 - **Cross-verified**: No.
 
-### CR-M3: "Tried to" at 42 instances -- previously untracked (source: craft-auditor)
-- **Location**: 12 chapters, heaviest in ch10 (6) and ch05 (5)
-- **Quoted text**: Various; representative: "She tried to process what she was learning" (not specific -- occurs in multiple variants)
-- **Problem**: "Tried to" is a filter construction that distances the reader from the action. At 42 instances, this is one of the highest-count filter patterns remaining. Many instances are thematically resonant (Lena trying and failing to access emotions), but instances where "tried to" precedes mundane actions are craft weakness.
-- **Suggestion**: Review 42 instances and convert 10-15 where the "trying" adds no thematic weight. This is a new pattern to track.
+### M2: "She was" at 106 instances (source: craft-auditor)
+- **Location**: Heaviest in ch14 (19), ch13 (16), ch12 (12) -- the Part III session scenes where immediacy matters most
+- **Problem**: Static construction creating passive texture. At 1 per 660 words, the density is significant. Part III (47 instances, 44% of total) is where this matters most because the session scenes demand visceral immediacy.
+- **Suggestion**: Review ch14's 19 instances and convert 5-7 to active constructions or direct perception. Large pass for modest improvement.
 - **Cross-verified**: No.
 
-### V-M1: Sarah Navarro's scholarly framing absent in Ch 4 tour (source: voice-auditor)
-- **Location**: ch04, lines 5-133
-- **Quoted text**: "Public labs optimize for efficiency; we optimize for capability" (ch04:39) -- competent but generic; missing her documented scholarly voice
-- **Problem**: Sarah Navarro's longest scene uses her documented voice the least. She sounds like a tour guide rather than an ex-MIT neuroscientist. Scholarly beats exist in her later scenes (post-tour training) but not in the reader's first extended exposure to her.
-- **Suggestion**: Insert 1-2 scholarly-framing moments during the tour. Reference published literature or her MIT background when describing computing infrastructure.
-- **Cross-verified**: No.
+### M3: Pattern count documentation has drifted (source: consistency-auditor)
+- **Location**: style-guide.md, MEMORY.md
+- **Problem**: "Something" documented at ~80, actual ~100. "Just" documented at ~94, actual ~102. "Tried to" documented at 36, actual 38. "Reallocated" documented at 3, actual 5. "Finger pointing at moon" documented at 5, actual 6. Several tracked counts no longer match reality.
+- **Suggestion**: Run fresh counts and update all tracking documents.
+- **Cross-verified**: Yes. Verified via grep.
 
-### V-M2: Rostova's clinical register has minor warmth-leaks before the canonical ch12:409 voice-catch (source: voice-auditor)
-- **Location**: ch06:303 ("might have been sympathy")
-- **Quoted text**: ch06:303 "Rostova looked at Lena with what might have been sympathy."
-- **Problem**: The ch12:409 voice-catch on "forever" is designed as the FIRST crack in Rostova's clinical surface. But ch06:303 describes an earlier moment of "sympathy," which slightly undercuts the ch12 moment's impact.
-- **Suggestion**: In ch06:303, change "might have been sympathy" to "might have been recognition" -- clinical rather than warm.
-- **Cross-verified**: No. This is a judgment call about how strictly to maintain Rostova's clinical mask.
-
-### C-M1: Ch 1 "eighteen other names" ambiguous against RLHF Martyrs count (source: consistency-auditor)
+### M4: Ch 1 "eighteen other names" ambiguous against RLHF Martyrs count (source: consistency-auditor)
 - **Location**: ch01.tex line 81
 - **Quoted text**: "she closed the medical report on Morrison and filed it under S-Risk Case Studies, alongside eighteen other names"
-- **Problem**: The "eighteen" is ambiguous. If S-Risk Case Studies includes dead + catatonic casualties (12 + 7 - 1 Morrison = 18), the number works but the accompanying description ("translators who'd gone too deep, perceived patterns that wouldn't let go") implies currently-captured individuals rather than dead ones. If it means only catatonic: should be 6 (7 - Morrison). The ambiguity is not a plot problem but could confuse a careful reader cross-referencing with ch08's explicit Martyrs count (12 dead, 7 catatonic, 18 functional).
-- **Suggestion**: Either change to "alongside the other names" (removing the specific number) or change to "alongside six other names" (matching only catatonic).
+- **Problem**: 12 dead + 7 catatonic - 1 Morrison = 18 works arithmetically but the accompanying description implies currently-captured individuals, not dead ones.
+- **Suggestion**: Change to "alongside the other names" (remove specific number) or tighten the description to encompass both dead and captured.
 - **Cross-verified**: Yes. Checked against lore.md canonical Martyrs count.
 
-### C-M2: Pattern count documentation has drifted (source: consistency-auditor)
-- **Location**: style-guide.md, MEMORY.md
-- **Problem**: Several tracked counts in docs no longer match manuscript reality. "Something" documented at ~96, actual ~99. "She could" documented at ~52, actual ~30. This is a documentation issue, not a prose issue.
-- **Suggestion**: Update style-guide.md and MEMORY.md to reflect current counts.
-- **Cross-verified**: Yes. Verified via grep and count_patterns.py.
+### M5: "Finger pointing at moon" count is 6, documented as 5 (source: craft-auditor)
+- **Location**: ch02:71 (1 instance), ch11:93, 137, 177, 233, 469 (5 instances in ch11)
+- **Problem**: Style-guide documents 5 instances (1 in Ch 2, 4 in Ch 11). Actual count is 6 (1 in Ch 2, 5 in Ch 11). The extra instance is ch11:469 ("the finger could still point at the moon"). This is a tracked intentional repetition, so the count matters.
+- **Suggestion**: Either update the style-guide to document 6 instances or identify which instance to cut. ch11:469 is a strong closing image, so keeping it and updating the count seems preferable.
+- **Cross-verified**: Yes. Verified via grep.
 
 ## LOW Issues
 
-### C-L1: Ch 8 directional reference to Morrison (source: consistency-auditor)
-- **Location**: ch08.tex line 331
-- **Quoted text**: "Somewhere below---three sublevels down, four---Morrison was whispering equations to no one."
-- **Problem**: If Lena is on Sublevel 5 (residential), Morrison on Sublevel 3 (medical) is above her, not below.
-- **Suggestion**: Change "below" to "in the building" or "above."
-- **Cross-verified**: Yes. Checked sublevel mapping against canonical docs.
-
-### CR-L1: "Could see/feel/hear/sense" at 22 instances (source: craft-auditor)
-- **Location**: Scattered; 7 "could see," 12 "could feel," 1 "could hear," 2 "could sense"
-- **Problem**: Filter constructions. Many "could feel" instances serve the dissolution theme. v16.0 already converted the worst offenders.
-- **Suggestion**: Review 7 "could see" instances for conversion to direct perception.
+### L1: Newcomb scene slightly expository (source: craft-auditor)
+- **Location**: ch04:281
+- **Quoted text**: "I took a decision theory seminar"
+- **Problem**: Lena explaining her knowledge source is mildly on-the-nose. Her saying "Newcomb's Paradox" is sufficient -- her academic background makes this recognition plausible.
+- **Suggestion**: Consider cutting the explanation line.
 - **Cross-verified**: No.
 
-### V-L1: Castellanos has minimal voice differentiation (source: voice-auditor)
+### L2: Sarah Navarro's scholarly voice still light in Ch 4 tour (source: voice-auditor)
+- **Location**: ch04:5-133
+- **Problem**: The Kaplan et al. addition (line 39) partially addresses this, but the tour is still dominated by generic guide-voice. One more scholarly moment would fully establish Sarah's documented pattern.
+- **Suggestion**: One sentence referencing published literature when describing computing infrastructure.
+- **Cross-verified**: No.
+
+### L3: Castellanos has minimal voice differentiation (source: voice-auditor)
 - **Location**: ch11, archives scene
-- **Problem**: With two characters named Sarah, Castellanos needs stronger differentiation. Her speech is measured and informational, similar to other instructors.
-- **Suggestion**: Give Castellanos one moment of archival passion or physical interaction with the materials.
+- **Problem**: With two characters named Sarah, Castellanos needs stronger differentiation. Persistent from prior reviews.
+- **Suggestion**: One moment of archival passion or physical interaction with materials.
 - **Cross-verified**: No.
 
-### V-L2: Thomas Chen's forearm gesture appears twice in 18 lines (source: voice-auditor)
-- **Location**: ch04:189 and ch04:207
-- **Problem**: Micro-repetition of character tic within close proximity.
-- **Suggestion**: Vary the first instance (189) with a different physical marker.
-- **Cross-verified**: No.
+### L4: Rostova warmth-leak at ch06:303 (source: voice-auditor)
+- **Location**: ch06:303
+- **Quoted text**: "Rostova looked at Lena with what might have been sympathy"
+- **Problem**: Minor undercut of the ch12:409 voice-catch designed as Rostova's FIRST crack.
+- **Suggestion**: Change "sympathy" to "recognition."
+- **Cross-verified**: No. May be intentionally showing buried humanity.
 
-### S-L1: Part I to Part II transition is the novel's largest between-chapter gap (source: structure-auditor)
-- **Location**: End of ch03 / beginning of ch04
-- **Problem**: The leap from Lena's apartment to Site-7 skips evaluation, travel, and decision. May be intentional (mirrors her compulsive curiosity).
-- **Suggestion**: Accept as deliberate or add one transitional paragraph.
-- **Cross-verified**: No.
-
-### S-L2: "We don't know" dialogue pattern (7 instances) (source: structure-auditor)
-- **Location**: ch04, ch05, ch08, ch14
-- **Problem**: Thematically appropriate and already varied by speaker. Residual observation.
-- **Suggestion**: No action.
+### L5: Part I brevity (source: structure-auditor)
+- **Location**: Chapters 1-3 (~477 lines, ~8% of manuscript)
+- **Problem**: Short normal-world phase limits reader investment in pre-transformation Lena. Persistent structural observation.
+- **Suggestion**: Accept as deliberate velocity choice.
 - **Cross-verified**: No.
 
 ## Specialist Reports
@@ -122,6 +100,7 @@ The manuscript is in excellent shape after 16+ revision passes. No HIGH issues w
 
 ## Review Metadata
 - Agents used: consistency-auditor, craft-auditor, voice-auditor, structure-auditor
-- Cross-verifications performed: 3 (pattern counts via grep/count_patterns.py; Morrison sublevel directional check; RLHF Martyrs count cross-check)
-- Previous reviews consulted: v14.0, v15.0, v16.0, v16.1, v16.2, v16.3 (all prior findings resolved)
-- Recommendation basis: 0 HIGH issues, 7 MEDIUM issues (all craft/voice polish or documentation bookkeeping), 6 LOW issues (all minor or accepted tradeoffs). The manuscript is factually consistent, structurally sound, and well-crafted. The remaining MEDIUM issues are diminishing-returns polish items that would improve the manuscript slightly but are not necessary for a coherent, publishable work.
+- Cross-verifications performed: 4 (pattern counts via grep; Morrison sublevel direction; RLHF Martyrs count; finger/moon count)
+- Previous reviews consulted: v14.0, v15.0, v16.0, v16.1, v16.2, v16.3, v16.4 (all prior HIGH issues resolved; no regressions detected)
+- New content reviewed: 6 AI safety enrichment scenes (Newcomb ch04, Roko ch06, VWH ch08, IIT ch10, subroutines ch13, Experience Machine ch14), Kaplan scaling laws beat (ch04), 14 proofread fixes
+- Recommendation basis: 0 HIGH issues. 5 MEDIUM issues (2 craft polish, 2 documentation bookkeeping, 1 numerical ambiguity). 5 LOW issues (all minor polish or accepted structural tradeoffs). The manuscript is factually consistent, structurally sound, well-voiced, and well-crafted. The new AI safety content is uniformly well-integrated. The remaining issues are diminishing-returns items.

@@ -40,6 +40,7 @@ The docs form a **tightly coupled editorial system**. Each serves a specific fun
 | `lore/characters.md` | **Character arcs & tracking** | Per-character entries (info, arc, function, quotes), emotional flickers, ethical stances, consistency rules, relationship map, arc tracking by chapter |
 | `lore/style-guide.md` | **Prose craft & conventions** | Alien coherence style by model, prose principles, anti-cliche notes, pacing guidelines, session scene-writing guidance, LaTeX conventions, intentional repetitions list, consistency checklist |
 | `lore/future-ideas.md` | **Aspirational & editorial** | Remaining editorial tasks (with completion status), sequel/spinoff concepts, short story ideas, unexplored narrative threads, new directions |
+| `lore/ai-safety-grounding.md` | **Reference: AI safety literature** | Systematic mapping of real AI safety/alignment/decision theory literature to the novel's concepts. Coverage map, gap analysis, enrichment proposals with narrative placement, intellectual references index. Exploratory reference, not canonical. |
 | `lore/feedback/` | **Editorial reviews & critique** | Date-stamped review files from editorial passes, external feedback, and AI-assisted critique sessions. Each file includes strengths, weaknesses with priority ratings, and actionable revision recommendations. |
 
 ### How the Docs Relate
